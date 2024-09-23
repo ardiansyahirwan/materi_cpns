@@ -23,6 +23,8 @@
     - [Materi Pilar Negara](#materi-pilar-negara)
       - [UUD 1945](#uud-1945)
       - [Demokrasi Pancasila](#demokrasi-pancasila)
+      - [NKRI](#nkri)
+      - [Bhinneka Tunggal Ika](#bhinneka-tunggal-ika)
       - [Hubungan Kausal Organis Pancasila dengan UUD 1945](#hubungan-kausal-organis-pancasila-dengan-uud-1945)
     - [Bahasa Negara (\<= 4-5 soal)](#bahasa-negara--4-5-soal)
       - [Kalimat Majemuk](#kalimat-majemuk)
@@ -179,7 +181,8 @@ bertujuan untuk membentuk karakter positif melalui pemahaman dan pengamalan nila
 
 UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.
 
-[gambar](Cheatsheet/uud-1945.jpeg)
+[Cheat Sheet UUD 1945](Cheatsheet/uud-1945.jpeg)
+source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
 #### Demokrasi Pancasila
 
@@ -188,6 +191,19 @@ Prinsip-prinsip Demokrasi Pacasila, adalah :
 - Kedaulatan berasal `dari rakyat oleh rakyat untuk rakyat`
 - Kedaulatan rakyat di wakilkan dalam badan badan wakil rakyat
 - `Keputusan` diambil `dengan musyawarah` untuk `mencapai mufakat`
+
+[Cheat Sheet Nilai Nilai Pancasila](Cheatsheet/pancasila.jpeg)
+source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+
+#### NKRI
+
+[Cheat Sheet NKRI](Cheatsheet/NKRI.jpeg)
+source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+
+#### Bhinneka Tunggal Ika
+
+[Cheat Sheet NKRI](Cheatsheet/bhinneka.jpeg)
+source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
 #### Hubungan Kausal Organis Pancasila dengan UUD 1945
 
