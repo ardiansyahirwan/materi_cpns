@@ -12,6 +12,7 @@
       - [Taktik Pergerakan Nasional Kemerdekaan](#taktik-pergerakan-nasional-kemerdekaan)
       - [Sidang PPKI](#sidang-ppki)
       - [Perubahan kepemerintahan di indonesia](#perubahan-kepemerintahan-di-indonesia)
+    - [Materi Integritas](#materi-integritas)
     - [Materi Bela Negara](#materi-bela-negara)
       - [Pengertian Negara Ditinjau dari segi Negara](#pengertian-negara-ditinjau-dari-segi-negara)
       - [Unsur unsur berdirinya sebuah negara](#unsur-unsur-berdirinya-sebuah-negara)
@@ -22,7 +23,8 @@
     - [Materi Pilar Negara](#materi-pilar-negara)
       - [UUD 1945](#uud-1945)
       - [Demokrasi Pancasila](#demokrasi-pancasila)
-    - [Bahasa Negara](#bahasa-negara)
+      - [Hubungan Kausal Organis Pancasila dengan UUD 1945](#hubungan-kausal-organis-pancasila-dengan-uud-1945)
+    - [Bahasa Negara (\<= 4-5 soal)](#bahasa-negara--4-5-soal)
       - [Kalimat Majemuk](#kalimat-majemuk)
       - [Kalimat Aktif dan Pasif.](#kalimat-aktif-dan-pasif)
       - [Penggunaan Kata Ulang](#penggunaan-kata-ulang)
@@ -46,6 +48,8 @@ Jumlah soal dalam TWK berjumlah 30 Soal, materinya berupa :
 - Tes Pilar Negara
 
 ### Materi Nasionalisme
+
+Tes Nasionalisme bertujuan untuk mewujudkan kepentingan nasional melalui cita-cita dan tujuan yang sama dengan tetap mempertahankan identitas Nasional
 
 #### Masuknya islam di indonesia
 
@@ -102,7 +106,13 @@ Sidang PPKI dilakukan pada tanggal `18 Agustus 1945` hal ini memutuskan :
 
 - `14 November 1945`, kepemerintahan diubah dari `presidensil menjadi demokrasi parlementer`. ini di lakukan untuk menghindari adanya anggapan bahwa pemerintah indonesia pada waktu itu `bersifat diktator`.
 
+### Materi Integritas
+
+Bertujuan untuk mampu menjunjung tinggi kejujuran, ketangguhan, komitmen, dan konsistensi sebagai salah satu sikap untuk mencapai tujuan nasioal
+
 ### Materi Bela Negara
+
+Bertujuan untuk berperan aktif dalam mempertahankan eksistensi bangsa dan negara
 
 #### Pengertian Negara Ditinjau dari segi Negara
 
@@ -163,9 +173,11 @@ ditentukan berdasarkan dua asas yaitu :
 
 ### Materi Pilar Negara
 
+bertujuan untuk membentuk karakter positif melalui pemahaman dan pengamalan nilai nilai dalam pancasila, UUD 1945, NKRI dan Bhinneka Tunggal Ika
+
 #### UUD 1945
 
-UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.
+UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.[UUD 1945]('https://github.com/ardiansyahirwan/materi_cpns/cheatsheet/uud-1945.jpeg)
 
 #### Demokrasi Pancasila
 
@@ -175,7 +187,17 @@ Prinsip-prinsip Demokrasi Pacasila, adalah :
 - Kedaulatan rakyat di wakilkan dalam badan badan wakil rakyat
 - `Keputusan` diambil `dengan musyawarah` untuk `mencapai mufakat`
 
-### Bahasa Negara
+#### Hubungan Kausal Organis Pancasila dengan UUD 1945
+
+`Hubungan Kausal Organis` adalah `hubungan yang menunjukan keterkaitan` yang saling mempengaruhi antar bagian. `Kausal` dapat juga di artikan `sebab akibat`.
+
+Hubungan antara Pancasila dan UUD 1945 adalah :
+
+- 
+
+### Bahasa Negara (<= 4-5 soal)
+
+Bertujuan Untuk mampu menggunakan bahasa indonesia sebagai bahasa persatuan yang kedudukannya sangat penting dalam kehidupan bermasyarakat.
 
 #### Kalimat Majemuk
 
