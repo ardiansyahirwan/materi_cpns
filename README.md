@@ -13,6 +13,9 @@
       - [Sidang PPKI](#sidang-ppki)
       - [Perubahan kepemerintahan di indonesia](#perubahan-kepemerintahan-di-indonesia)
     - [Materi Integritas](#materi-integritas)
+      - [Integritas Inti](#integritas-inti)
+      - [Integritas Etos Kerja](#integritas-etos-kerja)
+      - [Integritas Sikap](#integritas-sikap)
     - [Materi Bela Negara](#materi-bela-negara)
       - [Pengertian Negara Ditinjau dari segi Negara](#pengertian-negara-ditinjau-dari-segi-negara)
       - [Unsur unsur berdirinya sebuah negara](#unsur-unsur-berdirinya-sebuah-negara)
@@ -111,6 +114,24 @@ Sidang PPKI dilakukan pada tanggal `18 Agustus 1945` hal ini memutuskan :
 ### Materi Integritas
 
 Bertujuan untuk mampu menjunjung tinggi kejujuran, ketangguhan, komitmen, dan konsistensi sebagai salah satu sikap untuk mencapai tujuan nasioal
+
+#### Integritas Inti
+
+- `Jujur`, Lurus Hati tidak curang tidak berbohong
+- `Tanggung Jawab`, siap menanggung akibat dari perbuatan yang dilakukan, tidak buang badan
+- `Disiplin`, Sikap Taat peraturan baik yang tertulis maupun yang tidak tertulis
+
+#### Integritas Etos Kerja
+
+- `Mandiri`, Tidak bergantung pada orang lain
+- `Kerja keras`, gigih dan folus dalam mengerjakan sesuatu, tidak asal-asalan
+- `Sederhana`, bersahaja dan tidak berlebih-lebihan
+
+#### Integritas Sikap
+
+- `Berani`, Mantap hati percaya diri, tidak gentar dalam menghadapi bahaya, kesulitan dan sejenisnya
+- `Peduli`, mengindahkan, memperhatikan atau tidak menghiraukan orang lain
+- `Adil`, berlaku sepatutnya tidak sewenang-wenang
 
 ### Materi Bela Negara
 
@@ -211,7 +232,9 @@ source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
 Hubungan antara Pancasila dan UUD 1945 adalah :
 
-- 
+- Pancasila Menjadi pondasi dari UUD 1945
+- Nilai Nilai pancasila menjadi ruh dari setiap pasal UUD 1945
+- UUD 1945 Menjadi implementasi dari Nilai Nilai Pancasila dalam kehidupan bernegara
 
 ### Bahasa Negara (<= 4-5 soal)
 
