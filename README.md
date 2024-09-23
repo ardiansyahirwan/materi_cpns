@@ -1,13 +1,31 @@
-# Materi CPNS 2024
+# Rangkuman Materi CPNS Untuk Belajar
 
-- [Materi CPNS 2024](#materi-cpns-2024)
+- [Rangkuman Materi CPNS Untuk Belajar](#rangkuman-materi-cpns-untuk-belajar)
 - [SKD (Seleksi Kemampuan Dasar)](#skd-seleksi-kemampuan-dasar)
   - [Tes Wawasan Kebangsaan (TWK)](#tes-wawasan-kebangsaan-twk)
+    - [Materi Nasionalisme](#materi-nasionalisme)
+      - [Masuknya islam di indonesia](#masuknya-islam-di-indonesia)
+      - [Kerajaan Islam Pertama di Indonesia](#kerajaan-islam-pertama-di-indonesia)
+      - [Sejarah Tanam Paksa Zaman Belanda di Indonesia](#sejarah-tanam-paksa-zaman-belanda-di-indonesia)
+      - [Kongres Pemuda Indonesia](#kongres-pemuda-indonesia)
+      - [Pergerakan Nasional Sebelum Kemerdekaan](#pergerakan-nasional-sebelum-kemerdekaan)
+      - [Taktik Pergerakan Nasional Kemerdekaan](#taktik-pergerakan-nasional-kemerdekaan)
+      - [Sidang PPKI](#sidang-ppki)
+      - [Perubahan kepemerintahan di indonesia](#perubahan-kepemerintahan-di-indonesia)
     - [Materi Bela Negara](#materi-bela-negara)
       - [Pengertian Negara Ditinjau dari segi Negara](#pengertian-negara-ditinjau-dari-segi-negara)
       - [Unsur unsur berdirinya sebuah negara](#unsur-unsur-berdirinya-sebuah-negara)
+      - [Terbentuk nya sebuah negara](#terbentuk-nya-sebuah-negara)
       - [Pengakuan dalam sebuah negara](#pengakuan-dalam-sebuah-negara)
       - [Wilayah dalam sebuah Negara](#wilayah-dalam-sebuah-negara)
+      - [Status Kewarganegaraan](#status-kewarganegaraan)
+    - [Materi Pilar Negara](#materi-pilar-negara)
+      - [UUD 1945](#uud-1945)
+      - [Demokrasi Pancasila](#demokrasi-pancasila)
+    - [Bahasa Negara](#bahasa-negara)
+      - [Kalimat Majemuk](#kalimat-majemuk)
+      - [Kalimat Aktif dan Pasif.](#kalimat-aktif-dan-pasif)
+      - [Penggunaan Kata Ulang](#penggunaan-kata-ulang)
 
 # SKD (Seleksi Kemampuan Dasar)
 
@@ -25,6 +43,64 @@ Jumlah soal dalam TWK berjumlah 30 Soal, materinya berupa :
 - Tes pemahaman integritas dilakukan untuk menjunjung tinggi kejujuran , ketangguhan
 - Tes bela negara melalui pemahaman nilai-nilai pancasila dan UUD 1945
 - Tes Bahasa Negara
+- Tes Pilar Negara
+
+### Materi Nasionalisme
+
+#### Masuknya islam di indonesia
+
+- `Pada abad ke-7 sampai 8` , hal ini di buktikan dengan kenyataan sejarah bahwa masyarakat nusantara telah `menjalin hubungan dagang` dengan `india cina dan arab(persia)`.
+- `pada abad ke-11` ditemukannya makam `Fatimah binti Maimun`.
+- `Pada abad ke 13` ditemukannya nisan `sultan malik asshaleh` dan `catatan marcopolo`
+
+#### Kerajaan Islam Pertama di Indonesia
+
+Ditemukannya bukti baru berupa naskah tua berbahasa melayu yang membuktikan keadaan perlak, dan bukti peninggalan sejarah mata uang perlak. dan stempel kerajaan dan makam raja benoa.
+
+#### Sejarah Tanam Paksa Zaman Belanda di Indonesia
+
+pada zaman penjajahan ada sistem Tanam Paksa yang di lakukan oleh `Van Den Bosch`. hal ini di lakukan karena pada masa itu `1830` Belanda mengalami `keadaan Ekonomi yang buruk` akibat terjadi nya `pemberontakan dari Belgia` dan `perang dengan diponegoro yang memakan biaya`. Untuk `meningkatkan Kas Negara` maka di buatlah `Sistem Kerja Tanam Paksa`.
+
+#### Kongres Pemuda Indonesia
+
+`Kongres Pemuda Indonesia II` dilakukan di Jakarta pada tanggal `28 Oktober 1928` dan mencapai beberapa keputusan :
+
+- Peleburan Organisai pemuda dengan nama `Indonesia Muda` yang kemudian baru di bentuk pada tahun `1930`.
+- Isi `Sumpah Pemuda`
+
+#### Pergerakan Nasional Sebelum Kemerdekaan
+
+ada dua faktor lahirnya pergerakan nasional :
+
+1. `Faktor Intern`, yang di antaranya yaitu :
+
+   - ` Kondisi sosial, ekonomi dan budaya yang diskriminatif` pada masa belanda
+   - Lahirnya `kaum belajar` sebagai `akibat positif` dari `politik etis`
+
+2. `Faktor Eksternal`, yang di antaranya :
+
+   - `Kemenangan Jepang atas Rusia` tahun 1904-1905
+   - `Pergerakan Nasional` yang terjadi di `turki india dan china`
+
+#### Taktik Pergerakan Nasional Kemerdekaan
+
+Pegerakan Nasional di bagi menjadi `3 waktu` :
+
+- `Masa Awal`, yaitu pada masa `Bung Tomo, Serikat Islam, Indische Party`.
+- `Masa Radikal`, `Tidak` mau `bekerja sama` dengan `Pemerintahan Belanda`, Seperti `PNI, PKI, dan Perhimpunan Indonesia`
+- `Masa Modern`, dengan `bekerja sama` `Pemerintah Hindia Belanda`. seperti `Partai Partindo, GAPI`
+
+#### Sidang PPKI
+
+Sidang PPKI dilakukan pada tanggal `18 Agustus 1945` hal ini memutuskan :
+
+- `Mengesahkan dan Menetapkan UUD 1945` yang telah di persiapkan BPUPKI
+- `Memilih Presiden dan Wakil Presiden Pertama` secara `Aklamasi` atas usul `Otto Iskandar Dinata`.
+- Membentuk Komite Nasional
+
+#### Perubahan kepemerintahan di indonesia
+
+- `14 November 1945`, kepemerintahan diubah dari `presidensil menjadi demokrasi parlementer`. ini di lakukan untuk menghindari adanya anggapan bahwa pemerintah indonesia pada waktu itu `bersifat diktator`.
 
 ### Materi Bela Negara
 
@@ -58,6 +134,14 @@ unsur sebagaimana yang dirumuskan dalam `Konvensi Montevideo 1933` yaitu :
 - kesanggupan berhubungan dengan negara lain
 - pengakuan
 
+#### Terbentuk nya sebuah negara
+
+Terjadinya negara terjadi dalam dua proses, yaitu ; 
+- Melalui `proses pertumbuhan primer dan sekunder`.
+- `Fakta sejarah` salah satunya adalah `melalui sparatis` artinya suatu wilayah `negara memisahkan diri dari negara yang semula menguasainya`, kemudian menyatakan kemerdekaannya. Contoh lain; Timor-timur memisahkan diri dari NKRI pada 
+tahun 1999.
+
+
 #### Pengakuan dalam sebuah negara
 
 pengakuan dari negara lain terhadap negara yang baru di bentuk/berdiri di bagi kedalam beberapa bagian di antaranya :
@@ -69,3 +153,72 @@ pengakuan dari negara lain terhadap negara yang baru di bentuk/berdiri di bagi k
 
 - `Daerah Ekstrateritorial` adalah wilayah tempat berlakunya kekuasaan sebuah negara di luar batas-batas wilayah teritorial negara yang bersangkutan. contoh : `tempat bekerja perwakilan suatu negara.`
 - `Daerah teritorial` dalam wilayah suatu negara merujuk pada wilayah yang berada di bawah kedaulatan penuh negara tersebut. Ini mencakup daratan, perairan, dan ruang udara yang secara sah menjadi bagian dari negara itu. contoh : Laut teritorial(12 mil dari daratan). laut ZEE/Zona Ekonomi Ekslusif (200mil)
+
+#### Status Kewarganegaraan
+
+ditentukan berdasarkan dua asas yaitu :
+
+- `Asas Lus Soli`, berdasarkan wilayah negara dia di lahirkan
+- `Asas Lus Sanguinis`, berdasarkan keturunan nya.
+
+### Materi Pilar Negara
+
+#### UUD 1945
+
+UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.
+
+#### Demokrasi Pancasila
+
+Prinsip-prinsip Demokrasi Pacasila, adalah :
+
+- Kedaulatan berasal `dari rakyat oleh rakyat untuk rakyat`
+- Kedaulatan rakyat di wakilkan dalam badan badan wakil rakyat
+- `Keputusan` diambil `dengan musyawarah` untuk `mencapai mufakat`
+
+### Bahasa Negara
+
+#### Kalimat Majemuk
+
+Kalimat majemuk adalah `gabungan` dari `dua kalimat tunggal(Klausa)` yang setiap klausa nya `memiliki subjek dan predikat`. rumus kalimat majemuk
+
+```text
+kalimat 1 , <Kata penghubung> kalimat 2.
+```
+
+tipe kalimat majemuk :
+- `Majemuk setara`, ciri ciri nya kedua kalimat tunggal memiliki kedudukan yang sama : contoh
+
+```text
+Andi bermain bola , sedangkan budi membaca buku.
+```
+
+- `Majemuk bertingkat`, ada `kalimat utama`, dan ada `kalimat bawahan` biasanya kalimatnya `sebab-akibat `. contoh :
+
+```text
+Karena hujan turun, maka pertandingan bola diundur.
+```
+
+#### Kalimat Aktif dan Pasif.
+
+- `Kalimat Aktif` itu menceritakan `tentang siapa` yang `melakukan` suatu `tindakan` atau `subject` nya, contoh :
+
+```text
+Andi memukul bola
+(dari kalimat ini kita tahu bahwa andi memukul bola)
+```
+
+- `Kalimat Pasif`, itu lebih fokus `tentang apa` yang sedang terjadi tanpa memperdulikan siapa, biasanya lebih terfokus kepada `object`
+
+```text
+Bola di pukul oleh andi
+(dari kalimat ini kita tahu bahwa bola itu dipukul)
+```
+
+#### Penggunaan Kata Ulang
+
+- `Kata Ulang Murni`, biasanya ditulis dengan tanda hubung. contoh : hari-hari anak-anak
+- `Kata Ulang berimbuhan`, tanda hubung dapat digunakan atau tidak tergantung pada konteksnya. contoh : berhari-hari, berlari lari
+
+> pada saat menggunakan `kata ulang` harus sesuai konteks agar tidak berlebihan, contoh ; "semua baju-baju yang sudah dicuci langsung di setrika"
+>
+> pada kalimat di atas kata `semua` tidak harus digunakan, karena pengulangan `baju-baju` sudah `mengisyaratkan banyak`
