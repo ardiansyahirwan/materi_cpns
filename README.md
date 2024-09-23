@@ -177,7 +177,9 @@ bertujuan untuk membentuk karakter positif melalui pemahaman dan pengamalan nila
 
 #### UUD 1945
 
-UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.[UUD 1945]('https://github.com/ardiansyahirwan/materi_cpns/cheatsheet/uud-1945.jpeg)
+UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.
+
+[gambar](Cheatsheet/uud-1945.jpeg)
 
 #### Demokrasi Pancasila
 
