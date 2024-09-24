@@ -39,6 +39,8 @@
       - [Kalimat Majemuk](#kalimat-majemuk)
       - [Kalimat Aktif dan Pasif.](#kalimat-aktif-dan-pasif)
       - [Penggunaan Kata Ulang](#penggunaan-kata-ulang)
+  - [TES Intelegensia Umum (TIU)](#tes-intelegensia-umum-tiu)
+  - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
 
 # SKD (Seleksi Kemampuan Dasar)
 
@@ -383,3 +385,22 @@ Bola di pukul oleh andi
 > pada saat menggunakan `kata ulang` harus sesuai konteks agar tidak berlebihan, contoh ; "semua baju-baju yang sudah dicuci langsung di setrika"
 >
 > pada kalimat di atas kata `semua` tidak harus digunakan, karena pengulangan `baju-baju` sudah `mengisyaratkan banyak`
+
+## TES Intelegensia Umum (TIU)
+
+TIU total soal 35 soal di bagi menjadi :
+
+- `Kemampuan Verbal` meliputi, `Analogi`, `Silogisme`, `Analitis`
+- `Kemampuan Numerik`, meliputi `berhitung`, `deret angka`, `perbandingan kuantitatif`, `soal cerita`
+- `Kemampuan figural`, meliputi `Analogi`, `ketidaksamaan`, `serial`
+
+## Tes Kemampuan Pribadi (TKP)
+
+total soal 45 soal, meliputi :
+
+- `Pelayanan Publik`, dengan tujuan mampu menampilkan `prilaku keramah tamahan dalam bekerja` dalam melayani orang lain
+- `Jejaring kerja`, dengan tujuan mampu `membangun` dan membina `hubungan, bekerja sama,` berbagi informasi dan berkolaborasi dengan orang lain secara efektif
+- `sosial budaya`, `mampu` beradaptasi dan `bekerja efektif` dalam lingkungan yang memiliki `Agama, suku dan budaya yang berbeda.`
+- `Teknologi informasi dan komunikasi`, berharap dapat memanfaatkan teknologi untuk lebih efektif dalam bekerja
+- `Profesionalisme` , berharap dapat bekerja secara professional sesuai dengan tugas dan fungsi tuntutan jabatan
+- `anti radikalisme`, menjaring informasi dari individu dan bagaimana bersikap dan bertindak saat menanggapi stimulus / keadaan dengan beberapa alternatif situasi
