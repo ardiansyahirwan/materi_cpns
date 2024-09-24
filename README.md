@@ -18,14 +18,20 @@
       - [Integritas Sikap](#integritas-sikap)
     - [Materi Bela Negara](#materi-bela-negara)
       - [Pengertian Negara Ditinjau dari segi Negara](#pengertian-negara-ditinjau-dari-segi-negara)
-      - [Unsur unsur berdirinya sebuah negara](#unsur-unsur-berdirinya-sebuah-negara)
       - [Terbentuk nya sebuah negara](#terbentuk-nya-sebuah-negara)
+      - [Unsur unsur berdirinya sebuah negara](#unsur-unsur-berdirinya-sebuah-negara)
       - [Pengakuan dalam sebuah negara](#pengakuan-dalam-sebuah-negara)
       - [Wilayah dalam sebuah Negara](#wilayah-dalam-sebuah-negara)
       - [Status Kewarganegaraan](#status-kewarganegaraan)
     - [Materi Pilar Negara](#materi-pilar-negara)
       - [UUD 1945](#uud-1945)
-      - [Demokrasi Pancasila](#demokrasi-pancasila)
+      - [UUD 1945 Sebelum Amandemen](#uud-1945-sebelum-amandemen)
+      - [UUD 1945 Setelah Amandemen](#uud-1945-setelah-amandemen)
+      - [Tanggal Amandemen UUD 1945](#tanggal-amandemen-uud-1945)
+      - [Pokok Pikiran dalam Pembukaan UUD 1945(TAP MPRS NO. XX/MPRS/1966)](#pokok-pikiran-dalam-pembukaan-uud-1945tap-mprs-no-xxmprs1966)
+      - [Pancasila](#pancasila)
+      - [PIAGAM JAKARTA](#piagam-jakarta)
+      - [Sumber Dasar Hukum](#sumber-dasar-hukum)
       - [NKRI](#nkri)
       - [Bhinneka Tunggal Ika](#bhinneka-tunggal-ika)
       - [Hubungan Kausal Organis Pancasila dengan UUD 1945](#hubungan-kausal-organis-pancasila-dengan-uud-1945)
@@ -146,6 +152,13 @@ berikut ini adalah pengertian negara di tinjau dari segi negara dibagi menjadi 4
 - `Negara sebagai organisasi kesusilaan`, Negara merupakan penjelmaan dari seluruh individu, karena merupakan penjelmaan dari seluruh individu, maka negara memiliki kekuasaan tertinggi. dikemukakan oleh `Friedrich Hegel`. beliau juga menambahkan Negara berhak `mengatur tata tertib` dalam kehidupan bermasyarakat dan bernegara, dan manusia di dalamnya tidak bisa berbuat semaunya.
 - `Negara sebagai integrasi antara pemerintah dan rakyat`, Negara yang susunan masyarakatnya `erat antar semua golongan` Negara integralistik merupakan negara yang hendak `mengatasi paham perseorangan dan paham golongan` dan negara mengutamakan `kepentingan umum sebagai satu kesatuan`.
 
+#### Terbentuk nya sebuah negara
+
+Terjadinya negara terjadi dalam dua proses, yaitu ; 
+- Melalui `proses pertumbuhan primer dan sekunder`.
+- `Fakta sejarah` salah satunya adalah `melalui sparatis` artinya suatu wilayah `negara memisahkan diri dari negara yang semula menguasainya`, kemudian menyatakan kemerdekaannya. Contoh lain; Timor-timur memisahkan diri dari NKRI pada 
+tahun 1999.
+
 #### Unsur unsur berdirinya sebuah negara
 
 menurut `Oppenheim Lauterpacht` ada dua unsur berdirinya sebuah negara , unsur `konstitutif(pembentuk)`, dan `unsur deklaratif(tambahan)`.
@@ -166,14 +179,6 @@ unsur sebagaimana yang dirumuskan dalam `Konvensi Montevideo 1933` yaitu :
 - pemerintah
 - kesanggupan berhubungan dengan negara lain
 - pengakuan
-
-#### Terbentuk nya sebuah negara
-
-Terjadinya negara terjadi dalam dua proses, yaitu ; 
-- Melalui `proses pertumbuhan primer dan sekunder`.
-- `Fakta sejarah` salah satunya adalah `melalui sparatis` artinya suatu wilayah `negara memisahkan diri dari negara yang semula menguasainya`, kemudian menyatakan kemerdekaannya. Contoh lain; Timor-timur memisahkan diri dari NKRI pada 
-tahun 1999.
-
 
 #### Pengakuan dalam sebuah negara
 
@@ -202,10 +207,86 @@ bertujuan untuk membentuk karakter positif melalui pemahaman dan pengamalan nila
 
 UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pemilihan `presiden dan wakil presiden pertama`.
 
-[Cheat Sheet UUD 1945](Cheatsheet/uud-1945.jpeg)
-source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+>[Cheat Sheet UUD 1945](Cheatsheet/uud-1945.jpeg)
+>
+>source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
-#### Demokrasi Pancasila
+- `Bentuk Negara`, Pasal `1, 2`
+- `MPR`, Pasal `3, 4`
+- `Presiden`, Pasal `4, 6, 7, 7A, 7B, 7C, 8, 9, 10, 11, 12, 13, 14, 15, 16`
+- `Menteri`, Pasal `17`
+- `PEMDA`, Pasal `18, 18A, 18B`
+- `DPR`, Pasal `19, 20, 21,22, 22A, 22B`
+- `DPD`, Pasal `22C, 22D`
+- `PEMILU`, pasal `22E`
+- `HAL KEUANGAN`, pasal `23, 23A, 23B, 23C, 23D`
+- `BPK`, pasal `23E, 23F, 23G`
+- `KEHAKIMAN`, pasal `24`
+- `MAHKAMAH AGUNG`, pasal `24A`
+- `KOMISI YUDISIAL`, pasal `24B`
+- `MAHKAMAH KONSTITUSI`, pasal `24C, 25`
+- `WARGA NEGARA`, pasal `25A, 26, 27, 28`
+- `AGAMA`, pasal `29`
+- `HANKAM`, pasal `30`
+- `PENDIDIKAN`, pasal `31`
+- `kebudayaan`, pasal `32`
+- `PEREKONOMIAN`, pasal `33`
+- `KESEJAHTERAAN`, pasal `34`
+- `BENDERA`, pasal `35`
+- `BAHASA`, pasal `36`
+- `LAMBANG`, pasal `36A`
+- `LAGU`, pasal `36B`
+- `DLL DUU`, pasal `36C`
+- `PERUBAHAN UUD` PASAL `37`
+- `pasal peralihan`, `peraturan dan lembaga` dulu tetap berlaku, MK ada sebelum `17 Agustus 2003`
+- `pasal tambahan`, UUD = pembukaan + pasal, tinjauan TAP/MPRS tahun 2003
+
+#### UUD 1945 Sebelum Amandemen
+
+`Sebelum Amandemen` **UUD 1945** susunan nya ada :
+
+- Pembukaan
+- Batang Tubuh
+  1. 16 BAB
+  2. 37 Pasal
+  3. 65 Ayat
+  4. 4 Pasal Aturan Peralihan
+  5. 2 Ayat Aturan Tambahan
+- Penjelasan
+
+#### UUD 1945 Setelah Amandemen
+
+`Setelah Amandemen` **UUD 1945** susunan nya ada :
+
+- Pembukaan
+- Pasal Pasal
+  1. 20 BAB
+  2. 73 Pasal
+  3. 194 Ayat
+  4. 3 Pasal Aturan Peralihan
+  5. 2 Pasal Aturan Tambahan
+
+#### Tanggal Amandemen UUD 1945
+
+- `Amandemen Pertama` tahun `1999`, Tanggal `19 Oktober 1999`, pasal yang di Amandemen : `5, 7, 9, 13, 14, 15, 17, 20, 21`.
+> MAJULAN GAPATMAJU DUPU DUSAT
+- `Amandemen kedua` tahun `2000`, Tanggal `18 Agustus 2000`, pasal yang di amandemen : `18, 19, 20, 22, 25, 26, 27, 28, 30, 36`
+> PANLAS LANLAS DUPU DUDA DUMANAMJUPAN TIPUTINAM
+- `Amandemen Ketiga` tahun `2001`, Tanggal `9 september 2001`, pasal yang di amandemen : `1,3,6,7,8,11,17,22,23,24`
+> SATGANAMJUPAN LASJULAS DUDA DUGA DUPAT
+- `Amandemen Keempat` tahun `2002`, Tanggal `11 Agustus 2002`, pasal yang di amandemen : `2, 6, 8, 11, 16, 23, 24, 31, 32, 33, 34, 37, Aturan Peralihan, Aturan Tambahan`
+> DUNAMPAN LASNAMLAS DUGADUPAT GATUDUGAPATJU
+
+> Pasal yang tidak di Amandemen : `4, 10, 12, 29, 35`
+
+#### Pokok Pikiran dalam Pembukaan UUD 1945(TAP MPRS NO. XX/MPRS/1966)
+
+- `Alinea Pertama`, Negara Melindungi Segenap bangsa indonesia dan seluruh tumpah darah indonesia dengan berdasar asas persatuan `(Sila Ke 3)`
+- `Alinea Kedua`, Negara hendak mewujudkan keadilan sosial bagi seluruh rakyat indonesia `(Sila Ke 5)`
+- `Alinea Ketiga`, Negara yang berkedaulatan rakyat, berdasarkan atas kerakyatan dan permusyawaratan/perwakilan
+- `Alinea Keempat`, Negara berdasar atas ketuhanan yang maha esa menurut dasar kemanusiaan yang adil dan beradab `(Sila ke 1 & 2)` 
+
+#### Pancasila
 
 Prinsip-prinsip Demokrasi Pacasila, adalah :
 
@@ -213,18 +294,35 @@ Prinsip-prinsip Demokrasi Pacasila, adalah :
 - Kedaulatan rakyat di wakilkan dalam badan badan wakil rakyat
 - `Keputusan` diambil `dengan musyawarah` untuk `mencapai mufakat`
 
-[Cheat Sheet Nilai Nilai Pancasila](Cheatsheet/pancasila.jpeg)
-source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+>[Cheat Sheet Nilai Nilai Pancasila](Cheatsheet/pancasila.jpeg)
+>
+>source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+
+Pancasila berasal dari bahasa `sanskerta` yaitu `Panca yang artinya 5` dan `Syila yang artinya sendi atau dasar` / `Syiila yang artinya peraturan tingkah laku yang baik`, diambil dari kitab `negarakertagama` yang di tulis oleh `empu Prapanca` pada masa kerajaan `Majapahit`.
+
+#### PIAGAM JAKARTA
+
+dicetuskan oleh `muhammad yamin` isinya hampir sama dengan pancasila, tetapi ada perbedaan pada ayat 1 yaitu **"Ketuhanan dengan mewajibkan menjalankan syariat islam bagi pemeluk pemeluknya"**. kemudian ayat pertama di ubah menjadi seperti sekarang oleh `Moh. Hatta` atas usul `A.A. Maramis`
+
+#### Sumber Dasar Hukum
+
+`Pancasila` sebagai sumber dari segala sumber (TAP MPRS no XX/MPRS/1966).
+- UUD 1945
+- Proklamasi
+- Dekrit Presiden (5 Juli 1959)
+- Surat Perintah (11 Maret 1966)
 
 #### NKRI
 
-[Cheat Sheet NKRI](Cheatsheet/NKRI.jpeg)
-source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+>[Cheat Sheet NKRI](Cheatsheet/NKRI.jpeg)
+>
+>source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
 #### Bhinneka Tunggal Ika
 
-[Cheat Sheet NKRI](Cheatsheet/bhinneka.jpeg)
-source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
+>[Cheat Sheet Bhineka Tunggal Ika](Cheatsheet/bhinneka.jpeg)
+>
+>source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
 #### Hubungan Kausal Organis Pancasila dengan UUD 1945
 
