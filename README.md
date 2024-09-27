@@ -4,14 +4,20 @@
 - [SKD (Seleksi Kemampuan Dasar)](#skd-seleksi-kemampuan-dasar)
   - [Tes Wawasan Kebangsaan (TWK)](#tes-wawasan-kebangsaan-twk)
     - [Materi Nasionalisme](#materi-nasionalisme)
+      - [Nasionalisme dalam kehidupan sehari hari](#nasionalisme-dalam-kehidupan-sehari-hari)
+      - [Patriotisme dalam kehiudpan sehari-hari](#patriotisme-dalam-kehiudpan-sehari-hari)
       - [Masuknya islam di indonesia](#masuknya-islam-di-indonesia)
       - [Kerajaan Islam Pertama di Indonesia](#kerajaan-islam-pertama-di-indonesia)
       - [Sejarah Tanam Paksa Zaman Belanda di Indonesia](#sejarah-tanam-paksa-zaman-belanda-di-indonesia)
       - [Kongres Pemuda Indonesia](#kongres-pemuda-indonesia)
       - [Pergerakan Nasional Sebelum Kemerdekaan](#pergerakan-nasional-sebelum-kemerdekaan)
       - [Taktik Pergerakan Nasional Kemerdekaan](#taktik-pergerakan-nasional-kemerdekaan)
+      - [BPUPKI](#bpupki)
       - [Sidang PPKI](#sidang-ppki)
       - [Perubahan kepemerintahan di indonesia](#perubahan-kepemerintahan-di-indonesia)
+      - [Perjanjian Perjanjian pada Masa Kemerdekaan](#perjanjian-perjanjian-pada-masa-kemerdekaan)
+      - [Agresi Militer Belanda](#agresi-militer-belanda)
+      - [Deklarasi Bangkok](#deklarasi-bangkok)
     - [Materi Integritas](#materi-integritas)
       - [Integritas Inti](#integritas-inti)
       - [Integritas Etos Kerja](#integritas-etos-kerja)
@@ -30,6 +36,7 @@
       - [Tanggal Amandemen UUD 1945](#tanggal-amandemen-uud-1945)
       - [Pokok Pikiran dalam Pembukaan UUD 1945(TAP MPRS NO. XX/MPRS/1966)](#pokok-pikiran-dalam-pembukaan-uud-1945tap-mprs-no-xxmprs1966)
       - [Pancasila](#pancasila)
+      - [Peimpin yang baik menurut Pancasila](#peimpin-yang-baik-menurut-pancasila)
       - [PIAGAM JAKARTA](#piagam-jakarta)
       - [Sumber Dasar Hukum](#sumber-dasar-hukum)
       - [NKRI](#nkri)
@@ -40,7 +47,12 @@
       - [Kalimat Aktif dan Pasif.](#kalimat-aktif-dan-pasif)
       - [Penggunaan Kata Ulang](#penggunaan-kata-ulang)
   - [TES Intelegensia Umum (TIU)](#tes-intelegensia-umum-tiu)
+    - [Kemampuan Verbal](#kemampuan-verbal)
+    - [Kemampuan Numerik](#kemampuan-numerik)
+      - [Deret Angka](#deret-angka)
+    - [Kemampuan Figural](#kemampuan-figural)
   - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
+    - [Tips TKP](#tips-tkp)
 
 # SKD (Seleksi Kemampuan Dasar)
 
@@ -62,7 +74,24 @@ Jumlah soal dalam TWK berjumlah 30 Soal, materinya berupa :
 
 ### Materi Nasionalisme
 
-Tes Nasionalisme bertujuan untuk mewujudkan kepentingan nasional melalui cita-cita dan tujuan yang sama dengan tetap mempertahankan identitas Nasional
+Tes `Nasionalisme` bertujuan untuk` mewujudkan kepentingan nasional` melalui `cita-cita` dan tujuan yang sama dengan tetap` mempertahankan identitas Nasional`. sedangkan `Patriotisme` adalah` sikap berani, pantang menyerah, dan rela berkorban demi bangsa dan negara`. `patriot` dan `isme` berarti `sifat kepahlawanan` dan jiwa pahlawan.
+
+#### Nasionalisme dalam kehidupan sehari hari
+
+- Mengibarkan bendera merah putih dalam HUT RI
+- Menggunakan produk dalam negeri
+- Menghargai dan menghormati teman yang berbeda suku, agama dan budaya
+- Mengikuti upacara bendera
+- Mengadakan kegiatan yang bertujuan menanamkan rasa bangga terhadap negara indonesia
+
+#### Patriotisme dalam kehiudpan sehari-hari
+
+- menciptakan kerukunan dengan anggota keluarga dirumah
+- membantu lingkungan masyarakat yang terkena musibah
+- Tidak melanggar aturan
+- tidak melakukan kegiatan yang melanggar hukum, seperti tawuran
+- bakti sosial, donor darah
+- rela berkorban demi bangsa dan negara, tanding bulu tangkis
 
 #### Masuknya islam di indonesia
 
@@ -107,6 +136,10 @@ Pegerakan Nasional di bagi menjadi `3 waktu` :
 - `Masa Radikal`, `Tidak` mau `bekerja sama` dengan `Pemerintahan Belanda`, Seperti `PNI, PKI, dan Perhimpunan Indonesia`
 - `Masa Modern`, dengan `bekerja sama` `Pemerintah Hindia Belanda`. seperti `Partai Partindo, GAPI`
 
+#### BPUPKI
+
+BPUPKI di bentuk pada tanggal `29 April 1945`, di bentuk untuk merumuskan UUD
+
 #### Sidang PPKI
 
 Sidang PPKI dilakukan pada tanggal `18 Agustus 1945` hal ini memutuskan :
@@ -118,6 +151,44 @@ Sidang PPKI dilakukan pada tanggal `18 Agustus 1945` hal ini memutuskan :
 #### Perubahan kepemerintahan di indonesia
 
 - `14 November 1945`, kepemerintahan diubah dari `presidensil menjadi demokrasi parlementer`. ini di lakukan untuk menghindari adanya anggapan bahwa pemerintah indonesia pada waktu itu `bersifat diktator`.
+- `27 Desember 1949` belanda mengakui kedaulatan indonesia, dengan sistem pemerintahan Republik Indonesia Serikat yang merupakan hasil dari `Konferensi Meja Bundar` KMB
+
+| Periode        | Sistem Pemerintahan           | Tanggal          |
+| -------------- | ----------------------------- | ---------------- |
+| 1945-1949      | Presidensial                  | 17 Agustus 1945  |
+| 1949-1950      | Federal (RIS)                 | 27 Desember 1949 |
+| 1950-1959      | Presidensial (Kembali ke UUD) | 17 Agustus 1950  |
+| 1959-1965      | Demokrasi Terpimpin           | 5 Juli 1959      |
+| 1966-1998      | Orde Baru                     | 11 Maret 1966    |
+| 1998- Sekarang | Reformasi (Demokrasi)         | 21 Mei 1998      |
+
+#### Perjanjian Perjanjian pada Masa Kemerdekaan
+
+- Tahun `1946`, Perjanjian `Linggarjati`.` Mengakui` kedaulatan `sebagian wilayah indonesia` yaitu `sumatera, jawa, madura` dan sebagian lagi menjadi `wilayah negara bagian belanda` dan penghentian perang.
+- Tahun `1948`, `17 Januari 1948` perjanjian antara belanda dan Indonesia, perjanjian di atas `kapal amerika`, Kapal `USS Renville` disebut Perjanjian `Renville`. isinya pengakuan wilayah indonesia yaitu `jawa tengah, Yogyakarta, sumatera`
+- Tahun `1949`, perjanjian `Roem-Royen`. Menjadi dasar di adakannya (KMB) Konferensi Menja Budar
+- Tahun `1949`, `Konferensi Meja Bundar`. tepatnya pada tanggal `27 Desember 1949` belanda mengakui kedaulatan indonesia secara penuh.
+  
+#### Agresi Militer Belanda
+
+- `Agresi Militer I` Tanggal `21 Juli 1947` , Karena Indonesia tidak menjalankan `perjanjian Linggarjati`
+- `Agresi Militer II`, Tangal `19 Desember 1948`, Agresi ini bertujuan untuk melumpuhkan Republik Indonesia. agresi ini juga terjadi karena ketidak puasan belanda karena perjanjian `renville`
+
+#### Deklarasi Bangkok
+
+`Deklarasi bangkok` adalah dasar berdiri nya `ASEAN` pada `8 Agustus 1967` tujuan di adakannya deklarasi bangkok adalah untuk :
+
+- Mempercepat pertumbuhan ekonomi
+- Memajukan sosial budaya
+- Meningkatkan perdamaian dan stabilitas
+
+wakil masing-masing negara yang menandatangani deklarasi ini adalah :
+
+- H. Adam Malik (Menlu Indonesia)
+- Tun Abdul Razak (Menlu Malaysia)
+- Narsisco Ramos (Menlu Philipina)
+- S. Rajaratnam (Menlu Singapura)
+- Thanat Khoman (Menlu Thailand)
 
 ### Materi Integritas
 
@@ -143,7 +214,14 @@ Bertujuan untuk mampu menjunjung tinggi kejujuran, ketangguhan, komitmen, dan ko
 
 ### Materi Bela Negara
 
-Bertujuan untuk berperan aktif dalam mempertahankan eksistensi bangsa dan negara
+Bertujuan untuk `berperan aktif` dalam` mempertahankan eksistensi bangsa dan negara`.
+
+Menurut `Pasal 9 ayat (2) UU Nomor 3 tahun 2002` tentang `Pertahanan Negara`, keikutsertaan warga negara dalam `usaha
+pembelaan negara` diselenggarakan melalui:
+- `Pendidikan kewarganegaraan`;
+- `Pelatihan dasar kemiliteran secara wajib`;
+- `Pengabdian sebagai prajurit Tentara Nasional Indonesia secara sukarela atau secara wajib`; dan
+-  `Pengabdian sesuai dengan profesi`.
 
 #### Pengertian Negara Ditinjau dari segi Negara
 
@@ -302,6 +380,10 @@ Prinsip-prinsip Demokrasi Pacasila, adalah :
 
 Pancasila berasal dari bahasa `sanskerta` yaitu `Panca yang artinya 5` dan `Syila yang artinya sendi atau dasar` / `Syiila yang artinya peraturan tingkah laku yang baik`, diambil dari kitab `negarakertagama` yang di tulis oleh `empu Prapanca` pada masa kerajaan `Majapahit`.
 
+#### Peimpin yang baik menurut Pancasila
+
+yaitu pemimpin yang mampu mentransformasikan `nilai-nilai agama` dan `mengimplementasikan nilai nilai luhur pancasila` dan `budaya bangsa` dalam kehidupan sehari-hari.
+
 #### PIAGAM JAKARTA
 
 dicetuskan oleh `muhammad yamin` isinya hampir sama dengan pancasila, tetapi ada perbedaan pada ayat 1 yaitu **"Ketuhanan dengan mewajibkan menjalankan syariat islam bagi pemeluk pemeluknya"**. kemudian ayat pertama di ubah menjadi seperti sekarang oleh `Moh. Hatta` atas usul `A.A. Maramis`
@@ -394,6 +476,20 @@ TIU total soal 35 soal di bagi menjadi :
 - `Kemampuan Numerik`, meliputi `berhitung`, `deret angka`, `perbandingan kuantitatif`, `soal cerita`
 - `Kemampuan figural`, meliputi `Analogi`, `ketidaksamaan`, `serial`
 
+### Kemampuan Verbal
+
+### Kemampuan Numerik
+
+#### Deret Angka
+
+> `Tips`
+> 
+> cari dulu selisih angka pertama dan setelahnya sampai akhir, kemudian, teliti polanya
+>
+> untuk deret huruf, ubah ke dalam angka terlebih dahulu, misal `A berati itu 1`
+
+### Kemampuan Figural
+
 ## Tes Kemampuan Pribadi (TKP)
 
 total soal 45 soal, meliputi :
@@ -404,3 +500,14 @@ total soal 45 soal, meliputi :
 - `Teknologi informasi dan komunikasi`, berharap dapat memanfaatkan teknologi untuk lebih efektif dalam bekerja
 - `Profesionalisme` , berharap dapat bekerja secara professional sesuai dengan tugas dan fungsi tuntutan jabatan
 - `anti radikalisme`, menjaring informasi dari individu dan bagaimana bersikap dan bertindak saat menanggapi stimulus / keadaan dengan beberapa alternatif situasi
+
+### Tips TKP
+
+- Perintah atasan adalah `mutlak`, dan tidak bisa di tolak
+- `pekerjaan dan keluarga` memiliki `derajat yang sama`, ketika memilih di antara kedua nya, keluarga menjadi tanggung jawab `pribadi`, tidak di tanggung dari kantor
+- `Inisiatif` dalam bekerja sangat penting
+- `Berani ambil keputusan` dengan arahan dari `atasan`
+- Selalu `evaluasi` kesalahan sekecil apapun
+-` Menjalin kerja sama` dengan siapapun, `berkenalan lebih dulu` itu lebih baik
+- tingkatkan sifat `kompetitif`, dalam artian mau berkompetisi dan mendapatkan nilai terbaik
+- `etika` dan `attittude` yang utama
