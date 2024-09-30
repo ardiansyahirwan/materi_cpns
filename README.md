@@ -3,8 +3,7 @@
 - [Rangkuman Materi CPNS Untuk Belajar](#rangkuman-materi-cpns-untuk-belajar)
 - [SKD (Seleksi Kemampuan Dasar)](#skd-seleksi-kemampuan-dasar)
   - [Tes Wawasan Kebangsaan (TWK)](#tes-wawasan-kebangsaan-twk)
-    - [Materi Nasionalisme](#materi-nasionalisme)
-      - [Nasionalisme dalam kehidupan sehari hari](#nasionalisme-dalam-kehidupan-sehari-hari)
+    - [Materi Sejarah Indonesia](#materi-sejarah-indonesia)
       - [Patriotisme dalam kehiudpan sehari-hari](#patriotisme-dalam-kehiudpan-sehari-hari)
       - [Masuknya islam di indonesia](#masuknya-islam-di-indonesia)
       - [Kerajaan Islam Pertama di Indonesia](#kerajaan-islam-pertama-di-indonesia)
@@ -18,11 +17,18 @@
       - [Perjanjian Perjanjian pada Masa Kemerdekaan](#perjanjian-perjanjian-pada-masa-kemerdekaan)
       - [Agresi Militer Belanda](#agresi-militer-belanda)
       - [Deklarasi Bangkok](#deklarasi-bangkok)
+    - [Materi Nasionalisme](#materi-nasionalisme)
+      - [Nasionalisme dalam kehidupan sehari hari](#nasionalisme-dalam-kehidupan-sehari-hari)
+      - [Nilai nilai dalam semangat nasionalisme](#nilai-nilai-dalam-semangat-nasionalisme)
+      - [Nasionalisme Politik](#nasionalisme-politik)
     - [Materi Integritas](#materi-integritas)
       - [Integritas Inti](#integritas-inti)
       - [Integritas Etos Kerja](#integritas-etos-kerja)
       - [Integritas Sikap](#integritas-sikap)
+      - [Pelanggaran Kode Etik Integritas](#pelanggaran-kode-etik-integritas)
     - [Materi Bela Negara](#materi-bela-negara)
+      - [Elemen-Elemen Utama Bela Negara](#elemen-elemen-utama-bela-negara)
+      - [Kedaulatan Negara](#kedaulatan-negara)
       - [Pengertian Negara Ditinjau dari segi Negara](#pengertian-negara-ditinjau-dari-segi-negara)
       - [Terbentuk nya sebuah negara](#terbentuk-nya-sebuah-negara)
       - [Unsur unsur berdirinya sebuah negara](#unsur-unsur-berdirinya-sebuah-negara)
@@ -34,14 +40,19 @@
       - [UUD 1945 Sebelum Amandemen](#uud-1945-sebelum-amandemen)
       - [UUD 1945 Setelah Amandemen](#uud-1945-setelah-amandemen)
       - [Tanggal Amandemen UUD 1945](#tanggal-amandemen-uud-1945)
-      - [Pokok Pikiran dalam Pembukaan UUD 1945(TAP MPRS NO. XX/MPRS/1966)](#pokok-pikiran-dalam-pembukaan-uud-1945tap-mprs-no-xxmprs1966)
+      - [Pembukaan UUD 1945](#pembukaan-uud-1945)
+      - [Pokok Pikiran dalam Pembukaan UUD 1945](#pokok-pikiran-dalam-pembukaan-uud-1945)
       - [Pancasila](#pancasila)
-      - [Peimpin yang baik menurut Pancasila](#peimpin-yang-baik-menurut-pancasila)
+      - [Pemimpin yang baik menurut Pancasila](#pemimpin-yang-baik-menurut-pancasila)
+      - [Nilai nilai luhur pancasila](#nilai-nilai-luhur-pancasila)
+      - [Fungsi Pancasila](#fungsi-pancasila)
+      - [Hubungan Kausal Organis Pancasila dengan UUD 1945](#hubungan-kausal-organis-pancasila-dengan-uud-1945)
       - [PIAGAM JAKARTA](#piagam-jakarta)
       - [Sumber Dasar Hukum](#sumber-dasar-hukum)
       - [NKRI](#nkri)
       - [Bhinneka Tunggal Ika](#bhinneka-tunggal-ika)
-      - [Hubungan Kausal Organis Pancasila dengan UUD 1945](#hubungan-kausal-organis-pancasila-dengan-uud-1945)
+      - [Fungsi Bhinneka Tunggal Ika](#fungsi-bhinneka-tunggal-ika)
+      - [Manfaat dari multikultur](#manfaat-dari-multikultur)
     - [Bahasa Negara (\<= 4-5 soal)](#bahasa-negara--4-5-soal)
       - [Kalimat Majemuk](#kalimat-majemuk)
       - [Kalimat Aktif dan Pasif.](#kalimat-aktif-dan-pasif)
@@ -72,17 +83,9 @@ Jumlah soal dalam TWK berjumlah 30 Soal, materinya berupa :
 - Tes Bahasa Negara
 - Tes Pilar Negara
 
-### Materi Nasionalisme
+**Pahami `Konteks atau topik` pertanyaan, dan `implementasi` nya**
 
-Tes `Nasionalisme` bertujuan untuk` mewujudkan kepentingan nasional` melalui `cita-cita` dan tujuan yang sama dengan tetap` mempertahankan identitas Nasional`. sedangkan `Patriotisme` adalah` sikap berani, pantang menyerah, dan rela berkorban demi bangsa dan negara`. `patriot` dan `isme` berarti `sifat kepahlawanan` dan jiwa pahlawan.
-
-#### Nasionalisme dalam kehidupan sehari hari
-
-- Mengibarkan bendera merah putih dalam HUT RI
-- Menggunakan produk dalam negeri
-- Menghargai dan menghormati teman yang berbeda suku, agama dan budaya
-- Mengikuti upacara bendera
-- Mengadakan kegiatan yang bertujuan menanamkan rasa bangga terhadap negara indonesia
+### Materi Sejarah Indonesia
 
 #### Patriotisme dalam kehiudpan sehari-hari
 
@@ -190,6 +193,44 @@ wakil masing-masing negara yang menandatangani deklarasi ini adalah :
 - S. Rajaratnam (Menlu Singapura)
 - Thanat Khoman (Menlu Thailand)
 
+
+### Materi Nasionalisme
+
+Tes `Nasionalisme` bertujuan untuk` mewujudkan kepentingan nasional` melalui `cita-cita` dan tujuan yang sama dengan tetap` mempertahankan identitas Nasional`. sedangkan `Patriotisme` adalah` sikap berani, pantang menyerah, dan rela berkorban demi bangsa dan negara`. `patriot` dan `isme` berarti `sifat kepahlawanan` dan jiwa pahlawan.
+
+#### Nasionalisme dalam kehidupan sehari hari
+
+- Mengibarkan bendera merah putih dalam HUT RI
+- Menggunakan produk dalam negeri
+- Menghargai dan menghormati teman yang berbeda suku, agama dan budaya
+- Mengikuti upacara bendera
+- Mengadakan kegiatan yang bertujuan menanamkan rasa bangga terhadap negara indonesia
+
+#### Nilai nilai dalam semangat nasionalisme
+
+Semangat nasionalisme yang tumbuh sebelum kemerdekaan Indonesia memiliki peran sangat penting dalam menyatukan berbagai gerakan perjuangan yang sebelumnya bersifat kedaerahan
+
+Berikut adalah beberapa nilai-nilai yang terkandung dalam semangat nasionalisme:
+
+- `Cinta Tanah Air`: Merupakan rasa cinta yang mendalam terhadap bangsa dan negara, termasuk budaya, sejarah, dan kekayaan alamnya.
+- `Persatuan dan Kesatuan`: Menghargai keberagaman, namun tetap menjunjung tinggi persatuan dan kesatuan bangsa.
+- `Gotong Royong`: Semangat kerjasama dan saling membantu dalam mencapai tujuan bersama.
+- `Rela Berkorban`: Kesediaan untuk mengorbankan kepentingan pribadi demi kepentingan bangsa.
+- `Keadilan`: Menjunjung tinggi nilai keadilan bagi seluruh rakyat tanpa memandang perbedaan.
+- `Keberanian`: Tidak takut menghadapi tantangan dan berani memperjuangkan kebenaran.
+- `Disiplin`: Menjalankan tugas dan tanggung jawab dengan penuh kesadaran dan tanggung jawab.
+- `Toleransi`: Menghargai perbedaan pendapat dan keyakinan.
+
+#### Nasionalisme Politik
+
+Nasionalisme politik `mendorong adanya rasa cinta` dan `kesetiaan yang tinggi terhadap bangsa dan negara`, serta keinginan untuk `memperjuangkan kepentingan bangsa` `di atas kepentingan individu` atau kelompok lain
+
+`Tantangan Nasionalisme Politik`:
+
+- `Globalisasi`: Arus globalisasi dapat mengikis nilai-nilai nasionalisme.
+- `Pluralisme`: Keberagaman budaya dan suku bangsa dapat memicu konflik horizontal.
+- `Radikalisme`: Paham radikalisme dapat mengancam persatuan dan kesatuan bangsa.
+
 ### Materi Integritas
 
 Bertujuan untuk mampu menjunjung tinggi kejujuran, ketangguhan, komitmen, dan konsistensi sebagai salah satu sikap untuk mencapai tujuan nasioal
@@ -212,6 +253,10 @@ Bertujuan untuk mampu menjunjung tinggi kejujuran, ketangguhan, komitmen, dan ko
 - `Peduli`, mengindahkan, memperhatikan atau tidak menghiraukan orang lain
 - `Adil`, berlaku sepatutnya tidak sewenang-wenang
 
+#### Pelanggaran Kode Etik Integritas
+
+Pelanggaran kode etik integritas pada dasarnya adalah `tindakan yang bertentangan dengan nilai-nilai moral, etika, dan hukum` yang seharusnya dijunjung tinggi oleh seorang aparatur negara. contoh : `Tindakan berjudi dan mabuk serta mempublikasikannya di media sosial` 
+
 ### Materi Bela Negara
 
 Bertujuan untuk `berperan aktif` dalam` mempertahankan eksistensi bangsa dan negara`.
@@ -222,6 +267,22 @@ pembelaan negara` diselenggarakan melalui:
 - `Pelatihan dasar kemiliteran secara wajib`;
 - `Pengabdian sebagai prajurit Tentara Nasional Indonesia secara sukarela atau secara wajib`; dan
 -  `Pengabdian sesuai dengan profesi`.
+
+#### Elemen-Elemen Utama Bela Negara
+
+- `Sesuai peraturan`: Bela negara harus dilakukan `sesuai` dengan aturan yang berlaku, yaitu `Pancasila dan UUD 1945`.
+- `Tekad yang bulat`: Dibutuhkan `tekad yang kuat` untuk `membela negara`, baik dalam kondisi damai maupun darurat.
+- `Partisipasi semua komponen`: Bela negara `bukan hanya tugas TNI`, tetapi juga seluruh warga negara.
+- `Keinsafan dan semangat`: Bela negara `dilandasi` oleh `kesadaran` akan `pentingnya menjaga kedaulatan negara`.
+
+#### Kedaulatan Negara
+
+`Konsep kedaulatan negara yang lengkap dan inklusif(melibatkan semua orang tanpa memandang perbedaan)` berarti `negara memiliki kekuasaan tertinggi` dan mutlak `atas` seluruh `wilayah`nya, `termasuk` `segala sesuatu yang ada di dalamnya`, baik itu sumber daya alam, penduduk, maupun kegiatan yang berlangsung di wilayah tersebut. Ini berarti negara memiliki kewenangan untuk:
+
+- `Menetapkan hukum dan peraturan`: Negara memiliki otoritas untuk membuat dan menegakkan hukum di wilayahnya.
+- `Mengelola sumber daya alam`: Negara berhak mengelola dan memanfaatkan segala sumber daya alam yang ada di wilayahnya.
+- `Melindungi warga negaranya`: Negara bertanggung jawab untuk melindungi keselamatan dan kesejahteraan warga negaranya.
+- `Menjaga keamanan dan ketertiban`: Negara berwenang menjaga keamanan dan ketertiban di wilayahnya.
 
 #### Pengertian Negara Ditinjau dari segi Negara
 
@@ -359,12 +420,24 @@ UUD 1945 Disahkan pada `sidang PPKI tanggal 18 Agustus 1945` sekaligus dengan pe
 
 > Pasal yang tidak di Amandemen : `4, 10, 12, 29, 35`
 
-#### Pokok Pikiran dalam Pembukaan UUD 1945(TAP MPRS NO. XX/MPRS/1966)
+#### Pembukaan UUD 1945
+
+`Pembukaan UUD 1945` merupakan bagian yang sangat penting dalam konstitusi negara Indonesia. Di dalamnya termaktub `nilai-nilai luhur`, `cita-cita`, dan `tujuan nasional bangsa Indonesia`. Pembukaan UUD 1945 `menjadi sumber motivasi dan inspirasi` bagi seluruh rakyat Indonesia `dalam membangun negara`.
+
+- `Motivasi dan aspirasi`, aspirasi dan harapan seluruh rakyat Indonesia untuk hidup dalam negara yang merdeka, bersatu, berdaulat, adil, dan makmur.
+- `Cita-cita yang luhur`, `Terdapat tujuan nasional yang ingin dicapai`, seperti melindungi segenap bangsa Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.
+- `Cakupan Nasional dan Internasional`, Pembukaan UUD 1945 tidak hanya menyangkut kepentingan dalam negeri, tetapi juga memiliki dimensi internasional, yaitu ikut melaksanakan ketertiban dunia.
+
+#### Pokok Pikiran dalam Pembukaan UUD 1945
+
+menurut TAP MPRS No XX/MPRS/1966
 
 - `Alinea Pertama`, Negara Melindungi Segenap bangsa indonesia dan seluruh tumpah darah indonesia dengan berdasar asas persatuan `(Sila Ke 3)`
 - `Alinea Kedua`, Negara hendak mewujudkan keadilan sosial bagi seluruh rakyat indonesia `(Sila Ke 5)`
 - `Alinea Ketiga`, Negara yang berkedaulatan rakyat, berdasarkan atas kerakyatan dan permusyawaratan/perwakilan
 - `Alinea Keempat`, Negara berdasar atas ketuhanan yang maha esa menurut dasar kemanusiaan yang adil dan beradab `(Sila ke 1 & 2)` 
+
+
 
 #### Pancasila
 
@@ -380,9 +453,38 @@ Prinsip-prinsip Demokrasi Pacasila, adalah :
 
 Pancasila berasal dari bahasa `sanskerta` yaitu `Panca yang artinya 5` dan `Syila yang artinya sendi atau dasar` / `Syiila yang artinya peraturan tingkah laku yang baik`, diambil dari kitab `negarakertagama` yang di tulis oleh `empu Prapanca` pada masa kerajaan `Majapahit`.
 
-#### Peimpin yang baik menurut Pancasila
+#### Pemimpin yang baik menurut Pancasila
 
 yaitu pemimpin yang mampu mentransformasikan `nilai-nilai agama` dan `mengimplementasikan nilai nilai luhur pancasila` dan `budaya bangsa` dalam kehidupan sehari-hari.
+
+#### Nilai nilai luhur pancasila
+
+- sila pertama gambar `bintang`, `Ketuhanan yang maha esa` `Nilai`: Kepercayaan kepada Tuhan Yang Maha Esa, kebebasan beragama, toleransi antar umat beragama, serta hidup rukun dalam keberagaman.
+- Sila kedua gambar `Rantai`, `Kemanusian yang adil dan beradab`.` Nilai`: Pengakuan atas harkat dan martabat manusia, sikap saling menghormati, empati, dan gotong royong.
+- Sila ketiga gambar `pohon beringin`, `Persatuan Indonesia`. `Nilai`: Kesatuan bangsa, semangat gotong royong, dan cinta tanah air.
+- Sila Ke empat `kepala banteng`, `Kerakyatan Yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan`. `Nilai`: Demokrasi, musyawarah mufakat, dan kekuasaan tertinggi berada di tangan rakyat.
+- Sila kelima `padi dan kapas`, `Keadilan sosial bagi seluruh rakyat indonesia`. `Nilai`: Keadilan sosial, kesejahteraan sosial, dan pemerataan pembangunan.
+
+#### Fungsi Pancasila
+
+- `Sebagai filter budaya asing`, yang berarti budaya asing yang masuk nantinya sesuai dengan kehidupan dan karakter bangsa indonesia. Pancasila tidak mengisolasi pemikiran dari luar, justru menjadi filter agar budaya dan pemikiran yang masuk sesuai, dan tidak mengubah jati diri bangsa.
+
+Fungsi pancasila `dalam kehidupan berbangsa dan bernegara`
+
+- `Jiwa bangsa Indonesia`: Pancasila menjadi ruh atau jiwa yang menyatukan seluruh rakyat Indonesia dengan beragam latar belakang.
+- `Sumber dari segala sumber hukum`: Semua peraturan perundang-undangan di Indonesia harus berlandaskan pada nilai-nilai Pancasila.
+- `Modal pembangunan`: Pancasila menjadi landasan moral dan etika dalam pembangunan bangsa.
+- `Cita-cita dan tujuan hidup bangsa`: Pancasila menjadi arah dan tujuan yang ingin dicapai oleh bangsa Indonesia.
+
+#### Hubungan Kausal Organis Pancasila dengan UUD 1945
+
+`Hubungan Kausal Organis` adalah `hubungan yang menunjukan keterkaitan` yang saling mempengaruhi antar bagian. `Kausal` dapat juga di artikan `sebab akibat`.
+
+Hubungan antara Pancasila dan UUD 1945 adalah :
+
+- Pancasila Menjadi pondasi dari UUD 1945
+- Nilai Nilai pancasila menjadi ruh dari setiap pasal UUD 1945
+- UUD 1945 Menjadi implementasi dari Nilai Nilai Pancasila dalam kehidupan bernegara
 
 #### PIAGAM JAKARTA
 
@@ -396,6 +498,7 @@ dicetuskan oleh `muhammad yamin` isinya hampir sama dengan pancasila, tetapi ada
 - Dekrit Presiden (5 Juli 1959)
 - Surat Perintah (11 Maret 1966)
 
+
 #### NKRI
 
 >[Cheat Sheet NKRI](Cheatsheet/NKRI.jpeg)
@@ -408,15 +511,19 @@ dicetuskan oleh `muhammad yamin` isinya hampir sama dengan pancasila, tetapi ada
 >
 >source from tiktok [@cpnsfor.me](https://tiktok.com/@cpnsfor.me)
 
-#### Hubungan Kausal Organis Pancasila dengan UUD 1945
+#### Fungsi Bhinneka Tunggal Ika
 
-`Hubungan Kausal Organis` adalah `hubungan yang menunjukan keterkaitan` yang saling mempengaruhi antar bagian. `Kausal` dapat juga di artikan `sebab akibat`.
+Fungsi Bhinneka Tunggal ika bagi Indonesia yang `multikultur` / terdiri dari banyak suku agama budaya yang mampu melahirkan semangat kesatuan dan persatuan yaitu :
 
-Hubungan antara Pancasila dan UUD 1945 adalah :
+- Mendukung penyatuan keragaman dalam asimilasi budaya nasional
 
-- Pancasila Menjadi pondasi dari UUD 1945
-- Nilai Nilai pancasila menjadi ruh dari setiap pasal UUD 1945
-- UUD 1945 Menjadi implementasi dari Nilai Nilai Pancasila dalam kehidupan bernegara
+#### Manfaat dari multikultur
+
+Sifat `multikultural` bangsa Indonesia tentu tidak terlepas dari keberagaman budaya, manfaat dari sifat multikultur yaitu: 
+
+- Sebagai tujuan wisata budaya dan pengetahuan dunia.
+- `Potensi Ekonomi`: Pariwisata budaya dapat menjadi sumber pendapatan yang signifikan bagi negara dan masyarakat.
+- `Promosi Budaya`: Dengan menjadi tujuan wisata budaya, Indonesia secara tidak langsung mempromosikan kekayaan budayanya ke seluruh dunia.
 
 ### Bahasa Negara (<= 4-5 soal)
 
