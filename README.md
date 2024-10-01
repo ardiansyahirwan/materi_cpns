@@ -64,6 +64,8 @@
       - [Ketidaksamaan](#ketidaksamaan)
       - [Analogi](#analogi)
     - [Kemampuan Verbal](#kemampuan-verbal)
+      - [Analogi](#analogi-1)
+      - [Penarikan Kesimpulan](#penarikan-kesimpulan)
     - [Kemampuan Numerik](#kemampuan-numerik)
       - [Deret Angka](#deret-angka)
   - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
@@ -629,7 +631,87 @@ latihan soal figural kunjungi [link](figural/figural.pdf)
 
 ### Kemampuan Verbal
 
+link materi di [sini](verbal/verbal.pdf)
 
+#### Analogi
+
+> `Tips`
+> Analisa pola hubungan antar kata
+>
+> jika terdiri dari 3 analogi, cukup cari analogi di 2 kata
+
+```text
+BUKU : …… : PINTAR = …… : ZAT AKTIF : ……
+A. GURU – VITAMIN – SEHAT
+B. ILMU – OBAT - SEMBUH
+C. SEKOLAH – VITAMIN – BUGAR
+D. PERPUSTAKAAN – TUMBUHAN - BERGIZI 
+E. KURIKULUM- SAYURAN – SEHAT
+
+Jawabannya adalah A
+```
+
+#### Penarikan Kesimpulan
+
+1. `Penarikan Kesimpulan Logis`
+
+Ada beberapa metode dalam penarikan kesimpulan Logis di antaranya yaitu :
+
+- `Modus Ponens` 
+> Pernyataan 1 : `p ? q`
+> 
+> Pernyataan 2 : `p`
+> 
+> Kesimpulan   : `q `
+
+```text
+Pernyataan 1 : Jika Mandalika lulus ujian maka dia hebat
+Pernyataan 2 : Mandalika lulus ujian
+Kesimpulan   : dia Hebat
+```
+- `Modus Tolens` 
+> Pernyataan 1 : `p ? q`
+> 
+> Pernyataan 2 : `-q`
+> 
+> Kesimpulan   : `-p `
+
+```text
+Pernyataan 1 : Jika Mandalika lulus ujian maka dia hebat
+Pernyataan 2 : Mandalika tidak hebat
+Kesimpulan   : Mandalika tidak lulus ujian
+```
+- `Silogisme` 
+> Pernyataan 1 : `p ? q`
+> 
+> Pernyataan 2 : `q ? r`
+> 
+> Kesimpulan   : `p ? r `
+
+```text
+Pernyataan 1 : Jika Mandalika lulus ujian maka dia hebat
+Pernyataan 2 : Jika Mandalika hebat maka dia pintar
+Kesimpulan   : Jika Mandalika lulus ujian maka dia pintar
+```
+
+2. Untuk penarikan kesimpulan yang tidak bisa menggunakan `penarikan kesimpulan secara logis` bisa menggunakan `Diagram Venn`
+
+- Apabila menggunakan `semua` atau `setiap`. berarti `semua anggota tanpa terkecuali`
+- Apabila menggunakan `sebagian`,`beberapa`, `ada`, `sementara` berarti `hanya sebagian`
+
+contoh : 
+
+```text
+Semua siswa kelas XII pintar matematika. Sebagian siswa kelas XII mendapat nilai tinggi. 
+Kesimpulannya ………
+A. Sebagian siswa kelas XII mendapat nilai tinggi dan pintar matematika.
+B. Sebagian siswa kelas XII mendapat nilai tinggi dan tidak pintar matematika.
+C. Sebagian siswa kelas XII tidak mendapat nilai tinggi dan tidak pintar matematika.
+D. Semua siswa kelas XII mendapat nilai tinggi dan tidak pintar matematika.
+E. Semua siswa kelas XII tidak mendapat nilai tinggi dan tidak pintar matematika
+
+menggunakan diagram venn maka hasilnya A
+```
 
 ### Kemampuan Numerik
 
