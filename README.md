@@ -4,7 +4,6 @@
 - [SKD (Seleksi Kemampuan Dasar)](#skd-seleksi-kemampuan-dasar)
   - [Tes Wawasan Kebangsaan (TWK)](#tes-wawasan-kebangsaan-twk)
     - [Materi Sejarah Indonesia](#materi-sejarah-indonesia)
-      - [Patriotisme dalam kehiudpan sehari-hari](#patriotisme-dalam-kehiudpan-sehari-hari)
       - [Masuknya islam di indonesia](#masuknya-islam-di-indonesia)
       - [Kerajaan Islam Pertama di Indonesia](#kerajaan-islam-pertama-di-indonesia)
       - [Sejarah Tanam Paksa Zaman Belanda di Indonesia](#sejarah-tanam-paksa-zaman-belanda-di-indonesia)
@@ -19,6 +18,7 @@
       - [Deklarasi Bangkok](#deklarasi-bangkok)
     - [Materi Nasionalisme](#materi-nasionalisme)
       - [Nasionalisme dalam kehidupan sehari hari](#nasionalisme-dalam-kehidupan-sehari-hari)
+      - [Patriotisme dalam kehiudpan sehari-hari](#patriotisme-dalam-kehiudpan-sehari-hari)
       - [Nilai nilai dalam semangat nasionalisme](#nilai-nilai-dalam-semangat-nasionalisme)
       - [Nasionalisme Politik](#nasionalisme-politik)
     - [Materi Integritas](#materi-integritas)
@@ -53,15 +53,17 @@
       - [Bhinneka Tunggal Ika](#bhinneka-tunggal-ika)
       - [Fungsi Bhinneka Tunggal Ika](#fungsi-bhinneka-tunggal-ika)
       - [Manfaat dari multikultur](#manfaat-dari-multikultur)
-    - [Bahasa Negara (\<= 4-5 soal)](#bahasa-negara--4-5-soal)
+    - [Bahasa Negara](#bahasa-negara)
+      - [Tips Bahasa Negara](#tips-bahasa-negara)
       - [Kalimat Majemuk](#kalimat-majemuk)
       - [Kalimat Aktif dan Pasif.](#kalimat-aktif-dan-pasif)
       - [Penggunaan Kata Ulang](#penggunaan-kata-ulang)
   - [TES Intelegensia Umum (TIU)](#tes-intelegensia-umum-tiu)
+    - [Kemampuan Figural](#kemampuan-figural)
+      - [Tips soal 3D](#tips-soal-3d)
     - [Kemampuan Verbal](#kemampuan-verbal)
     - [Kemampuan Numerik](#kemampuan-numerik)
       - [Deret Angka](#deret-angka)
-    - [Kemampuan Figural](#kemampuan-figural)
   - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
     - [Tips TKP](#tips-tkp)
 
@@ -86,15 +88,6 @@ Jumlah soal dalam TWK berjumlah 30 Soal, materinya berupa :
 **Pahami `Konteks atau topik` pertanyaan, dan `implementasi` nya**
 
 ### Materi Sejarah Indonesia
-
-#### Patriotisme dalam kehiudpan sehari-hari
-
-- menciptakan kerukunan dengan anggota keluarga dirumah
-- membantu lingkungan masyarakat yang terkena musibah
-- Tidak melanggar aturan
-- tidak melakukan kegiatan yang melanggar hukum, seperti tawuran
-- bakti sosial, donor darah
-- rela berkorban demi bangsa dan negara, tanding bulu tangkis
 
 #### Masuknya islam di indonesia
 
@@ -205,6 +198,15 @@ Tes `Nasionalisme` bertujuan untuk` mewujudkan kepentingan nasional` melalui `ci
 - Menghargai dan menghormati teman yang berbeda suku, agama dan budaya
 - Mengikuti upacara bendera
 - Mengadakan kegiatan yang bertujuan menanamkan rasa bangga terhadap negara indonesia
+
+#### Patriotisme dalam kehiudpan sehari-hari
+
+- menciptakan kerukunan dengan anggota keluarga dirumah
+- membantu lingkungan masyarakat yang terkena musibah
+- Tidak melanggar aturan
+- tidak melakukan kegiatan yang melanggar hukum, seperti tawuran
+- bakti sosial, donor darah
+- rela berkorban demi bangsa dan negara, tanding bulu tangkis
 
 #### Nilai nilai dalam semangat nasionalisme
 
@@ -525,9 +527,16 @@ Sifat `multikultural` bangsa Indonesia tentu tidak terlepas dari keberagaman bud
 - `Potensi Ekonomi`: Pariwisata budaya dapat menjadi sumber pendapatan yang signifikan bagi negara dan masyarakat.
 - `Promosi Budaya`: Dengan menjadi tujuan wisata budaya, Indonesia secara tidak langsung mempromosikan kekayaan budayanya ke seluruh dunia.
 
-### Bahasa Negara (<= 4-5 soal)
+### Bahasa Negara
 
 Bertujuan Untuk mampu menggunakan bahasa indonesia sebagai bahasa persatuan yang kedudukannya sangat penting dalam kehidupan bermasyarakat.
+
+#### Tips Bahasa Negara
+
+Dalam mengerjakan soal cerita, **`pahami konteks`** terlebih dahulu. 
+
+- Fokus ke pertanyaan
+- kemudian cari jawaban di dalam cerita dengan teknik baca scanning
 
 #### Kalimat Majemuk
 
@@ -583,7 +592,28 @@ TIU total soal 35 soal di bagi menjadi :
 - `Kemampuan Numerik`, meliputi `berhitung`, `deret angka`, `perbandingan kuantitatif`, `soal cerita`
 - `Kemampuan figural`, meliputi `Analogi`, `ketidaksamaan`, `serial`
 
+### Kemampuan Figural
+
+latihan soal figural kunjungi [link](figural/figural.pdf)
+
+> `Tips`
+> 
+> analisa pola gambar
+>
+> untuk ketidaksamaan cari gambar yang berbeda
+
+#### Tips soal 3D
+
+[soal 3d](figural/box-3d.png)
+> bangun D dan A yang di pisahkan dalam satu baris bangun pasti `bersebrangan`
+>
+> jika di `pisahkan oleh satu bangun pasti bersebrangan` contoh C dan B, F dan E
+>
+> jika bangun datar saling samping-sampingan pasti berdekatan
+
 ### Kemampuan Verbal
+
+
 
 ### Kemampuan Numerik
 
@@ -595,7 +625,6 @@ TIU total soal 35 soal di bagi menjadi :
 >
 > untuk deret huruf, ubah ke dalam angka terlebih dahulu, misal `A berati itu 1`
 
-### Kemampuan Figural
 
 ## Tes Kemampuan Pribadi (TKP)
 
