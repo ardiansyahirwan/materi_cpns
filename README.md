@@ -61,6 +61,8 @@
   - [TES Intelegensia Umum (TIU)](#tes-intelegensia-umum-tiu)
     - [Kemampuan Figural](#kemampuan-figural)
       - [Tips soal 3D](#tips-soal-3d)
+      - [Ketidaksamaan](#ketidaksamaan)
+      - [Analogi](#analogi)
     - [Kemampuan Verbal](#kemampuan-verbal)
     - [Kemampuan Numerik](#kemampuan-numerik)
       - [Deret Angka](#deret-angka)
@@ -610,6 +612,20 @@ latihan soal figural kunjungi [link](figural/figural.pdf)
 > jika di `pisahkan oleh satu bangun pasti bersebrangan` contoh C dan B, F dan E
 >
 > jika bangun datar saling samping-sampingan pasti berdekatan
+
+#### Ketidaksamaan
+
+> `Tips`
+> 
+> carilah gambar yang tidak sama dari segi `bentuk pola warna`
+
+#### Analogi
+
+> `Tips`
+> 
+> teliti pola gambar
+>
+> analogi dapat berarti `kebalikan` dari gambar, atau `persamaan` dari `analogi gambar sebelumnya`.
 
 ### Kemampuan Verbal
 
