@@ -62,14 +62,27 @@
     - [Kemampuan Figural](#kemampuan-figural)
       - [Tips soal 3D](#tips-soal-3d)
       - [Ketidaksamaan](#ketidaksamaan)
-      - [Analogi](#analogi)
+      - [Analogi Gambar](#analogi-gambar)
     - [Kemampuan Verbal](#kemampuan-verbal)
-      - [Analogi](#analogi-1)
+      - [Analogi Kalimat](#analogi-kalimat)
       - [Penarikan Kesimpulan](#penarikan-kesimpulan)
+      - [Penalaran Analitis](#penalaran-analitis)
     - [Kemampuan Numerik](#kemampuan-numerik)
+      - [Hitung Pecahan](#hitung-pecahan)
+      - [Hitung pecahan campuran](#hitung-pecahan-campuran)
       - [Deret Angka](#deret-angka)
+      - [Kecepatan dan jarak](#kecepatan-dan-jarak)
+      - [Perbandingan](#perbandingan)
   - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
-    - [Tips TKP](#tips-tkp)
+  - [Tips SKD](#tips-skd)
+    - [Tips TWK](#tips-twk)
+      - [Profesionalisme](#profesionalisme)
+      - [TIK](#tik)
+      - [Anti Radikalisme](#anti-radikalisme)
+      - [Pelayanan Publik](#pelayanan-publik)
+      - [Sosial Budaya](#sosial-budaya)
+      - [Jejaring Kerja](#jejaring-kerja)
+    - [Tips TIU](#tips-tiu)
 
 # SKD (Seleksi Kemampuan Dasar)
 
@@ -598,7 +611,7 @@ TIU total soal 35 soal di bagi menjadi :
 
 ### Kemampuan Figural
 
-latihan soal figural kunjungi [link](figural/figural.pdf)
+latihan soal figural kunjungi [link](figural/figural.pdf). `Kemungkinan soal ada di 10 nomer terakhir`
 
 > `Tips`
 > 
@@ -621,19 +634,21 @@ latihan soal figural kunjungi [link](figural/figural.pdf)
 > 
 > carilah gambar yang tidak sama dari segi `bentuk pola warna`
 
-#### Analogi
+#### Analogi Gambar
 
 > `Tips`
 > 
 > teliti pola gambar
 >
 > analogi dapat berarti `kebalikan` dari gambar, atau `persamaan` dari `analogi gambar sebelumnya`.
+>
+> perhatian perubahan, sudut, bentuk, warna
 
 ### Kemampuan Verbal
 
 link materi di [sini](verbal/verbal.pdf)
 
-#### Analogi
+#### Analogi Kalimat
 
 > `Tips`
 > Analisa pola hubungan antar kata
@@ -652,6 +667,8 @@ Jawabannya adalah A
 ```
 
 #### Penarikan Kesimpulan
+
+`Biasanya soal di awal`
 
 1. `Penarikan Kesimpulan Logis`
 
@@ -713,7 +730,75 @@ E. Semua siswa kelas XII tidak mendapat nilai tinggi dan tidak pintar matematika
 menggunakan diagram venn maka hasilnya A
 ```
 
+#### Penalaran Analitis
+
+Bisanya dapat berupa urutan, posisi duduk, meligkar, ada beberapa model untuk mengerjakan model amalitis yaitu :
+
+- `Model Perbandingan`, yaitu berupa `perbandingan nilai dua atau lebih nilai`. cara menyelesaikannya dengan `perbandingan aritmetika dasar`
+- `Model urutan`, model urutan sering kali muncul bersamaan dengan model perbandingan. soal urutan mempunyai kata kunci `kurang dari` `lebih dari` atau `sama dengan`
+
 ### Kemampuan Numerik
+
+#### Hitung Pecahan
+
+> `Tips`
+> Pecahan Campuran diubah dahulu ke pecahan biasa
+>
+> bilangan bulat dianggap bilahan pecahan berpenyebut 1 , contoh : 15 = 15/1
+>
+> tambahkan buka kurung untuk mengelompokkan operasi pecahan
+>
+> sederhanakan pecahan dengan mencoret pembilang dan penyebut dengan di bagi kelipatan yang sama
+
+- `Penjumlahan` dan `pengurangan`, samakan dahulu penyebutnya.
+
+```text
+1     3    2     3      5
+-- + -- = --  +  -- =  --
+2     4    4      4     4
+```
+
+- `Pembagian`, pembagian = perkalian x pembalik.
+
+```text
+1     3    1     4     4
+-- : -- = --  x  -- =  --
+2     4    2     3     6
+```
+
+- `Perkalian`, kalikan pembilang dengan pembilang, penyebut dengan penyebut
+
+```text
+1     3    3   
+-- x -- = -- 
+2     4    8   
+```
+
+#### Hitung pecahan campuran
+
+- Bilangan bulat dihitung secara terpisah
+- hitung pecahan sesuai aturan [operasi hitung pecahan](#hitung-pecahan)
+- jika tidak bisa ketemu hasilnyagunakan cara biasa , dengan mengubah ke bentuk pecahan biasa terlebih dahulu
+
+```text
+  1       3      
+3 -- +  2 -- =  
+  2       4    
+
+// pisah antara bilangan bulat dengan pecahan
+
+= 3 + 2 = 5
+
+1     3    2     3      5       1
+-- + -- = --  +  -- =  -- = 1  --
+2     4    4      4     4       4
+
+    1
+= 6 --
+    4
+```
+
+- `Pembagian Bilangan campuran`, Bilangan bulat nya bisa kita bagi secara terpisah. Misal 3 : 5 menjadi 3/5
 
 #### Deret Angka
 
@@ -722,26 +807,102 @@ menggunakan diagram venn maka hasilnya A
 > cari dulu selisih angka pertama dan setelahnya sampai akhir, kemudian, teliti polanya
 >
 > untuk deret huruf, ubah ke dalam angka terlebih dahulu, misal `A berati itu 1`
+>
+> `hitung selisih` masing masing deret untuk menentukan pola
 
+`Barisan Aritmetika` : barisan yang suku berurut nya `memiliki selisih yang tetap atau sama`
+
+`Barisan Geometri` : barisan yang suku berurutnya `memiliki kelipatan yang tetap atau sama`
+
+#### Kecepatan dan jarak
+
+v = Kecepatan (Km/jam)
+s = jarak (km)
+t = waktu (jam)
+
+```text
+    / s \
+    -----
+  / v | t \
+  ---------
+```
+
+#### Perbandingan
+
+ini adalah salah satu contoh soal perbandingan dan cara penyelesaiian nya [soal](perbandingan.jpg)
 
 ## Tes Kemampuan Pribadi (TKP)
 
 total soal 45 soal, meliputi :
 
-- `Pelayanan Publik`, dengan tujuan mampu menampilkan `prilaku keramah tamahan dalam bekerja` dalam melayani orang lain
-- `Jejaring kerja`, dengan tujuan mampu `membangun` dan membina `hubungan, bekerja sama,` berbagi informasi dan berkolaborasi dengan orang lain secara efektif
-- `sosial budaya`, `mampu` beradaptasi dan `bekerja efektif` dalam lingkungan yang memiliki `Agama, suku dan budaya yang berbeda.`
+- `Pelayanan Publik`, dengan tujuan mampu menampilkan `prilaku keramah tamahan dalam bekerja` dalam melayani orang lain. dibutuhkan orang yang cepat dan inisiatif
+- `Jejaring kerja`,dicari `tindakan` yang dapat `membangun etos kerja` , `bertanggung jawab atas pekerjaan`, dan mencari `solusi` yang detail, `tidak umum`
+- `sosial budaya`, `mampu` beradaptasi dan `bekerja efektif` dalam lingkungan yang memiliki `Agama, suku dan budaya yang berbeda.` `dicari sifat yang saling mernghargai dan menghormati perbedaan budaya`
 - `Teknologi informasi dan komunikasi`, berharap dapat memanfaatkan teknologi untuk lebih efektif dalam bekerja
 - `Profesionalisme` , berharap dapat bekerja secara professional sesuai dengan tugas dan fungsi tuntutan jabatan
 - `anti radikalisme`, menjaring informasi dari individu dan bagaimana bersikap dan bertindak saat menanggapi stimulus / keadaan dengan beberapa alternatif situasi
 
-### Tips TKP
+## Tips SKD
 
-- Perintah atasan adalah `mutlak`, dan tidak bisa di tolak
-- `pekerjaan dan keluarga` memiliki `derajat yang sama`, ketika memilih di antara kedua nya, keluarga menjadi tanggung jawab `pribadi`, tidak di tanggung dari kantor
-- `Inisiatif` dalam bekerja sangat penting
-- `Berani ambil keputusan` dengan arahan dari `atasan`
-- Selalu `evaluasi` kesalahan sekecil apapun
--` Menjalin kerja sama` dengan siapapun, `berkenalan lebih dulu` itu lebih baik
-- tingkatkan sifat `kompetitif`, dalam artian mau berkompetisi dan mendapatkan nilai terbaik
-- `etika` dan `attittude` yang utama
+ini ada beberapa tips dalam mengerjakan SKD 2024
+
+- Manajemen waktu
+- kerjakan dari yang paling mudah
+- pahami konteks soal
+- sering latihan soal
+
+### Tips TWK
+
+`pahami konteks masalah` siapa `aktor nya` , dan ngapain
+
+#### Profesionalisme
+
+dalam menghadapi masalah/keputusan :
+
+- Komunikasi yang baik antar pimpinan dengan bawahan
+- kepemimpian yang mendukung kemajuan
+- Inisiatif Tinggi
+- ber etika
+- Kualitas dan efektifitas kerja
+
+#### TIK
+
+pemanfaatan teknologi untuk membangun kemampuan anggota
+
+- Jika mereka awam, Interaksi langsung dengan teknologi lebih bagus ketimbang hanya materi
+- Penggunaan teknologi berdasarkan kebutuhan
+
+#### Anti Radikalisme
+
+- Toleran antar sesama dan cinta damai
+- berpikir rasional
+
+#### Pelayanan Publik
+
+- Keputusan mana yang manfaat lebih besar
+- tidak melanggar aturan
+- Melayani dengan ramah meskipun berbeda pandangan
+- jika kita tidak bisa, maka mintalah bantuan
+
+#### Sosial Budaya
+
+- Menghormati perbedaan budaya
+- Peduli terhadap sesama
+
+#### Jejaring Kerja
+
+- Kolaborasi dan kerja sama tim
+- Menghargai perbedaan pendapat
+
+### Tips TIU
+
+kerjakan dari yang paling mudah
+
+- Silogisme
+- Figural
+- verbal
+- kecepatan dan jarak
+- perbandingan jumlah pekerja
+- berhitung
+- deret angka
+
