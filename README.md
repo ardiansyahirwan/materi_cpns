@@ -73,6 +73,7 @@
       - [Deret Angka](#deret-angka)
       - [Kecepatan dan jarak](#kecepatan-dan-jarak)
       - [Perbandingan](#perbandingan)
+      - [Konversi berat](#konversi-berat)
   - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
   - [Tips SKD](#tips-skd)
     - [Tips TWK](#tips-twk)
@@ -830,6 +831,13 @@ t = waktu (jam)
 #### Perbandingan
 
 ini adalah salah satu contoh soal perbandingan dan cara penyelesaiian nya [soal](perbandingan.jpg)
+
+#### Konversi berat
+
+1 ons = 100 gram
+10 ons = 1 Kg
+1 ton = 1000 Kg
+1 kuintal = 100 kg
 
 ## Tes Kemampuan Pribadi (TKP)
 
