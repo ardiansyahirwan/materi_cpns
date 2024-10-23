@@ -74,6 +74,8 @@
       - [Kecepatan dan jarak](#kecepatan-dan-jarak)
       - [Perbandingan](#perbandingan)
       - [Konversi berat](#konversi-berat)
+      - [Konversi Waktu](#konversi-waktu)
+      - [Konversi Jumlah](#konversi-jumlah)
   - [Tes Kemampuan Pribadi (TKP)](#tes-kemampuan-pribadi-tkp)
   - [Tips SKD](#tips-skd)
     - [Tips TWK](#tips-twk)
@@ -832,12 +834,148 @@ t = waktu (jam)
 
 ini adalah salah satu contoh soal perbandingan dan cara penyelesaiian nya [soal](perbandingan.jpg)
 
+- **Contoh perbandingan senilai**
+
+1 petani di tugaskan untuk mengurus 20 sapi, pemilik peternakan menambahkan 20 sapi lagi, berapa petani yang di butuhkan untuk mengurus sapi tersebut ?
+
+```text
+1 petani -> 20 sapi
+x petani -> 20 + 20 sapi = 40 sapi
+
+1 . 40 = x . 20
+
+x = 1 . 40
+    ______
+      20
+x = 2
+
+jadi petani yang di butuhkan untuk mengurus 40 sapi yaitu 2 orang
+```
+
+> `tips`
+>
+> Jika nilai `a` bertambah dan nilai `b` bertambah, maka di gunakan `perbandingan senilai`
+>
+> maka `dikali silang`
+
+- **Contoh Perbandingan tak senilai**
+
+Sebuah proyek pembangunan taman kota dapat di selesaikan oleh 15 pekerja dalam waktu 40 hari, karena tuntutan pekerjaan, untuk mempercepat kontraktor menambah 5 orang, berapa hari yang di butuhkan untuk menyelesaikan projek tersebut ?
+
+```text
+15 pekerja -> 40 hari
+15 + 5 -> x
+
+15 . 40 = 20 . x
+
+x = 15 . 40
+    _______ = 15 . 2
+      20
+x = 30
+
+jadi jika pekerja di tambah 5 orang lagi, proyek akan selesai dalam 30 hari
+```
+
+> `tips`
+>
+> Jika nilai `a` **bertambah** dan nilai `b` **berkurang**, maka di gunakan `perbandingan tak senilai`
+>
+> maka `dikali lurus`
+
+- **Contoh perbandingan waktu terhenti**
+
+Pembangunan sebuah gedung sekolah di rencanakan selesai dalam waktu 60 hari kerja jika di kerjakan oleh 24 pekerja. setelah di kerjakan selama 15 hari, pekerjaan terhenti selama 5 hari karena hujan. jika kontaktor ingin tetap selesai sesuai rencana awal, berapa pekerja tambahan yang di butuhkan untuk menyelesaikan sisa pekerjaan ?
+
+```text
+60 hari - 15 hari sudah selesai -> 24 pekerja // bisa di abaikan
+45 hari -> 24 pekerja // sisa hari kerja yang belum selesai
+45 hari - 5 hari terhenti = 40 hari -> jumlah pekerja yang di butuhkan ?
+
+45 . 24 = 40 . x
+x = 45 .24    9 . 24
+    ______ =  ______ = 9 . 3
+      40         8
+x = 27 orang
+
+jadi untuk 40 hari sisa kerja, pekerja yang di butuhkan 27 orang. pekerja yang sudah ada sekitar 24 orang. tambahan yang di butuhkan yaitu 3 orang
+```
+
+> `Tips` waktu terhenti
+>
+> cari sisa hari, kemudian kurangi dengan waktu berhenti
+
+- **Contoh perbandingan pekerja terhenti**
+
+sebuah proyek pembangunan jembatan direncanakan selesai ddalam waktu 50 hari dengan 30 pekerja, setelah di kerjakan selama 20 hari 6 orang pekerja mengundurkan diri. jika kemampuan semua pekerja di anggap sama, berapa hari yang di butuhkan untuk menyelesaikan sisa pekerjaan dengan jumalh pekerja yang tersisa
+
+```text
+50 hari -> 30 pekerja
+        -> 6 pekerja mengundurkan diri -> 24 pekerja
+    x   -> 24 pekerja // jika 24 pekerja berapa hari yang bisa di selesaikan
+50 . 30 = x . 24
+x = 50 . 30   50 . 5
+    ______ =  ______
+      24        4
+x = 250
+    ___
+     4
+ kira kira untuk 24 pekerja akan selesai dalam 250/4 hari
+
+ sisa hari yang belum dikerjakan adalah 50/50 - 20/50 = 30/50
+
+ maka 250   30    5 . 30     150
+      ___ . ___ = ______ =  ____ = 37,5 di bulatkan menjadi 38 hari
+       4    50      4         4
+```
+
+sebuah proyek perumahan selesai dalam 240 hari dengan 30 orang pekerja, pada hari ke 121, 10 orang mengundurkan diri. berapa hari yang di butuhkan untuk menyelesaikan sisa pekerjaan yang belum di kerjakan
+
+```text
+20 . x = 240 . 30
+x = 12 . 30
+x = 360 hari jika pekerja 20 orang
+
+sisa hari kerja = 240/240 - 120/240 = 120/240
+
+= 120         120 . 3
+  ___ . 360 = _______ = 60 . 3 = 180
+  240            2
+
+  jadi dibutuhkan 180 hari untuk mengerjakan sisa pekerjaan dengan 20 pekerja
+```
+
+> `Tips` pekerja terhenti
+>
+> `hitung pekerja aktif dikurang pekerja yang berhenti`
+>
+> kemudian `hitung hari yang dibutuhkan` `dengan jumlah pekerja yang sudah dikurangi`
+>
+> hitung sisa hari yang belum dikerjakan
+>
+> `kalikan sisa hari dengan hari ketika jumlah pekerja sudah dikurangi`
+
 #### Konversi berat
 
 1 ons = 100 gram
 10 ons = 1 Kg
 1 ton = 1000 Kg
 1 kuintal = 100 kg
+
+#### Konversi Waktu
+
+1 tahun = 365 hari
+1 tahun = 52 minggu
+1 catur wulan = 4 bulan
+1 windu = 8 tahun
+1 dasawarsa = 10 tahun
+1 abad = 100 tahun
+1 lustrum = 5 tahun
+
+#### Konversi Jumlah
+
+1 lusin = 12 buah
+1 gross = 12 lusin = 144 buah
+1 kodi = 20 buah
 
 ## Tes Kemampuan Pribadi (TKP)
 
