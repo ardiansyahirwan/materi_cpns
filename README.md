@@ -68,11 +68,12 @@
       - [Penarikan Kesimpulan](#penarikan-kesimpulan)
       - [Penalaran Analitis](#penalaran-analitis)
     - [Kemampuan Numerik](#kemampuan-numerik)
+      - [Pecahan Istimewa](#pecahan-istimewa)
       - [Hitung Pecahan](#hitung-pecahan)
       - [Hitung pecahan campuran](#hitung-pecahan-campuran)
       - [Deret Angka](#deret-angka)
       - [Kecepatan dan jarak](#kecepatan-dan-jarak)
-      - [Perbandingan](#perbandingan)
+      - [Perbandingan senilai dan tidak senilai](#perbandingan-senilai-dan-tidak-senilai)
       - [Konversi berat](#konversi-berat)
       - [Konversi Waktu](#konversi-waktu)
       - [Konversi Jumlah](#konversi-jumlah)
@@ -671,36 +672,6 @@ Jawabannya adalah A
 
 #### Penarikan Kesimpulan
 
-`Biasanya soal di awal`
-
-1. `Penarikan Kesimpulan Logis`
-
-Ada beberapa metode dalam penarikan kesimpulan Logis di antaranya yaitu :
-
-- `Modus Ponens` 
-> Pernyataan 1 : `p ? q`
-> 
-> Pernyataan 2 : `p`
-> 
-> Kesimpulan   : `q `
-
-```text
-Pernyataan 1 : Jika Mandalika lulus ujian maka dia hebat
-Pernyataan 2 : Mandalika lulus ujian
-Kesimpulan   : dia Hebat
-```
-- `Modus Tolens` 
-> Pernyataan 1 : `p ? q`
-> 
-> Pernyataan 2 : `-q`
-> 
-> Kesimpulan   : `-p `
-
-```text
-Pernyataan 1 : Jika Mandalika lulus ujian maka dia hebat
-Pernyataan 2 : Mandalika tidak hebat
-Kesimpulan   : Mandalika tidak lulus ujian
-```
 - `Silogisme` 
 > Pernyataan 1 : `p ? q`
 > 
@@ -714,7 +685,7 @@ Pernyataan 2 : Jika Mandalika hebat maka dia pintar
 Kesimpulan   : Jika Mandalika lulus ujian maka dia pintar
 ```
 
-2. Untuk penarikan kesimpulan yang tidak bisa menggunakan `penarikan kesimpulan secara logis` bisa menggunakan `Diagram Venn`
+1. Untuk penarikan kesimpulan yang tidak bisa menggunakan `penarikan kesimpulan secara logis` bisa menggunakan `Diagram Venn`
 
 - Apabila menggunakan `semua` atau `setiap`. berarti `semua anggota tanpa terkecuali`
 - Apabila menggunakan `sebagian`,`beberapa`, `ada`, `sementara` berarti `hanya sebagian`
@@ -733,6 +704,14 @@ E. Semua siswa kelas XII tidak mendapat nilai tinggi dan tidak pintar matematika
 menggunakan diagram venn maka hasilnya A
 ```
 
+> `Tips`
+>
+> - tidak ada kata `pasti` dalam silogisme
+>
+> - jika di pernyataan ke 2 , ada kata nama orang atau subjek `ani, PT abc` maka hasil kesimpulannya harus ada `ani, PT abc`
+>
+> - jika pernyataan ke 2 ada kata `sebagian` maka kesimpulannya harus ada kata `sebagian` 
+
 #### Penalaran Analitis
 
 Bisanya dapat berupa urutan, posisi duduk, meligkar, ada beberapa model untuk mengerjakan model amalitis yaitu :
@@ -740,7 +719,29 @@ Bisanya dapat berupa urutan, posisi duduk, meligkar, ada beberapa model untuk me
 - `Model Perbandingan`, yaitu berupa `perbandingan nilai dua atau lebih nilai`. cara menyelesaikannya dengan `perbandingan aritmetika dasar`
 - `Model urutan`, model urutan sering kali muncul bersamaan dengan model perbandingan. soal urutan mempunyai kata kunci `kurang dari` `lebih dari` atau `sama dengan`
 
+> `Tips`
+>
+> untuk `urutan duduk melingkar`
+>
+> - langsung buat lingkaran dengan 8 arah yang saling berhadapan
+> - cari yang saling berhadapan terlebih dahulu
+>
+> untuk `soal yang mengenakan baju`
+>
+> - bisa menggunakan eliminasi jawaban yang ada di pilihan ganda
+>
+> untuk `duduk 4 baris`
+>
+> - cari yang berhadapan
+> - nama yang di sebutkan terlebihh dahulu dalam soal ditulis dari sebelah kiri
+
 ### Kemampuan Numerik
+
+#### Pecahan Istimewa
+
+```text
+//
+```
 
 #### Hitung Pecahan
 
@@ -830,7 +831,7 @@ t = waktu (jam)
   ---------
 ```
 
-#### Perbandingan
+#### Perbandingan senilai dan tidak senilai
 
 ini adalah salah satu contoh soal perbandingan dan cara penyelesaiian nya [soal](perbandingan.jpg)
 
@@ -953,6 +954,30 @@ sisa hari kerja = 240/240 - 120/240 = 120/240
 > hitung sisa hari yang belum dikerjakan
 >
 > `kalikan sisa hari dengan hari ketika jumlah pekerja sudah dikurangi`
+
+- **Perbandingan 3 variable**
+
+20 orang dapat menyelesaikan 2 jembatan dalam waktu 30 hari. berapa waktu yang di butuhkan oleh 10 orang untuk menyelesaikan 4 jembatan ?
+
+```text
+    / H \
+    -----
+  / O | W \
+  ---------
+
+  H = hasil atau target
+  O = Orang (kecepatan)
+  W = waktu atau hari
+
+  2 jembatan = 20 orang . 30 hari
+  4 jembatan = 10 orang . x hari 
+
+    1     20 . 3
+  = __ = ________ 
+    2     1 . x
+
+  x = 2 . 20 . 3 = 120 hari
+```
 
 #### Konversi berat
 
