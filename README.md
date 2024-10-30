@@ -747,6 +747,14 @@ Bisanya dapat berupa urutan, posisi duduk, meligkar, ada beberapa model untuk me
 |              |            |            |               | 5/8 = 0,625 | 3/9 = 0,3333 |
 |              |            |            |               | 7/8 = 0,875 | 4/9 = 0,4444 |
 
+> `Tips`
+>
+> Untuk mengubah bilangan desimal ke persen maka di kalikan `100`
+>
+> `,` koma nya pindah ke kanan sebanyak jumlah `0`
+>
+> misal `1/3 = 0,3333 di ubah ke persen x 100 = 33,33 %`
+
 #### Hitung Pecahan
 
 > `Tips`
