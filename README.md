@@ -739,9 +739,13 @@ Bisanya dapat berupa urutan, posisi duduk, meligkar, ada beberapa model untuk me
 
 #### Pecahan Istimewa
 
-```text
-//
-```
+
+| Penyebut 3   | Penyebut 4 | Penyebut 5 | Penyebut 6    | Penyebut 8  | Penyebut 9   |
+| ------------ | ---------- | ---------- | ------------- | ----------- | ------------ |
+| 1/3 = 0,3333 | 1/4 = 0,25 | 3/5 = 0,6  | 1/6 = 0,16667 | 1/8 = 0,125 | 1/9 = 0,1111 |
+| 2/3 = 0,6667 | 3/4 = 0,75 | 4/5 = 0,8  | 5/6 = 0,83333 | 3/8 = 0,375 | 2/9 = 0,2222 |
+|              |            |            |               | 5/8 = 0,625 | 3/9 = 0,3333 |
+|              |            |            |               | 7/8 = 0,875 | 4/9 = 0,4444 |
 
 #### Hitung Pecahan
 
