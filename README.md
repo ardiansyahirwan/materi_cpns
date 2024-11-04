@@ -36,6 +36,8 @@
       - [Wilayah dalam sebuah Negara](#wilayah-dalam-sebuah-negara)
       - [Status Kewarganegaraan](#status-kewarganegaraan)
     - [Materi Pilar Negara](#materi-pilar-negara)
+      - [Tugas MK, MA, KY](#tugas-mk-ma-ky)
+      - [Eksekutif, Yudikatif, Legislatif](#eksekutif-yudikatif-legislatif)
       - [UUD 1945](#uud-1945)
       - [UUD 1945 Sebelum Amandemen](#uud-1945-sebelum-amandemen)
       - [UUD 1945 Setelah Amandemen](#uud-1945-setelah-amandemen)
@@ -366,6 +368,36 @@ ditentukan berdasarkan dua asas yaitu :
 ### Materi Pilar Negara
 
 bertujuan untuk membentuk karakter positif melalui pemahaman dan pengamalan nilai nilai dalam pancasila, UUD 1945, NKRI dan Bhinneka Tunggal Ika
+
+#### Tugas MK, MA, KY
+
+Ketuan MA dipilih oleh Hakim Agung dan diangkat langsung oleh presiden
+
+`MA` bertugas untuk : 
+
+- Membawahi peradilan umum agama militer dan tata usaha negara
+- memastikan keseragaman penerapan hukum melalui keputusan kasasi dan peninjauan Kembali
+- Menguji undang undang, apakah isinya bertentangan dengan peraturan dari tingkat yang lebih tinggi (hak uji materil)
+
+`MK` bertugas untuk :
+
+- Menguji undang-undang terhadap UUD
+- Memutus sengketa kewenangan lembaga negara
+- Memutus pembubaran Partai politik
+- memutus perselisihan hasil `PEMILU`
+
+`KY` bertugas untuk :
+
+- melakukan pendaftaran calon hakim Agung
+- melakukan seleksi terhadap calon hakim Agung
+- Menetapkan calon hakim Agung
+- mengajukan calon hakim agung ke DPR
+
+#### Eksekutif, Yudikatif, Legislatif
+
+- `Eksekutif`, Menjalankan Undang undang, ex: presiden, menteri, lembaga pemerintahan non kementrian
+- `Legislatif`, membuat dan Merumuskan undang undang, ex: DPR, MPR, DPD
+- `Yudikatif`, Mengadili pelanggaran konstitusi dan perundang undangan oleh `institusi pemerintahan` , ex : MK, MA, KY
 
 #### UUD 1945
 
@@ -911,6 +943,15 @@ x = 45 .24    9 . 24
 x = 27 orang
 
 jadi untuk 40 hari sisa kerja, pekerja yang di butuhkan 27 orang. pekerja yang sudah ada sekitar 24 orang. tambahan yang di butuhkan yaitu 3 orang
+
+untuk pekerja waktu terhenti bisa menggunakan rumus:
+
+Tambahan pekerja = Pekerja x Libur        24 . 5      24 . 5
+                  _________________ = _____________ = _______
+                      Sisa hari       (60 - 15 - 5)     40
+                    24
+                =   __ = 3
+                    8
 ```
 
 > `Tips` waktu terhenti
