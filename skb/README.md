@@ -27,7 +27,33 @@
     - [Resolved/Completed](#resolvedcompleted)
     - [Cancelled](#cancelled)
     - [closed](#closed)
-- [Pengelolaan Data](#pengelolaan-data)
+- [infrastruktur TI](#infrastruktur-ti)
+  - [Pengertian Infrastruktur](#pengertian-infrastruktur)
+  - [Sejarah dan perkembangan Teknologi](#sejarah-dan-perkembangan-teknologi)
+- [Komponen Infrastruktur TI](#komponen-infrastruktur-ti)
+  - [Tren Perangkat keras](#tren-perangkat-keras)
+  - [Cloud Computing](#cloud-computing)
+- [Manajemen Infrastruktur TI](#manajemen-infrastruktur-ti)
+  - [Pengadaan Infrastruktur](#pengadaan-infrastruktur)
+  - [Penyebaran aset Infrastruktur](#penyebaran-aset-infrastruktur)
+  - [Penggunaan Aset Infrastruktur](#penggunaan-aset-infrastruktur)
+- [Keuntungan melakukan manajemen infrastruktur TI](#keuntungan-melakukan-manajemen-infrastruktur-ti)
+- [Perencanaan Infrastruktur TI](#perencanaan-infrastruktur-ti)
+  - [Bagaimana mengetahui kondisi infrastruktur TI](#bagaimana-mengetahui-kondisi-infrastruktur-ti)
+  - [Menentukan layanan Infrastruktur TI untuk kebutuhan Organisasi](#menentukan-layanan-infrastruktur-ti-untuk-kebutuhan-organisasi)
+    - [Menentukan Level Kritis suatu Infrastruktur TI](#menentukan-level-kritis-suatu-infrastruktur-ti)
+  - [Kesimpulan perancanaan Infrastruktur TI](#kesimpulan-perancanaan-infrastruktur-ti)
+- [Pengadaan/Penyediaan Infrastruktur TI](#pengadaanpenyediaan-infrastruktur-ti)
+  - [Jenis dan kategori pengadaan TI](#jenis-dan-kategori-pengadaan-ti)
+    - [Pengadaan *Hardware*](#pengadaan-hardware)
+    - [Pengadaan *software*](#pengadaan-software)
+    - [Pengadaan Layanan TI](#pengadaan-layanan-ti)
+    - [Pengadaan pemeliharaan TI](#pengadaan-pemeliharaan-ti)
+    - [Pengadaan Jasa Konsultasi Teknologi Informasi](#pengadaan-jasa-konsultasi-teknologi-informasi)
+  - [Tahapan pengadaan Infrastruktur TI](#tahapan-pengadaan-infrastruktur-ti)
+  - [Penetapan kebutuhan Pengadaan Infrastruktur TI](#penetapan-kebutuhan-pengadaan-infrastruktur-ti)
+  - [Pembentukan tim pengadaan Infrastruktur](#pembentukan-tim-pengadaan-infrastruktur)
+  - [Solusi Pengadaan Infrastruktur TI](#solusi-pengadaan-infrastruktur-ti)
 
 # Kompetensi Pranata Komputer yang harus di capai
 
@@ -231,5 +257,265 @@ Permintaan yang di batalkan
 
 Permintaan sudah selesai
 
-# Pengelolaan Data
+# infrastruktur TI
 
+Diharapkan untuk memahami pengelolaan infrastruktur TI untuk `merencanakan`, `pengoperasian`, `melakukan pengadaan`, `pemeliharaan` dan `pemantauan kinarja` infrastruktur TI.
+
+diharapkan juga untuk :
+
+- Memahami Komponen Infrastruktur TI
+- Memahami Tahapan kegiatan Manajemen Infrastruktur TI
+- Mampu melakukan pencatatan dan pemeriksaan perangkat *End User* dengan spesifikasi teknis
+- Mampu melakukan pemasangan infrastruktur TI
+- Mampu melakukan pemeliharaan infrastruktur TI
+- Mampu melakukan pemantauan kinerja infrastruktur TI
+
+## Pengertian Infrastruktur
+
+`Robertson dan sribar` mengatakan bahwa `Infrastruktur` adalah  `suatu struktur yang ada dibawah struktur`. yang artinya lapisan tersebut saling mendukung.
+
+Infrastruktur memiliki karateristik :
+
+- `Pemakaiannya lebih luas` dari struktur di atasnya
+- `lebih permanen dan statis` dari struktur di atasnya
+- `terhubung secara fisik` dengan `struktur di atasnya`
+- `dimiliki dan dikelola` oleh pihak `yang berbeda` dari `struktur yang di dukungnya`
+
+Menurut `ITIL V3` (*Information Technology Infrastructure Library*) infrastruktur teknologi informasi adalah suatu kombinasi `sekumpulan perangkat keras, perangkat lunak, jaringan komputer, fasilitas, dan lainnya` (termasuk seluruh teknologi informasi), untuk `mengembangkan, menguji, memberikan, memantau, mengendalikan layanan teknologi informasi`.
+
+## Sejarah dan perkembangan Teknologi
+
+beberapa periode era revolusi infrastruktur
+
+- `1930 - 1950` , era pertama komputasi bisnis. tidak ada programmer, operator mesin manusia adalah sistem operasinya
+- `1959 Era mainframe dan komputer mini`, komputasi terpusat di bawah kendali programmer dan sistem operasi. pada `1950` dikenalkan komputer UNIVAC dan IBM 700. pada 1959 dikenalkan transistor dan mainframe.
+- `1981 era PC`, digunakannya PC oleh perusahaan Amerika Serikat
+- `1983 Era Klien Server`
+- `1992 era komputasi internet`, setelah tahun 1995 banyak `perusahaan yang menggunakan standar jaringan TCP/IP`. infrastruktur ini berhasil menghubungkan berbagai piranti keras.
+
+beberapa hukum penggerak teknologi evolusi infrastruktur TI :
+
+- `Hukum *Moore* dan daya *microprocessing*`, kecepatan perhitungan microprocessor adalah eksponensial, peningkatan dalam daya prosessor maka biaya teknologi akan menurun `(Gordon E. Moore pendiri Intel Processor)`.
+- `Hukum penyimpanan digital massal` `Lyman dan varian 2003`, dunia memproduksi 5 exabyte/tahun informasi unik. jumlah informasi digital kurang lebih menjadi dua kali lipat setiap tahunnya.
+- `Hukum Metcalfe dan ekonomi jaringan`, nilai suatu jaringan sama dengan kuadrat jumlah pengguna yang terhubung dengan sistem
+- `Penurunan biaya komunikasi dan internet (Pearson Canada Inc., 2013)`, semakin banyak penggunaan fasilitas komunikasi dan komputasi serta akses internet, semakin menurunkan biaya komunikasi.
+
+# Komponen Infrastruktur TI
+
+Berikut merupakan beberapa komponen dalam infrastruktur TI yaitu :
+
+- `Komponen software`, seperti menjalankan sistem operasi (Windows, Linux, Mac)
+- `Komponen telekomunikasi/jaringan`, perangkat berupa akses internet, WAN, akses internet, dsb
+- `Komponen penyimpanan data dan management`, dijadikan sebagai sarana untuk mengatur, dan mengolah data yang tersimpan. contoh : penggunaan Ms. SL dan *harddisk*
+- `komponen konsultasi integrasi sistem dan layanan`
+- `komponen platform internet`
+- `Komponen software aplikasi enterprise`, seperti oracle, SAP, Microsoft
+
+## Tren Perangkat keras
+
+terdapat beberapa tren teknologi hardware dalam infrastruktur :
+
+- `Platform digital selular (Handphone)`
+- `Grid Computing`, komputer dalam jumah besar yang terkoneksi dengan arsitektur jaringan yang terdistribusi untuk menyelesaikan masalah yang kompleks. contoh : SETI@homeproject untuk riset luar angkasa
+- `Hardware Virtualization`, Virtualisasi adalah teknologi yang membuat aplikasi *guest operating system* dan penyimpanan di abstraksikan pada sistem virtual yang menyerupai hardware yang nyata. Yang `membuat tiruan hardware adalah Hypervisor`, Hypervisor yang digunakan berjenis baremetal hypervisor, yaitu Hypervisor yang berjalan langsung di hardware dan bertindak juga sebagai host OS.
+- `Prosesor yang bersifat kinerja tinggi dan hemat daya`. Prosesor multicore adalah sirkuit terpadu yang memiliki dua atau lebih inti processor untuk meningkatkan kinerja.
+- `Service Oriented Architecure`, adalah layanan web yang digunakan untuk membangun sistem perangkat lunak yang dikenal sebagai *Service Oriented Architecure* atau aritektur berbasis layanan. dengan SOA kita dapat bertukar informasi antar sistem operasi yang berbeda
+
+## Cloud Computing
+
+Pemanfaatan TI dalam jaringan yang berbasis `cloud` dimana dapat berbagi(*sharing*) *resources* data antar komputer dan peralatan lain sesuai permintaan dan kebutuhan.
+
+Cloud computing menggunakan teknologi *hardware virtualization* untuk membuat `virtual machine dalam server fisik`, aktor yang membuat hal tersebut adalah `hypervisor`. Hypervisor type 1 hampir selalu digunakan, berfungsi sebagai Host OS dan mengelola resource dalam server fisik.
+
+Beberapa elemen utama dalam `autonomic computing yang menjamin sistem cloud computing` tanpa input dari user yaitu `self-healing`, `self-optimization`, `self-configure`, `self-protection`.
+
+Sebuah aplikasi yang berfungsi sebagai *resource manager* dan memiliki fungsi optimasi secara otomatis dalam cloud computing adalah `Virtual Infrastructure Manager`(VIM). VIM mengatur resource yang di kembalikan saat user request sebuah layanan. dimana data akan disimpan, kapan dan bagaimana replikasi data dibuat, load balance dsb.
+
+Menurut `National Institute of Standards and Technology` terdapat 5 karakteristik cloud computing ;
+
+- `On-demand self service`, user menyoapkan konfigurasi komputasi secara mandiri.
+- `Broad network access`, kemampuan `cloud computing` untuk bisa di akses dari mana saja tanpa terkendala lokasi.
+- `Resource pooling`, Komputasi resource milik provider yang di satukan secara fisik dan melayani konsumen dalam jumlah banyak menggunakan model `multitenantcy`.
+- `Rapid elasticity`, kapabilitas layanan dari cloud dapat di pakai oleh user secara dinamis berdasarkan permintaan. user dapat menaikkan atau menurunkan kapasitas layanan
+- `Measured service`, memiliki kemampuan pengukuran tingkat penggunaan sehingga, secara otomatis dapat mengontrol dan mengoptimasi sumber daya yang digunakan.
+
+berikut beberapa `model layanan cloud computing` di bagi menjadi 3 jenis ;
+
+- `Iaas (Infrastructure as a Service)`, menjadikan jaringan, penyimpanan dan resource computing sebagai layanan,
+- `Paas (Platform as a Service)`, menjadikan platform sebagai layanan
+- `Saas (Software as a Service)`, menjadikan perangkat lunak sebagai layanan
+
+ada beberapa model dalam implementasi cloud computing, yaitu :
+
+- `Public cloud` disediakan secara penuh melalui jaringan internet dan bisa digunakan oleh siapa pun. minim maintenance dan paling `cost effective`.
+- `private cloud`, layanan lebih ke private, dan biasanya digunakan untuk membangun cloud milik perusahaan sendiri dengan memanfaatkan infrastruktur yang telah dimiliki, atau bisa juga menyewa dari pihak ketiga. keuntungannya yaitu sistem keamanan lebih baik, fleksibel dan kostumisasi tinggi.
+- `Hybrid cloud`, gabungan antara public cloud dengan hybrid cloud. kita bisa memilih proses bisnis mana yang di pindahkan ke public atau private.
+
+# Manajemen Infrastruktur TI
+
+ada beberapa tahapan dalam manajemen Aset Infrastruktur TI :
+
+- Pengadaan aset Infrastruktur
+- Penyebaran aset Infrastruktur
+- Penggunaan aset Infrastruktur
+
+## Pengadaan Infrastruktur
+
+```text
+1. sistem pengadaan -----> sistem manajemen aset
+2. sistem manajemen aset -----> sistem pembelian 
+```
+
+- `sistem pengadaan memberikan data ke sistem manajemen aset`
+- organisasi yang menerima barang `menkonfimasi aset di sistem manajemen aset dan memberi tahu sistem pembelian`
+- pembayaran dapat di lakukan
+
+## Penyebaran aset Infrastruktur
+
+pada saat aset disebarkan, sistem harus diperbaharui dengan data terbaru. seperti lokasi, konfigurasi,vendor, garansi dan pihak yang bertanggung jawab yang nanti data nya berguna dalam mengelola aset
+
+## Penggunaan Aset Infrastruktur
+
+Penggunaan aset yang dimaksud adalah penggunaan dinamis yang dapat diperbaharui secara berkala oleh perangkat lunak yang mengukur penggunaan aset, sehingga aset berharga yang tidak digunakan dapat digunakan kembali
+
+# Keuntungan melakukan manajemen infrastruktur TI
+
+beberapa keuntungan di antaranya adalah
+
+- Kontrol Inventaris, Pengendalian persediaan
+- Dapat mengurangi total biaya kepemilikan *Total Cost Ownership* (TCO) dengan menghilangkan biaya dari duplikasi aset
+- Kepatuhan lisensi perangkat lunak
+- pemantauan dan pengendalian operasional
+- pengambilan keputusan tentang penerapan sumber daya TI
+- Standarisasi dan kepatuhan, hanya menyediakan infrastruktur yang memenuhi standar
+- dapat mengevaluasi keputusan tentang pembelian barang di masa depan
+
+# Perencanaan Infrastruktur TI
+
+Perencanaan Infrastruktur TI berfokus pada kegiatan pencatatan infrastruktur, proses ini menjadi landasan pengambilan keputusan terkait pengadaan atau penggunaan infrastruktur TI yang sudah ada, bagaimana implementasi penggunannya dan bagaumana infrastruktur TI dapat mendukung operasional organisasi.
+
+lima inti peertanyaan yang perlu di ketahui :
+
+1. Bagaimana kondisi infrastruktur TI saat ini ?
+2. Layanan apa yang perlu di berikan infrastruktur TI saat ini ?
+3. Infrastruktur TI mana yang penting untuk mempertahankan kinerja layanan ?
+4. Berapa biaya minimum untuk pengelolaan infrastruktur TI ?
+5. bagaimana ketersediaan anggarannya ?
+
+untuk menjawab pertanyaan berikut, ada beberapa langkah dalam menjaawabnya
+
+## Bagaimana mengetahui kondisi infrastruktur TI
+
+berikut langkah langkah untuk mengetahu kondisi infrastruktur TI ;
+
+- Melakukan pencatatan daftar inventarisasi infrastruktur TI termasuk daftar investasi lisensi software dan pemetaan sistem dan infrastruktur TI
+- Melacak penggunaan infrastruktur TI dengan menetapkan dan di dokumentasikan bagaimana cara penggunaan infrastruktur TI dan informasi fasilitas pemrosesan
+- Menilai sisa masa manfaat infrastruktur TI dengan melihat `tabel proyeksi masa pakai` atau kurva penyusutan infrastruktur TI
+- Menentukan nilai aset dan biaya penggantian
+- Daftar infrastruktur TI dapat dikelompokkan menurut jenis infrastrukturnya, tipe produk, lokasi, kondisi, tingkat depresiasi nilai, dan lainnya.
+
+dengan mengetahui kebutuhan organisasi, kita dapat menentukan tingkat layanan dan tujuan kinerja sistem.
+
+## Menentukan layanan Infrastruktur TI untuk kebutuhan Organisasi
+
+untuk menentukan yang mana infrastruktur TI yang penting, `perlu dibuat matriks` `seberapa kritis` infrastruktur TI dan `di susun peringkat` `sesuai level kritis` tersebut.
+
+### Menentukan Level Kritis suatu Infrastruktur TI
+
+ada beberapa pertanyaan yang dapat di ajukan untuk menentukan level kritis dari sebuah arsitektur TI, yaitu ;
+
+1. Bagaimana infrastruktur tersebut bisa gagal ?
+2. Bagaimana kegagalan infrastruktur TI ?
+3. Bagaimana kemungkinan dan konsekuensi dari kegagalannya ?
+4. Berapa biaya untuk memperbaiki infrastruktur TI ?
+5. apa saja biaya lain dari sosial dan lingkungan yang terkait dengan kegagalan infrastruktur TI tersebut ?
+
+## Kesimpulan perancanaan Infrastruktur TI
+
+Dengan menerapkan beberapa hal diatas, perancanaan infrastruktur TI yang baik akan membantu dalam membuat keputusan untuk implementasi Infrastruktur TI berbasis resiko dengan menggunakan infrastruktur Ti yang tepat, pada waktu yang tepat, dengan alasan yang tepat.
+
+Manajemen Infrastruktur TI harus diterapkan untuk mencapai perbaikan berkelanjutan (`Continual Improvement`) melalui langkah `Plan, do, check, action`
+
+# Pengadaan/Penyediaan Infrastruktur TI
+
+Pengadaan TI merupakan proses mendapatkan pasokan barang TI/Jasa TI. Menurut `Robert Heckman` Pengadaan TI adalah  proses interdisipliner, biasanya melibatkan staf dari organisasi TI, bagian pembelian, bagian hukum, bagian keuangan/perbendaharaan, dan pengguna akhir dari semua departemen di seluruh organisasi.
+
+sebelum melakukan pengadaan TI ada baik nya diperhatikan beberapa hal , diantaranya ;
+
+- Menyusun proyeksi jangka panjang dari kebutuhan investasi TI
+- Mengidentifikasi kebutuhan proyeksi jangka pendek dengan menerapkan analisis yang ketat termasuk pertimbangan resiko
+- Menerapkan proses untuk memastikan rencana pengadaan TI memenuhi kebutuhan
+- Menerapkan proses untuk mengatasi implikasi anggaran
+- Memastikan peluang efisiensi yang tepat
+- Menganalisis rencana investasi TI dan persyaratan pendanaan demi keberlanjutan keuangan jangka panjang
+
+## Jenis dan kategori pengadaan TI
+
+### Pengadaan *Hardware*
+
+- Pengadaan hardware umum : Laptop, PC, Printer
+- Pengadaan hardware non umum : perangkat `data center`
+
+### Pengadaan *software*
+
+- Pengadaan umum : Sistem Operasi, `Office suite`
+- Pengadaan non umum : software pendukung bisnis, pengadaan software kustomisasi
+
+### Pengadaan Layanan TI
+
+Pengadaan layanan infrastruktur TI pada pihak ketiga melalui outsourching. contoh sewa jasa jaringan komunikasi
+
+### Pengadaan pemeliharaan TI
+
+- Pengadaan pemeliharaan perangkat hardware yang telah habis masa jaminan pemeliharaannya
+- pengadaan pemeliharaan software, contoh : perpanjangan lisensi software
+
+### Pengadaan Jasa Konsultasi Teknologi Informasi
+
+pengadaan jasa konsultasi terhadap imlementasi suatu sistem TI, untuk memastikan sistem berjalan sesuai dengan yang di inginkan
+
+## Tahapan pengadaan Infrastruktur TI
+
+- Penetapan kebutuhan pengadaan
+- pembentukan tim pengadaan
+- penyusunan dokumen pengadaan
+- pengumuman pengadaan
+- Evaluasi dan memilih penyedia infrastruktur TI
+- Pelaksanaan kontrak
+- Pengujian Infrastruktur
+- Pengiriman dan pernyerahan infrastruktur
+
+## Penetapan kebutuhan Pengadaan Infrastruktur TI
+
+Langkah dalam metapkan kebutuhan pengadaan adalah :
+
+- `Melakukan identifikasi kebutuhan`, kebutuhan dapat di identifikasi dari hasil dari tahap perencanaan infrastruktur TI
+- `Melakukan diskusi dengan tim lintas fungsi` dalam organisasi untuk identifikasi kebutuhan dan peran , tanggung jawab dalam tim pengadaan
+- `Menyempurnakan kebutuhan dan spesifikasi` sesuai kebututuhan organisasi
+- `Mengumpulkan informasi mengenai solusi alternatif infrastruktur TI`
+- Melakukan analisis biaya-manfaat (`Cost analysis benefit`) untuk kepastian biaya
+- `Mengevaluasi solusi alternatif`
+- `Mengembangkan rencana pengadaan infrastruktur`
+- Mendapatkan persetujuan biaya
+- Menetapkan kebutuhan pengadaan infrastruktur
+
+## Pembentukan tim pengadaan Infrastruktur
+
+
+
+## Solusi Pengadaan Infrastruktur TI
+
+dalam perencanaan infastruktur kita mengenal seberapa kritisnya infrastruktur tersebut, untuk pengadaan atau penyediaan infrastruktur nya, ada beberapa solusi yang tepat diantaranya :
+
+- Gunakan kembali (reuse) infrastruktur dengan mempertahankan yang ada (retain)
+- penggunaan kembali infrastruktur yang sudah ada dengan melakukan peremajaan atau penambahan fitur
+- Pengadaan infrastruktur baru (replace)
+- Penghapusan infrastruktur yang sudah tidak layak pakai (remove)
+
+beberapa pertimbangan dalam pemilihan solusi diantaranya : `standar barang` , `standar kebutuhan`, `standar teknologi`, `standar biaya organisasi`.
+
+> `penggunaan infrastruktur kembali` jika infrastruktur masih memenuhi dari segi barang, kebutuhan, teknologi dan biaya organisasi nya
+>
+> `upgrade infrastruktur` jika terdapat perubahan teknologi, dan biaya untuk upgrade tidak lebih besar dari pengadaan infrastruktur baru
+>
+> `pengadaan infrastruktur baru` jika terdapat kebutuhan organisasi dan perubahan teknologi yang dinilai lebih efisien dengan pengadaan baru
