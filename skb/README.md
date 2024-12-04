@@ -53,7 +53,55 @@
   - [Tahapan pengadaan Infrastruktur TI](#tahapan-pengadaan-infrastruktur-ti)
   - [Penetapan kebutuhan Pengadaan Infrastruktur TI](#penetapan-kebutuhan-pengadaan-infrastruktur-ti)
   - [Pembentukan tim pengadaan Infrastruktur](#pembentukan-tim-pengadaan-infrastruktur)
+  - [Penyusunan dokumen Pengadaan Infrasruktur TI](#penyusunan-dokumen-pengadaan-infrasruktur-ti)
+    - [Kerangka Acuan Kerja (KAK)](#kerangka-acuan-kerja-kak)
+    - [Kontrak Pengadaan](#kontrak-pengadaan)
+  - [Mengumumkan pengadaan Infrastruktur TI](#mengumumkan-pengadaan-infrastruktur-ti)
+  - [Evaluasi Proposal Teknis dan pemilihan Penyedia Barang/Jasa Infrastruktur TI](#evaluasi-proposal-teknis-dan-pemilihan-penyedia-barangjasa-infrastruktur-ti)
+  - [Pelaksanaan Kontrak](#pelaksanaan-kontrak)
+  - [Pemeriksaan Kesesuaian antara Infrastruktur TI dengan spesifikasi teknis](#pemeriksaan-kesesuaian-antara-infrastruktur-ti-dengan-spesifikasi-teknis)
+    - [Manual](#manual)
+      - [Komputer / Laptop](#komputer--laptop)
+      - [Printer / Scanner](#printer--scanner)
+    - [Menggunakan Software atau Alat bantu / tools](#menggunakan-software-atau-alat-bantu--tools)
+      - [Komputer](#komputer)
+  - [Pengujian Infrastruktur](#pengujian-infrastruktur)
+    - [Komputer/Laptop](#komputerlaptop)
+    - [Printer/Scanner](#printerscanner)
+    - [UPS](#ups)
+  - [Pengiriman dan Penyerahan Infrastruktur TI](#pengiriman-dan-penyerahan-infrastruktur-ti)
   - [Solusi Pengadaan Infrastruktur TI](#solusi-pengadaan-infrastruktur-ti)
+- [Pemasangan Perangkat Fisik Infrastruktur TI](#pemasangan-perangkat-fisik-infrastruktur-ti)
+  - [Komponen Perangkat Fisik Infrastruktur TI](#komponen-perangkat-fisik-infrastruktur-ti)
+    - [1. Komponen Hardware](#1-komponen-hardware)
+    - [2. Komponen Software](#2-komponen-software)
+    - [3. Komponen Telekomunikasi/Jaringan](#3-komponen-telekomunikasijaringan)
+    - [4. Komponen penyimpanan data dan Manajemen](#4-komponen-penyimpanan-data-dan-manajemen)
+    - [5. Komponen Konsultasi Integrasi sistem dan layanan](#5-komponen-konsultasi-integrasi-sistem-dan-layanan)
+    - [6. Komponen platform internet](#6-komponen-platform-internet)
+    - [7. Komponen software aplikasi Interface](#7-komponen-software-aplikasi-interface)
+  - [Konfigurasi Komponen Infrastruktur](#konfigurasi-komponen-infrastruktur)
+    - [Komponen Hardware](#komponen-hardware)
+    - [Komponen Software](#komponen-software)
+    - [Perlengkapan untuk perakitan Komputer](#perlengkapan-untuk-perakitan-komputer)
+  - [Mendokumentasikan Proses Installasi TI](#mendokumentasikan-proses-installasi-ti)
+  - [Pemasangan Kabel Infastruktur TI](#pemasangan-kabel-infastruktur-ti)
+    - [Kabel Listrik](#kabel-listrik)
+      - [1. Kabel Power Supplay](#1-kabel-power-supplay)
+      - [2. Kabel Ekstensi atau Kabel terminal Listrik](#2-kabel-ekstensi-atau-kabel-terminal-listrik)
+    - [Hal hal yang harus di perhatikan dalam kabel listrik atau kabel power supplay](#hal-hal-yang-harus-di-perhatikan-dalam-kabel-listrik-atau-kabel-power-supplay)
+    - [Kabel Transmisi Data](#kabel-transmisi-data)
+      - [1. Kabel Coaxial](#1-kabel-coaxial)
+      - [2. Kabel Twisted Pair jenis UTP (Unshield Twisted Pair)](#2-kabel-twisted-pair-jenis-utp-unshield-twisted-pair)
+      - [3. Kabel Fiber Optik](#3-kabel-fiber-optik)
+      - [4. Kabel media audio dan video](#4-kabel-media-audio-dan-video)
+      - [Saran pemasangan kabel transmisi data](#saran-pemasangan-kabel-transmisi-data)
+  - [Melakukan prosedur pemanfaatan instruktur TI](#melakukan-prosedur-pemanfaatan-instruktur-ti)
+    - [Fungsi Hardware](#fungsi-hardware)
+    - [Fungsi software](#fungsi-software)
+    - [Contoh software](#contoh-software)
+  - [Melakukan pengaturan akses keamanan](#melakukan-pengaturan-akses-keamanan)
+- [Glosarium](#glosarium)
 
 # Kompetensi Pranata Komputer yang harus di capai
 
@@ -476,20 +524,20 @@ pengadaan jasa konsultasi terhadap imlementasi suatu sistem TI, untuk memastikan
 
 ## Tahapan pengadaan Infrastruktur TI
 
-- Penetapan kebutuhan pengadaan
-- pembentukan tim pengadaan
-- penyusunan dokumen pengadaan
-- pengumuman pengadaan
-- Evaluasi dan memilih penyedia infrastruktur TI
-- Pelaksanaan kontrak
-- Pengujian Infrastruktur
-- Pengiriman dan pernyerahan infrastruktur
+- [Penetapan kebutuhan pengadaan](#penetapan-kebutuhan-pengadaan-infrastruktur-ti)
+- [pembentukan tim pengadaan](#pembentukan-tim-pengadaan-infrastruktur)
+- [penyusunan dokumen pengadaan](#penyusunan-dokumen-pengadaan-infrasruktur-ti)
+- [pengumuman pengadaan](#mengumumkan-pengadaan-infrastruktur-ti)
+- [Evaluasi dan memilih penyedia infrastruktur TI](#evaluasi-proposal-teknis-dan-pemilihan-penyedia-barangjasa-infrastruktur-ti)
+- [Pelaksanaan kontrak](#pelaksanaan-kontrak)
+- [Pengujian Infrastruktur](#pengujian-infrastruktur)
+- [Pengiriman dan pernyerahan infrastruktur]()
 
 ## Penetapan kebutuhan Pengadaan Infrastruktur TI
 
 Langkah dalam metapkan kebutuhan pengadaan adalah :
 
-- `Melakukan identifikasi kebutuhan`, kebutuhan dapat di identifikasi dari hasil dari tahap perencanaan infrastruktur TI
+- `Melakukan identifikasi kebutuhan`, kebutuhan dapat di identifikasi dari hasil dari tahap [perencanaan infrastruktur TI](#perencanaan-infrastruktur-ti)
 - `Melakukan diskusi dengan tim lintas fungsi` dalam organisasi untuk identifikasi kebutuhan dan peran , tanggung jawab dalam tim pengadaan
 - `Menyempurnakan kebutuhan dan spesifikasi` sesuai kebututuhan organisasi
 - `Mengumpulkan informasi mengenai solusi alternatif infrastruktur TI`
@@ -501,7 +549,171 @@ Langkah dalam metapkan kebutuhan pengadaan adalah :
 
 ## Pembentukan tim pengadaan Infrastruktur
 
+Tim pengadaan infrastruktur TI setidaknya terdiri dari :
 
+1. `Perwakilan bagian TI`, bertugas sebagai penanggung jawab pengelolaan kebutuhan dan penentuan spesifikasi teknis
+2. `Perwakilan bagian keuangan` , bertanggung jawab terkait pembiayaan pengadaan infrastruktur TI.
+3. `Perwakilan bagian pengadaan organsasi`, bertanggung jawab penuh mulai dari memastikan semua tahapan pengadaan infrastruktur TI sesuai dengan peraturan.
+4. `Pengelola kontrak pengadaan`, bertanggung jawab mengelola semua kontrak pengadaan dan masalah yang berhubungan dengan penyedia layanan dan vendor, mengupdate kontrak, memelihara SLA.
+
+## Penyusunan dokumen Pengadaan Infrasruktur TI
+
+Dokumen yang digunakan dalam pengadaan Infrastruktur TI yaitu, [Kerangka Acuan Kerja (KAK)](#kerangka-acuan-kerja-kak) dan Kontrak pengadaan. hasil dari [penetapan kebutuhan pengadaan infrastruktur](#penetapan-kebutuhan-pengadaan-infrastruktur-ti) menjadi landasan pembuatan Kerangka Acuan Kerja (KAK).
+
+### Kerangka Acuan Kerja (KAK)
+
+adalah dokumen perencanaan kegiatan yang memuat informasi rencana kebutuhan bisnis, perhitungan biaya, manfaat yang dihasilkan. landasan pembuatan Kerangka Acuan Kerja (KAK) yaitu hasil dari [penetapan kebutuhan pengadaan infrastruktur](#penetapan-kebutuhan-pengadaan-infrastruktur-ti)
+
+jenis KAK yang biasa di gunakan adalah ;
+
+- KAK pengadaan barang dan jasa TI
+- KAK kerjasama antar institusi terkait TI
+- KAK Jasa konsultan TI ; merupakan layanan professional yang membutuhkan keahlian tertentu (LKPP - Peraturan Lembaga Nomor 11 tahun 2021)
+- KAK pelatihan TI
+
+### Kontrak Pengadaan
+
+Dokumen kontrak `di tetapkan dan di setujui` oleh `tim pengadaan infrastruktur TI`. Tujuan dokumen kontrak adalah sebagai pedoman dalam proses pemilihan penyedia barang/jasa dan dalam menyusun penawaran. Dokumen Kontrak pengadaan yaitu dokumen yang berisi detail informasi persyaratan pengadaan Infrastruktur TI, yang biasanya memuat :
+
+1. Jenis kontrak
+2. bentuk kontrak
+3. Naskah perjanjian
+4. Informasi uang muka
+5. jaminan pengadaan
+6. sertifikat garansi, sertifikat dalam rangka pengadaan barang impor
+7. penyesuaian harga
+8. syarat-syarat lainnya
+
+## Mengumumkan pengadaan Infrastruktur TI
+
+Pengumuman pengadaan Infrastruktur TI dapat dilakukan melalui media yang di miliki organisasi, misal portal pengadaan, website resmi organisai
+
+## Evaluasi Proposal Teknis dan pemilihan Penyedia Barang/Jasa Infrastruktur TI
+
+Pemeriksaan dan evaluasi dilakukan terhadap konten proposal teknis yang disampakain oleh penyedia barang/jasa infrastruktur
+
+## Pelaksanaan Kontrak
+
+Tahapan ini termasuk penandatanganan kontrak, pembuatan pesanan, penyusunan program mutu, pengendalian kontrak, penyesuaian harga, administrasi kontrak, pengelolaan kontrak, pengelolaan layanan pasca pemasangan (seperti: garansi dan pemeliharaan, dan pembuangan aset usang). Pengelolaan dokumen kontrak sebaiknya dilakukan terpusat agar terpusat agar memudahkan pengelolaannya.
+
+## Pemeriksaan Kesesuaian antara Infrastruktur TI dengan spesifikasi teknis
+
+Kegiatan Pemeriksaan kesesuaian meliputi
+
+1. `Melakukan identifikasi perangkat TI` yang akan di periksa
+2. `Menyiapkan form pemeriksaaan` yang berisi :
+   
+   -  Waktu dan tempat pemeriksaan
+   -  Informasi Infrastruktur yang akan di periksa (Nama barang, type, merk)
+   -  Identitas Infrastruktur TI yang akan diperiksa (Serial Number, Service tag, dll)
+   -  Spesifikasi teknis Infrastruktur  yang ada pada kontrak pengadaan
+   -  Informasi pelaksana dan pengesahan kegiatan pemeriksaan
+
+3. `Pemeriksaan Infrastruktur TI` dilakukan terhadap keseluruhan spesifikasi teknis `yang tercantum dalam form pemeriksaan`.
+4. `Mengisi form pemeriksaan` sesuai hasil pemeriksaan
+5. `Mengesahkan form pemeriksaan` dengan di tanda tangani setidaknya oleh :
+
+     - Petugas pemeriksa
+     - Perwakilan penyedia Infrastruktur TI
+     - Penjabat Pengadaan
+
+6. `Mendokumentasikan dan membuat laporan` proses pemeriksaan Infrastruktur TI
+
+`Tata cara dan kriteria` pemeriksaan spesifikasi teknis infrastruktur `tergantung` pada `jenis infrastruktur` yang akan di periksa.
+
+contoh cara dan kriteria pemeriksaan spesifikasi teknis untuk Infrastruktur TI :
+
+### Manual
+
+#### Komputer / Laptop
+
+untuk melihat spesifikasi komputer dengan windows 10 :
+
+```text
+Cara 1
+Button Windows pada start -> Settings -> System -> About
+
+Cara 2
+Windows pada keyboard + R -> ketik "msinfo32" -> File -> export
+```
+
+#### Printer / Scanner
+
+cara untuk melihat spesifikasi printers and scanners :
+
+```text
+button windows pada start -> settings -> Device -> Printers and Scanners -> nama printers -> Manage -> printers Properties
+```
+
+Spesifikasi teknis dapat juga di ketahui dengan cara :
+
+- `Observasi langsung kondisi perangkat` , misal tinta printer, ukuran tray kertas yang di dukung, tray pemindaian , dll.
+- Melakukan `pengujian perangkat` dan `menghitung kriteria` yang terdapat `pada spesifikasi teknis`.
+
+### Menggunakan Software atau Alat bantu / tools
+
+#### Komputer
+
+ada beberpa software dalam mengecek kesesuaian yaitu :
+
+- CPUZ
+- Speccy
+- PC Wizard
+- HWiNFO
+
+`Kriteria pemeriksaan` `disesuaikan` dengan `spesifikasi teknis` yang `tercantum dalam dokumen pengadaan`, misalnya KAK atau dokumen kontrak. contoh form yang digunakan dalam kegiatan pemeriksaan spesifikasi teknis [disini](). untuk nantinya `di dokumentasikan` dalam `bentuk laporan pekerjaan`.
+
+## Pengujian Infrastruktur
+
+Beberapa tahapan pengujian infrsatruktur :
+
+1. Menentykan tujuan/kebutuhan pengujian
+2. Menyiapkan infrastruktur TI yang akan di uji
+3. Menyiapkan form pengujian yang memuat :
+   
+    - Informasi waktu dan tempat pengujian
+    - Informasi typr merk barang
+    - Identittas Infrastruktur (SN,Service tag)
+    - Kriteria pengujian pengadaan yang tercantum pada kontrak pengadaan
+    - Informasi pelaksana dan pengesahan kegiatan pengujian
+
+4. Menentukan tahapan pengujian
+5. Melakukan pengujian, pengujian dilakukan pada semua fitur yang dimiliki infrastruktur
+6. Mengesahkan form hasil pengujian di tanda tangani oleh :
+    - Petugas penguji
+    - perwakilan penyedia
+    - penjabat pengadaan
+7. Membuat dokumentasi pengujian berupa foto/*screenshoot*
+
+berikut beberapa contoh cara dan kriteria pengujian Infrastruktur :
+
+### Komputer/Laptop
+
+- Apakah komputer/laptop menyala saat dinyalahkan dan kabel power di pasang ?
+- Apakah speaker berfungsi dengan baik ?
+- Apakah layar monitor memiliki kualitas gambar yang baik ?
+- Apakah Operasi Sistem sudah terpasang dan berfungsi dengan baik ?
+- Apakah fitur yang tercantum pada spesifikasi teknis berfungsi dengan baik ? seperti bluetooth, jaringan internet dll ?
+
+### Printer/Scanner
+
+- apakah printer atau scanner menyala saat di nyalahkan ?
+- Apakah kecepatan printer atau scanner sesuai spesifikasi teknis ?
+- bagaimana kualitas hasil pencetakan ?
+- bagaimana kualitas hasil pemindaian ?
+- Apakah mampu terhubung jaringan ?
+- apa bisa wireless sesuai dengan spesifikasi teknis ?
+- apakh hasil pemindaian file sesuai dengan spesifikasi teknis ? (pdf, jpg)
+
+### UPS
+
+- apakah UPS menyala saat kabel power dipasang ?
+- Apakah UPS dapat meyimpan daya ?
+- Pengujian ketahanan baterai, berapa lama UPS memberikan daya ke komputer ?
+
+## Pengiriman dan Penyerahan Infrastruktur TI
+
+Penyerahan hasil pekerjaan ini didokumentasikan dalam suatu berita acara serah didokumentasikan dalam suatu berita acara serah terima yang ditandatangani ima yang ditandatangani oleh pihak tim pengadaan infrastruktur TI dan pihak penyedia
 
 ## Solusi Pengadaan Infrastruktur TI
 
@@ -519,3 +731,203 @@ beberapa pertimbangan dalam pemilihan solusi diantaranya : `standar barang` , `s
 > `upgrade infrastruktur` jika terdapat perubahan teknologi, dan biaya untuk upgrade tidak lebih besar dari pengadaan infrastruktur baru
 >
 > `pengadaan infrastruktur baru` jika terdapat kebutuhan organisasi dan perubahan teknologi yang dinilai lebih efisien dengan pengadaan baru
+
+# Pemasangan Perangkat Fisik Infrastruktur TI
+
+`Installasi Hardware` berarti pemasangan komponen-komponen hardware kedalam tempat yang sesuai. `Instalasi Software` berarti `peletakan software pada sistem komputer melalui disk` agar komputer bisa di operasikan.
+
+## Komponen Perangkat Fisik Infrastruktur TI
+
+ada 7 Komponen utama yang di hasilkan dari infrastruktur TI, yaitu :
+
+### 1. Komponen Hardware
+
+Dalam komponen hardware terbagi menjadi dua, yaitu :
+
+- **Komponen Mesin**, terdiri dari `PDA (Pesonal data assistant)`, `Laptop`, `server`, `pc` dan `mesin server`
+- `Komponen Mainframe`, terdiri dari `Communication device`, `disk storage device`, `tape`, `cpu` 
+
+### 2. Komponen Software
+
+Komponen software dikhususkan untuk bagian dalam komputer, seperti sistem operasi komputer
+
+### 3. Komponen Telekomunikasi/Jaringan
+
+Komponen telekomunikasi/jaringan disediakan oleh perusahaan telekomunikasi, yang menawarkan akses internet, WAN, dan sebagainya.
+
+### 4. Komponen penyimpanan data dan Manajemen
+
+dijadikan sebagai sarana untuk mengatur sekaligus merapihkan data yang tersimpan, sehingga dapat di gunakan secara efisien. contoh, penggunaan hardisk, dan microsoft SL
+
+### 5. Komponen Konsultasi Integrasi sistem dan layanan
+
+Komponen ini sangat penting, karena digunakan sebagai sarana untuk mengembangkan bisnis yang di jalani perusahaan.
+
+### 6. Komponen platform internet
+
+Komponen internet dapat dimanfaatkan sebagai sarana memasarkan bisnis perusahaan
+
+### 7. Komponen software aplikasi Interface
+
+Contoh : Microsoft, Oracle, SAP (*System Application and Product in Data Processing*)
+
+## Konfigurasi Komponen Infrastruktur
+
+untuk meningkatkan kinerja perangkat keras dengan menyesuaikan konfigurasi, yang mungkin juga mencakup pengaturan BIOS, `motherboard`, serta kecepatan bus.
+
+`Penentuan konfigurasi komputer berkaitan dengan penentuan jenis komponen`. Penentuan jenis komponen dimulai dari jenis processor, motherboard lalu komponen lainnya.
+
+Faktor kesesuaian atau `compability` dari komponen terhadap *motherboard* harus di perhatikan. `karena setiap jenis motherboard mendukung jenis prosesor, modul memori, port dan I/O bus yang berbeda beda.`
+
+### Komponen Hardware
+
+1. Mainboard atau Motherboard
+2. Processor(CPU)
+3. Harddisk(HDD)
+4. Random Access Memory(RAM)
+5. Optical Drive(CD/DVD)
+6. VGA Card
+7. Sound Card
+8. Keyboard
+9. Mouse
+10. Monitor
+11. Printer
+
+### Komponen Software
+
+Perangkat lunak merupakan kumpulan beberapa perintah yang di eksekusi oleh mesin komputer dalam menjalankan pekerjaan nya.
+
+perangkat lunak dibagi menjadi 3 bagian, yaitu :
+
+- Sistem Operasi
+- Bahasa pemrograman
+- Perangkat lunak aplikasi
+
+### Perlengkapan untuk perakitan Komputer
+
+Perlengkapan yang perlu di siapkan yaitu :
+
+- Komponen komputer
+- Kelengkapan komponen seperti kabel, skrup, jumper, baut dsb.
+- buku manual dan referensi dari komponen
+- Alat bantu berupa obeng pipih dan philips
+
+## Mendokumentasikan Proses Installasi TI
+
+Sebaikanya kita mendokumentasikan proses installasi software maupun hardware. sebelum melakukan installasi, kita harus mempersiapkan beberapa hal di antaranya :
+
+- Penentuan Konfigurasi komputer,
+- Persiapan Komponen dan Perlengkapan
+- Pengamanan
+
+dan berikut tahapan proses dalam perakitan komputer yaitu :
+
+- Penyiapan *motherboard*
+- Memasang Processor
+- Memasang heatsink
+- Memasang modul memori
+- memasang motherboard pada casing
+- memasang PSU (Power Supplay Unit)
+- Memasang kabel motherboard dan casing
+- Memasang drive
+- memasang card adapter
+
+## Pemasangan Kabel Infastruktur TI
+
+Pada umumnya terdapat 2 klasifikasi jenis kabel yang di gunakan :
+
+- Kabel Listrik
+- Kabel Transmisi data
+
+### Kabel Listrik
+
+Terdapat beberapa jenis kabel penghantar listrik diantaranya :
+
+#### 1. Kabel Power Supplay
+
+Kabel power supply digunakan untuk menghubungkan infrastruktur TI ke sumber listrik.
+
+#### 2. Kabel Ekstensi atau Kabel terminal Listrik
+
+Kabel ekstensi atau biasa disebut kabel terminal digunakan untuk membagi sumber daya listrik dari instalasi (stop kontak ) untuk digunakan sebagai suplai tenaga listrik ke beberapa infrastruktur TI.
+
+yang `perlu diperhatikan dari kabel listrik` adalah `panjang kabel` dan `beban maksimal arus` atau `kemampuan hantar arus (KHA)`. umumnya terminal listrik memiliki maksimal kapasitas arus listrik sebesar `11 ampere`.
+
+### Hal hal yang harus di perhatikan dalam kabel listrik atau kabel power supplay
+
+- Perhatikan perangkat TI yang mengkonsumsi listrik daya besar, jika di perlukan `untuk perangkat TI vital hubungkan ke UPS` (*Uninteruptable Power Supply*)
+- Jangan menumpuk steker terlalu banyak pada satu stop kontak menggunakan alat pencabang
+- ganti kabel yang rusak atau terkelupas
+- Jaga kabel agar tetap rapih
+- Jauhkan sumber listrik atau alat elektronik dari air
+- gunakan cable duct / cable protektor dengan ukuran yang memungkinkan sirkulasi udara untuk menghindari panas berlebih
+
+### Kabel Transmisi Data
+
+#### 1. Kabel Coaxial
+
+Kabel yang terdiri dari dua pengantar, dimana salah satu pengantarnya berada di tengah kabel dan di kelilingi oleh pengantar satunya lagi dengan melingkar. Kabel jenis coaxial sudah jarang digunakan, karena konektor BNC sudah jarang di temukan pada perangkat komputer
+
+#### 2. Kabel Twisted Pair jenis UTP (Unshield Twisted Pair)
+
+Kabel `Twisted pair` merupakan kabel yang di dilamnya terdiri atas kabel kabel yang saling berpasangan. kabel twisted pair sendiri jangkauannya tidak lebih dari `100 meter`. dan kecepatannya mulai dari 10 s/d 10.000 Mbps (Megabytes per second).
+
+Kabel UTP merupakan kabel yang paling mudah pemeliharaannya dan paling mudah di dapat.  alat alat yang dibutuhkan untuk membuat kabel `ethernet` yaitu :
+
+- Tang Crimping
+- Konektor RJ45
+- LAN tester
+- Kabel UTP
+
+#### 3. Kabel Fiber Optik
+
+Fiber optik merupakan sejenis kabel yang terbuat dari kaca atau sejenis plastik yang sangat halus. fiber optik biasa nya digunakan oleh pemerintah atau perusahaan besar karena `transfer data yang sangat cepat` dan `minim data loss`. pemasangannya memerlukan keahlian khusus. kabel optik mudah patah karena itu sulit untuk sudut tajam
+
+#### 4. Kabel media audio dan video
+
+Kabel yang digunakan yaitu VGA dan HDMI digunakan untuk mentransmisikan sinyal audio dan video.
+
+#### Saran pemasangan kabel transmisi data
+
+- Buat rancangan jalur pemasangan kabel agar lebih rapih dan aman
+- untuk pengamanan kabel jaringan seperti UTP dan fiber optik, gunakan `wall` atau `floor cable duct`.
+- Hindari pemasangan kabel optik pada sudut tajam karena dapat mengakibatkan komponen kaca patah
+
+## Melakukan prosedur pemanfaatan instruktur TI
+
+### Fungsi Hardware
+
+ada 5 macam fungsi hardware diantaranya :
+
+- `Hardware Input` , contoh : keyboard, mouse, scanner
+- `Hardware pengolah data`, contoh : `CPU`
+- `Hardware Output`, contoh : Monitor, speaker, printer
+- `Hardware penyimpanan`, contoh : flashdisk, hardisk
+- `Hardware tambahan atau peripheral`, contoh : modem
+
+### Fungsi software
+
+- Sebagai sistem operasi
+- sebagai pengontrol hardware
+- menerjemahkan instruksi ke bahasa mesin
+- mengidentifikasi program
+- sebagai penghubung antara hardware dan user
+
+### Contoh software
+
+- Sistem operasi : windows, linux , mac OS
+- Software aplikasi : Ms. Office, AutoCAD
+- Malware : Trojan, virus
+- Kompilator bahasa pemrograman : pascal
+- Software open source
+
+## Melakukan pengaturan akses keamanan
+
+
+
+# Glosarium
+
+- `PPM` adalah Page Per Minute untuk mengecek kecepatan cetak printer
+- `Layanan Telekomunikasi` adalah layanan yang menggunakan banyak media dalam pertukaran data nya
+- `SAP` (*System Application and Product in Data Processing*) adalah software yang membantu perusahaan mengelola aspek bisnis dan operasionalnya
+- `ERP` (*Enterprise Resource Planning*) adalah software yang mengintegrasikan dan mengelola proses bisnis perusahaan
