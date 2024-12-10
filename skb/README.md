@@ -2,6 +2,39 @@
 
 - [Rangkuman Materi SKB Pranata Komputer Terampil](#rangkuman-materi-skb-pranata-komputer-terampil)
 - [Kompetensi Pranata Komputer yang harus di capai](#kompetensi-pranata-komputer-yang-harus-di-capai)
+  
+<h2>Manajemen Layanan TI</h2>
+
+- [Konsep Manajemen Layanan TI](#konsep-manajemen-layanan-ti)
+  - [Apa itu Layanan TI](#apa-itu-layanan-ti)
+  - [apa itu Manajemen TI](#apa-itu-manajemen-ti)
+  - [Framework untuk Manajemen TI](#framework-untuk-manajemen-ti)
+- [Pemenuhan Permintaan Layanan TI](#pemenuhan-permintaan-layanan-ti)
+  - [Tools untuk mencatat Permintaan](#tools-untuk-mencatat-permintaan)
+  - [Menerima Permintaan Layanan TI](#menerima-permintaan-layanan-ti)
+    - [Walk-In](#walk-in)
+    - [Website](#website)
+    - [Email](#email)
+    - [Telepon](#telepon)
+  - [Memvalidasi Permintaan Layanan TI](#memvalidasi-permintaan-layanan-ti)
+    - [SLA / `Service Level Aggreement` dalam Katalog Layanan](#sla--service-level-aggreement-dalam-katalog-layanan)
+  - [Mencatat Permintaan Layanan TI](#mencatat-permintaan-layanan-ti)
+    - [Field dalam pencatatan permintaan Layanan TI](#field-dalam-pencatatan-permintaan-layanan-ti)
+  - [Membuat Ringkasan dan Deskripsi Layanan TI](#membuat-ringkasan-dan-deskripsi-layanan-ti)
+    - [Field dalam Deskripsi/Ringkasan Layanan TI](#field-dalam-deskripsiringkasan-layanan-ti)
+  - [Menentukan Status Penanganan Permintaan TI](#menentukan-status-penanganan-permintaan-ti)
+    - [New/open](#newopen)
+    - [Assigned](#assigned)
+    - [On Progress](#on-progress)
+    - [Pending](#pending)
+    - [Resolved/Completed](#resolvedcompleted)
+    - [Cancelled](#cancelled)
+    - [closed](#closed)
+
+<h2>Infrastruktur TI</h2>
+
+- [Rangkuman Materi SKB Pranata Komputer Terampil](#rangkuman-materi-skb-pranata-komputer-terampil)
+- [Kompetensi Pranata Komputer yang harus di capai](#kompetensi-pranata-komputer-yang-harus-di-capai)
 - [Konsep Manajemen Layanan TI](#konsep-manajemen-layanan-ti)
   - [Apa itu Layanan TI](#apa-itu-layanan-ti)
   - [apa itu Manajemen TI](#apa-itu-manajemen-ti)
@@ -101,12 +134,59 @@
     - [Fungsi software](#fungsi-software)
     - [Contoh software](#contoh-software)
   - [Melakukan pengaturan akses keamanan](#melakukan-pengaturan-akses-keamanan)
+    - [*Protect with password*](#protect-with-password)
+    - [*Design safe system*](#design-safe-system)
+    - [*Provide basic training*](#provide-basic-training)
+    - [*Avoid Unknown email attachment*](#avoid-unknown-email-attachment)
+    - [*Think before clicking*](#think-before-clicking)
+    - [*use a virus scanner, and keep all software uptodate*](#use-a-virus-scanner-and-keep-all-software-uptodate)
+    - [Keep sensitive data out of the cloud](#keep-sensitive-data-out-of-the-cloud)
+- [Pemeliharaan Infrastruktur TI](#pemeliharaan-infrastruktur-ti)
+  - [Menyusun rencana pemeliharaan perangkat TI *end User*](#menyusun-rencana-pemeliharaan-perangkat-ti-end-user)
+    - [1. Melakukan inventarisasi atau identifikasi perangkat-perangkat TI yang perlu dilakukan pemeliharaan](#1-melakukan-inventarisasi-atau-identifikasi-perangkat-perangkat-ti-yang-perlu-dilakukan-pemeliharaan)
+    - [2. Membuat daftar kegiatan pemeliharaan dan detail pekerjaan yang perlu di lakukan](#2-membuat-daftar-kegiatan-pemeliharaan-dan-detail-pekerjaan-yang-perlu-di-lakukan)
+    - [3. Menyiapkan tools/peralatan yang dibutuhkan](#3-menyiapkan-toolsperalatan-yang-dibutuhkan)
+    - [4. Menentukan Jadwal pemeliharaan untuk tiap jenis perangkat TI](#4-menentukan-jadwal-pemeliharaan-untuk-tiap-jenis-perangkat-ti)
+    - [5. Menentukan siapa yang akan melakukan pemeliharaan](#5-menentukan-siapa-yang-akan-melakukan-pemeliharaan)
+    - [6. Membuat dokumentasi](#6-membuat-dokumentasi)
+  - [Melakukan Pemeliharaan](#melakukan-pemeliharaan)
+    - [Tujuan Pemeliharaan](#tujuan-pemeliharaan)
+    - [Tahapan melakukan Pemeliharaan](#tahapan-melakukan-pemeliharaan)
+    - [Hal yang dilakukan dalam pemeliharaan](#hal-yang-dilakukan-dalam-pemeliharaan)
+      - [1. Komponen Hardware](#1-komponen-hardware-1)
+      - [2. Komponen Software](#2-komponen-software-1)
+      - [3. Komponen Manajemen dan penyimpanan data](#3-komponen-manajemen-dan-penyimpanan-data)
+      - [4. Komponen layanan dan konsultasi integrasi sistem](#4-komponen-layanan-dan-konsultasi-integrasi-sistem)
+      - [5. Komponen software aplikasi interface](#5-komponen-software-aplikasi-interface)
+  - [Data Center](#data-center)
+  - [Melakukan deteksi atau perbaikan terhadap permasalahan infrastruktur TI](#melakukan-deteksi-atau-perbaikan-terhadap-permasalahan-infrastruktur-ti)
+    - [Tahapan tahapan deteksi permasalahan](#tahapan-tahapan-deteksi-permasalahan)
+    - [Tahapan perbaikan](#tahapan-perbaikan)
+    - [Perencanaan *Disaster Recovery*](#perencanaan-disaster-recovery)
+- [Monitoring/Pengawasan Kinerja Infastruktur](#monitoringpengawasan-kinerja-infastruktur)
+  - [Prinsip Monitoring](#prinsip-monitoring)
+  - [Tujuan dan Fungsi Monitoring](#tujuan-dan-fungsi-monitoring)
+  - [Matriks Kinerja Infrastruktur](#matriks-kinerja-infrastruktur)
+    - [Perencanaan matriks](#perencanaan-matriks)
+    - [Membuat daftar gangguan terkait kapasitas ketersediaan](#membuat-daftar-gangguan-terkait-kapasitas-ketersediaan)
+    - [Tindakan dan rekomendasi](#tindakan-dan-rekomendasi)
+    - [Format Matriks parameter teknis monitoring](#format-matriks-parameter-teknis-monitoring)
+- [Pengelolaan Data](#pengelolaan-data)
+- [Glosarium](#glosarium)
+
+<h2>Pengelolaan Data</h2>
+
+- [Pengelolaan Data](#pengelolaan-data)
 - [Glosarium](#glosarium)
 
 # Kompetensi Pranata Komputer yang harus di capai
 
-- Seorang Pranata Komputer mampu dalam memahami `konsep Layanan dan Manajemen TI`.
-- Seorang Pranata Komputer mampu `mendokumentasikan permintaan Layanan TI`, termasuk `mengelola layanan insiden TI`.
+- Seorang Pranata Komputer mampu dalam memahami [`konsep Layanan dan Manajemen TI`](#konsep-manajemen-layanan-ti).
+- Seorang Pranata Komputer mampu [`mendokumentasikan permintaan Layanan TI`](#mencatat-permintaan-layanan-ti), termasuk [`mengelola layanan insiden TI`](#pemenuhan-permintaan-layanan-ti).
+- Mampu melakukan pencatatan, pemeriksaan kesseuaian, pengujian[infrastruktur TI](#pengadaan-infrastruktur)
+- Mampu melakukan [pemasangan innfrastruktur](#pemasangan-perangkat-fisik-infrastruktur-ti)
+- Mampu melakukan [pemeliharaan infrastruktur](#pemeliharaan-infrastruktur-ti)
+- Mampu melakukan [pemantauan kinerja infrastruktur](#monitoringpengawasan-kinerja-infastruktur)
 
 # Konsep Manajemen Layanan TI
 
@@ -923,6 +1003,278 @@ ada 5 macam fungsi hardware diantaranya :
 
 ## Melakukan pengaturan akses keamanan
 
+Keamanan komputer dirancang untuk melindungi komputer dan segala sesuatu yang berkaitan dengan itu dari upaya pencurian data, pengrusakan hardware dan informasi dan untuk mencegah adanya gangguan layanan.
+
+berikut beberapa cara agar keamanan sistem IT tetap terjaga :
+
+### *Protect with password*
+
+lindungi keamanan sistem dengan menggunakan username dan password unique, menggunakan kombinasi angka huruf dan simbol
+
+### *Design safe system*
+
+buat sistem seaman mungkin dengan membatasi akses ke infrastruktur untuk mencegah mudahnya peretas dan pencuri merusak sistem.
+
+### *Provide basic training*
+
+Membangun budaya yang menekankan pada keamanan komputer melalui program pelatihan.
+
+### *Avoid Unknown email attachment*
+
+jangan pernah mengklik lampiran email yang tidak dikenal, yang kemungkinan berisi virus komputer.
+
+### *Think before clicking*
+
+berfikir terlebih dahulu tentang dampak jika kita klik email yang tidak diketahui, dan harus mempertimbangkan kembali agar tidak terdorong kesebuah situs web palsu.
+
+### *use a virus scanner, and keep all software uptodate*
+
+gunakan antivirus pada perangkat infrastruktur, terutama PC atau laptop. dan pastikan perangkat lunak selalu *up-to-date*
+
+### Keep sensitive data out of the cloud
+
+simpan data sensitive diluar dari *cloud computing*, karena *cloud computing*  ditempatkan di server jarak jauh yang dioperasikan oleh pihak ketiga yang mungkin memiliki masalah keamanan tersendiri.
+
+# Pemeliharaan Infrastruktur TI
+
+## Menyusun rencana pemeliharaan perangkat TI *end User*
+
+adalah membuat rencana pemeliharaan/perawatan perangkat TI END User baik secara fisik maupun dari perangkat lunak yang terinstal di dalamnya untuk menjamin sistem IT berjalan dengan normal dan stabil.
+
+untuk menyusun rencana pemeliharaan yang perlu di persiapkan adalah :
+
+### 1. Melakukan inventarisasi atau identifikasi perangkat-perangkat TI yang perlu dilakukan pemeliharaan
+
+Identifikasi dibuat berdasarkan komponennya yaitu hardware dan software :
+
+- [hardware](#komponen-hardware) merupakan perangkat keras yang memiliki bentuk fisik.
+- [software](#komponen-software) adalah sebuah komponen yang tidak memiliki wujud, perangkat ini berisi program pengolah data yang dimasukkan kedalam hardware.
+
+### 2. Membuat daftar kegiatan pemeliharaan dan detail pekerjaan yang perlu di lakukan
+
+sebelum membuat daftar kegiatan pemeliharaan, dibuat terlebih dahulu `SOP` atau `Standar Operasional Prosedur`. SOP merupakan suatu alur/cara kerja yang sudah terstandarisasi, menjelaskan tentang aktivitas yang diperlukan untuk menyelesaikan tugas dengan peraturan yang telah di tetapkan.
+
+### 3. Menyiapkan tools/peralatan yang dibutuhkan
+
+siapkan alat yang dibutuhkan dalam memelihara perangkat TI
+
+### 4. Menentukan Jadwal pemeliharaan untuk tiap jenis perangkat TI
+
+buatlah daftar perawatan berdasarkan jenis perangkat TI end usernya.
+
+### 5. Menentukan siapa yang akan melakukan pemeliharaan
+
+dalam menyiapkan tenaga ahli untuk perawatan dan pemeliharaan kita harus :
+
+- `Memetakan pegawai berdasarkan keahliannya`, hal itu dalam tanggung jawab biro sumber daya manusia dengan menyiapkan IT *assesment*
+- `Menyiapkan pelatihan dan berbagi pengetahuan tentang pemeliharaan perangkat` TI end user dengan merencanakan program pengembangan SDM di bidang IT.
+- `Menyiapkan regulasi terkait penyelenggaraan TI`, hal ini `sangat penting` karena akan `menjadi payung hukum` dalam melaksanaan kegiatan pemeliharaan infrastruktur TI.
+
+### 6. Membuat dokumentasi
+
+`dokumentasi` ini dibutuhkan ketika terjadi suatu masalah, dokumen dari dokumentasi TI dapat membantu `menyelesaikan permasalahan yang sama`.
+
+untuk mempercepat pencarian masalah dalam dokumentasi, biasanya permasalahan dapat digolongkan melalui dokumen work record (rekam kerja)
+
+## Melakukan Pemeliharaan
+
+### Tujuan Pemeliharaan
+
+- Memperpanjang usia kegunaan dari infrastruktur
+- kemudahan pengelolaan pekerjaan
+- Menjamin kesiapan operasional seluruh fasilitas pada saat pemakaian darurat
+- menjamin keselamatan operator dan pemakaian fasilitas
+- membantu kemampuan mesin memenuhi kebutugan sesuai dengan fungsinya
+- Mendukung pengurangan pemakaian dan penyimpanan diluar batas
+- melaksanakan kegiatan *maintenance* agar biaya perawatan serendah mungkin (*Lowest maintenance cost*)
+
+### Tahapan melakukan Pemeliharaan
+
+1. Membuat jadwal pemeliharaan
+2. Identifikasi perangkat infrastruktur
+3. analisa setiap kerusakan
+4. menentukan siapa yang akan menangani pemeliharaan
+
+### Hal yang dilakukan dalam pemeliharaan
+
+- Melakukan tindakan pemeliharaan secara berkala untuk mengantisipasi adanya permaslahan (*preventive*)
+- Melakukan perubahan konfigurasi sesuai dengan kebutuhan (*Adaptive*)
+- Melakukan upgrade/penyempurnaan perangkat agar lebih optimal (*perfective*)
+
+berikut perawatan yang dilakukan pada komponen utama infrastruktur :
+
+#### 1. Komponen Hardware
+
+- Menempatkan komputer pada tempat yang tidak panas, memiliki sirkulasi udara yang baik, tidak berdebu
+- membersikhkan debu pada bagian luar dan dalam casing CPU
+- Tegangan listrik sebisa mumgkin tetap stabil, oleh karena itu gunaakanlah stabilizer dan UPS untuk menjaga hal tersebut
+- LCD monitor tidak berhadapan langsung dengan sinar matahari
+- Hindari penempatan peralatan yang bersifat magnet disekitar komputer, karena dapat merusak hardware internal CPU
+
+#### 2. Komponen Software
+
+Model pemeliharaan yang digunakan adalah model proses `IEEE 1219-1998` dan `ISO/IEC 14764`. pada IEEE 1219 model prosesnya adalah sebagai berikut.
+
+```text
+identification -> Analysis -> Design -> Implementation -> System test -> acceptence test -> delivery -> Maintenance Management
+```
+
+`proses maintenance dilakukan pada tahap pemakaian perangkat lunak`. berikut hal yang dapat di lakukan dalam perawatan software :
+
+- Melalkukan updating secara berkala, seperti antivirus dan sistem operasi
+- `Memastikan fungsionalitas aplikasi` dan sistem operasi (*Functionality*)
+- `Kemampuan software` untuk dapat berjalan sesuai fungsi ketika digunakan (*reliability*)
+- Software mampu untuk menampilkan performa relative terhadap sumber daya (*Usability*)
+- Melakukan perubahan konfigurasi sesuai kebutuhan terkini
+- Memastikan software yang dipakai original dan berlisensi
+
+#### 3. Komponen Manajemen dan penyimpanan data
+
+cara perawatan manajemen data penyimpanan yaitu :
+
+- Buat kebijakan internal terkait pengarsipan data
+- jangan meninggalkan data yang bersifat sensitif dalam sebuah perangkat tanpa perlindungan ekstra
+- pastikan ruang penyimpanan data digital mencukupi dan mumpuni
+- melakukan uji coba ruang penyimpanan digital
+- melakukan backup data secara berkala
+- menggunakan enkripsi
+- melakukan scanning rutin agar tidak terjadi phising/spam pada email
+- menggunakan password dengan baik dan aman
+
+#### 4. Komponen layanan dan konsultasi integrasi sistem
+
+Integrasi sistem menghubungkan 2 atau lebih sistem yang sama maupun berbeda bahasa pemrograman. untuk memelihara sistem yang terintegrasi caranya :
+
+- memastikan fungsionalitas pada sistem yang di integrasikan bisa berjalan tanpa bug
+- melakukan perubahan konfigurasi pada perangkat TI sesuai dengan kebutuhan terkini
+- melakukan ujicoba apakah sistem terganggu kualitas kinerja sistemnya
+- pelayanan apakah sesuai dengan SLA
+
+#### 5. Komponen software aplikasi interface
+
+enterprise software adalah sebuah perangkat lunak yang digunakan untuk memenuhi kebutuhan organisasi, bukan untuk pengguna individu
+
+perawatan komponen ini adalah sebagai berikut :
+
+- Memastikan storage yang digunakan sesuai dengan analisa kebutuhan
+- Memastikan fungsionalitas dari komponen
+- selalu update akan teknologi yang digunakan
+- akses informasi antar sistem berjalan secara *real time*
+- Melakukan secara berkala indeks kepuasan pelanggan
+
+## Data Center
+
+data center adalah sebuah tempat yang digunakan sebagai tempat untuk menyimpan, sekaligus memproses dan mengolah data dara dari berbagai sumber dan server agar tetap mudah diakses user.
+
+cara memelihara data center :
+
+- membuat jadwal pemeliharaan rutin, infrastruktur yang rutin harus di cek adalah UPS, generator cadangan serta mesin-mesin pendingin
+- membuat skema evaluasi hasil pemeriksaan untuk perbaikan kedepannya
+- membuat estimasi waktu pemeliharaan
+- membuat dokumentasi pemeliharaan
+- menyiapkan disaster recovery plan
+
+## Melakukan deteksi atau perbaikan terhadap permasalahan infrastruktur TI
+
+Melakukan `deteksi` terkait permasalahan infrastruktur TI adalah `untuk mengetahui penyebab dari munculnya permasalahan, pesan error, atau tidak berfungsinya perangkat infrastruktur TI`.
+
+`Melakukan perbaikan` terhadap permasalahan infrasturktur TI` adalah kegiatan yang bertujuan untuk membuat perangkat infrastruktur TI berfungsi dengan baik sebagaimana mestinya`.
+
+### Tahapan tahapan deteksi permasalahan
+
+1.  Melakukan identifikasi permasalahan yang muncul seperti sebab dan akibat dari permasalahan
+2.  Membuat pencatatan analisa permasalahan yang berisi daftar kemungkinan penyebab dari permasalahan yang muncul
+
+### Tahapan perbaikan
+
+1. Melakukan identifikasi hasil deteksi permasalahan
+2. Menentukan solusi alternatif berdasarkan hasil deteksi
+3. melakukan perbaikan
+4. mendokumentasikan proses dan langkah-langkah perbaikan
+
+### Perencanaan *Disaster Recovery*
+
+`Recovery disaster` adalah perbaikan saat terjadi bencana, langkah-langkahnya yaitu :
+
+- `Prevention`, adalah `bagaimana kita mencegah` atau meminimalisir kemungkinan terkena bencana beserta dampaknya
+- `Preparedness`, adalah `bagaimana persiapan` kita jika terjadi bencana, skenario, dan lainnya
+- `Response`, adalah `kesigapan sistem` dan sumber daya (resources) saat terjadi bencana, supaya proses bisnis tidak terganggu
+- `Recovery`, adalah setelah bencana, `bagimana pemulihanya,` memakan waktu berapa lama, dan bagaimana jika ada data yang hilang.
+
+# Monitoring/Pengawasan Kinerja Infastruktur
+
+`Menurut Siagian monitoring` adalah `proses pengamatan dari pelaksanaan seluruh kegiatan organisasi` untuk menjalin agar senua pekerjaan yang sedang dilaksanakan berjalan sesuai dengan rencana yang telah di tentukan sebelumnya
+
+`Monitoring kapasitas layanan TI` adalah `kegiatan memonitor` yang dilakukan pada `proses manajemen` kapasitas layanan TI yang `dimulai dari pembuatan tatacara monitoring` yang bertujuan untuk menentukan tugas, fungsi dan tanggung jawab serta standar prosedur kerja.
+
+## Prinsip Monitoring
+
+- Prinsip perencanaan
+- prinsip wewenang
+- prinsip tercapainya tujuan
+- prinsip efisiensi
+- prinsip tanggung jawab
+- Prinsip masa depan
+- prinsip pengawasan langsung
+- prinsip penyesuaian dalam organisasi
+- prinsip pengawasan individual
+- prinsip standar
+
+## Tujuan dan Fungsi Monitoring
+
+- `Pembuatan Tatacara monitoring` bertujuan menentujan tugas dan tanggung jawab serta standar prosedur kerja
+- `Pembuatan metode penghitungan tingkat ketersediaan layanan TI` bertujuan untuk menghitung ketersediaan suatu komponen yang sederhana dan total ketersediaan untuk layanan yang kompleks
+- `Matriks parameter teknis monitoring` bertujuan untuk menentukan parameter, perangkat dan tools yang di gunakan pada teknik monitoring kerja
+- `Pembuatan format laporan monitoring` bertujuan untuk membuat data hasil monitoring kapasitas layanan TI
+
+## Matriks Kinerja Infrastruktur
+
+### Perencanaan matriks
+
+- Persentase ukuran/tenggang `waktu` komponen berjalan normal tanpa ada gangguan `(uptime)`
+- Persentase ukuran/tenggang `waktu` komponen tidak beroperasi atau tidak tersedia `(Down time)`
+- Frekuensi pemeliharaan terjadwal `(Frekuensi Planned downtime)`
+- total waktu pemeliharaan terjadwal
+- Persentase penggunaan CPU pada server
+- Persentase penggunaan memory RAM (dalam satuan `bytes`)
+- waktu yang dibutuhkan sejak proses `request` awal sampai menerima `response` pertama kali. semakin kecil response time semakin baik `(response time)`
+- Persentase kecepatan data yang melewati koneksi jaringan (dalam bps) `(Penggunaan Bandwith)`
+- Presentase banyaknya paket data yang hilang selama proses transmisi dari sumber ke tujuan `(packet loss)`
+
+### Membuat daftar gangguan terkait kapasitas ketersediaan
+
+### Tindakan dan rekomendasi
+
+### Format Matriks parameter teknis monitoring
+
+- uptime
+- downtime
+- frekuensi planned downtime
+- lama planned downtime
+- penggunaan CPU
+- Penggunaan memory (RAM dalam bytes)
+- penggunaan bandwith
+- Response time / delay / latency
+- Packet loss
+- Noise , gangguan/sinyal yang tidak diinginkan dalam transmisi informasi (dalam dB atau `desible`)
+- Processor per Disk Adapter, jumlah processor pada setiap disk adaptor (`penghubung system storage dan disk`)
+- Channel Host Adapter, jumlah adapter antara sistem storage dengan host server
+- error rate, jumlah bit yang error per total jumlah bit yang di kirimkan
+
+yang termasuk `baris` dalam tabel matrik parameter teknis monitoring kerja adalah :
+
+- uptime
+- downtime
+- planned time
+- planned downtime
+- bandwith
+
+yang termasuk `kolom` dalam tabel matrik parameter teknis monitoring kerja adalah :
+
+- channel host adapter
+
+# Pengelolaan Data
+
 
 
 # Glosarium
@@ -931,3 +1283,4 @@ ada 5 macam fungsi hardware diantaranya :
 - `Layanan Telekomunikasi` adalah layanan yang menggunakan banyak media dalam pertukaran data nya
 - `SAP` (*System Application and Product in Data Processing*) adalah software yang membantu perusahaan mengelola aspek bisnis dan operasionalnya
 - `ERP` (*Enterprise Resource Planning*) adalah software yang mengintegrasikan dan mengelola proses bisnis perusahaan
+- `Seri 360` merupakan seri dari mainframe dan komputer mini yang menyediakan time sharing, multitasking dan memori virtual
