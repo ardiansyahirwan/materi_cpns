@@ -2,39 +2,6 @@
 
 - [Rangkuman Materi SKB Pranata Komputer Terampil](#rangkuman-materi-skb-pranata-komputer-terampil)
 - [Kompetensi Pranata Komputer yang harus di capai](#kompetensi-pranata-komputer-yang-harus-di-capai)
-  
-<h2>Manajemen Layanan TI</h2>
-
-- [Konsep Manajemen Layanan TI](#konsep-manajemen-layanan-ti)
-  - [Apa itu Layanan TI](#apa-itu-layanan-ti)
-  - [apa itu Manajemen TI](#apa-itu-manajemen-ti)
-  - [Framework untuk Manajemen TI](#framework-untuk-manajemen-ti)
-- [Pemenuhan Permintaan Layanan TI](#pemenuhan-permintaan-layanan-ti)
-  - [Tools untuk mencatat Permintaan](#tools-untuk-mencatat-permintaan)
-  - [Menerima Permintaan Layanan TI](#menerima-permintaan-layanan-ti)
-    - [Walk-In](#walk-in)
-    - [Website](#website)
-    - [Email](#email)
-    - [Telepon](#telepon)
-  - [Memvalidasi Permintaan Layanan TI](#memvalidasi-permintaan-layanan-ti)
-    - [SLA / `Service Level Aggreement` dalam Katalog Layanan](#sla--service-level-aggreement-dalam-katalog-layanan)
-  - [Mencatat Permintaan Layanan TI](#mencatat-permintaan-layanan-ti)
-    - [Field dalam pencatatan permintaan Layanan TI](#field-dalam-pencatatan-permintaan-layanan-ti)
-  - [Membuat Ringkasan dan Deskripsi Layanan TI](#membuat-ringkasan-dan-deskripsi-layanan-ti)
-    - [Field dalam Deskripsi/Ringkasan Layanan TI](#field-dalam-deskripsiringkasan-layanan-ti)
-  - [Menentukan Status Penanganan Permintaan TI](#menentukan-status-penanganan-permintaan-ti)
-    - [New/open](#newopen)
-    - [Assigned](#assigned)
-    - [On Progress](#on-progress)
-    - [Pending](#pending)
-    - [Resolved/Completed](#resolvedcompleted)
-    - [Cancelled](#cancelled)
-    - [closed](#closed)
-
-<h2>Infrastruktur TI</h2>
-
-- [Rangkuman Materi SKB Pranata Komputer Terampil](#rangkuman-materi-skb-pranata-komputer-terampil)
-- [Kompetensi Pranata Komputer yang harus di capai](#kompetensi-pranata-komputer-yang-harus-di-capai)
 - [Konsep Manajemen Layanan TI](#konsep-manajemen-layanan-ti)
   - [Apa itu Layanan TI](#apa-itu-layanan-ti)
   - [apa itu Manajemen TI](#apa-itu-manajemen-ti)
@@ -171,12 +138,111 @@
     - [Membuat daftar gangguan terkait kapasitas ketersediaan](#membuat-daftar-gangguan-terkait-kapasitas-ketersediaan)
     - [Tindakan dan rekomendasi](#tindakan-dan-rekomendasi)
     - [Format Matriks parameter teknis monitoring](#format-matriks-parameter-teknis-monitoring)
+- [Jaringan Komputer](#jaringan-komputer)
+  - [Komponen Pembentuk jaringan](#komponen-pembentuk-jaringan)
+  - [Pemasangan Kabel UTP](#pemasangan-kabel-utp)
+  - [Wireless](#wireless)
+  - [Jenis Jenis Jaringan Komputer](#jenis-jenis-jaringan-komputer)
+  - [IP Address](#ip-address)
+    - [Pembagian kelas IP Address](#pembagian-kelas-ip-address)
+    - [Struktur IP Address](#struktur-ip-address)
+    - [IP Address Network dan Host](#ip-address-network-dan-host)
+  - [Subnetting](#subnetting)
+  - [Perangkat Jaringan](#perangkat-jaringan)
+    - [HUB](#hub)
+    - [Switch](#switch)
+    - [Hirarki Switch](#hirarki-switch)
+      - [1. Access Layer Switch](#1-access-layer-switch)
+      - [2. Distribution Layer Switch](#2-distribution-layer-switch)
+      - [3. Core Layer Switch](#3-core-layer-switch)
+      - [ROUTER](#router)
+  - [Topologi Jaringan](#topologi-jaringan)
+  - [Klasifikasi Topologi Jaringan](#klasifikasi-topologi-jaringan)
+    - [Physical Topologi](#physical-topologi)
+    - [Logical Topologi](#logical-topologi)
+    - [Signal Topologi](#signal-topologi)
+  - [Jenis Jenis Topologi Jaringan](#jenis-jenis-topologi-jaringan)
+    - [Topologi Ring](#topologi-ring)
+    - [Topologi Dual Ring](#topologi-dual-ring)
+    - [Topologi BUS](#topologi-bus)
+    - [Topologi Star](#topologi-star)
+    - [Topologi Mash](#topologi-mash)
+    - [Topologi Tree](#topologi-tree)
+    - [Topologi Hybrid](#topologi-hybrid)
+  - [7 Layer OSI](#7-layer-osi)
+    - [Physical Layer](#physical-layer)
+    - [Data Link Layer](#data-link-layer)
+    - [Network Layer](#network-layer)
+    - [Transport Layer](#transport-layer)
+    - [Presentation and Session Layer](#presentation-and-session-layer)
+    - [Applcation Layer](#applcation-layer)
+  - [Routing Protocol](#routing-protocol)
 - [Pengelolaan Data](#pengelolaan-data)
-- [Glosarium](#glosarium)
-
-<h2>Pengelolaan Data</h2>
-
-- [Pengelolaan Data](#pengelolaan-data)
+- [Strategi Manajemen Data](#strategi-manajemen-data)
+  - [Pengertian Manajemen data](#pengertian-manajemen-data)
+    - [Manfaat dari Manajemen Data](#manfaat-dari-manajemen-data)
+  - [Pengertian Strategi data](#pengertian-strategi-data)
+  - [Komponen manajemen data](#komponen-manajemen-data)
+  - [Menyusun dan Mengelola strategi Manajemen Data](#menyusun-dan-mengelola-strategi-manajemen-data)
+  - [Langkah - Langkah dalam pengelolaan data](#langkah---langkah-dalam-pengelolaan-data)
+    - [Menyesuaikan strategi pengelolaan data dengan sasaran bisnis](#menyesuaikan-strategi-pengelolaan-data-dengan-sasaran-bisnis)
+    - [Menentukan siapa yang terlibat dalam kegiatan manajemen dan apa perannya](#menentukan-siapa-yang-terlibat-dalam-kegiatan-manajemen-dan-apa-perannya)
+    - [Memastikan aksebilitas data](#memastikan-aksebilitas-data)
+    - [Mendokumetasikan setiap kegiatan pengelolaan data](#mendokumetasikan-setiap-kegiatan-pengelolaan-data)
+  - [Output dari Strategi Manajemen data](#output-dari-strategi-manajemen-data)
+- [Kebijakan Data](#kebijakan-data)
+  - [Langkah langkah menyusun kebijakan data](#langkah-langkah-menyusun-kebijakan-data)
+  - [Faktor dalam pengembangan kebijakan tata kelola data](#faktor-dalam-pengembangan-kebijakan-tata-kelola-data)
+- [Standar Data dan Meta data](#standar-data-dan-meta-data)
+  - [Standar Data](#standar-data)
+  - [Meta Data](#meta-data)
+  - [Tahapan penyusunan standar Meta data](#tahapan-penyusunan-standar-meta-data)
+  - [Prosedur pengelolaan data](#prosedur-pengelolaan-data)
+- [Pengelolaan Kebutuhan Informasi](#pengelolaan-kebutuhan-informasi)
+  - [Fase siklus hidup data](#fase-siklus-hidup-data)
+  - [Analisis kebutuhan Informasi](#analisis-kebutuhan-informasi)
+  - [Validasi Kebutuhan Informasi](#validasi-kebutuhan-informasi)
+  - [Pengumpulan informasi](#pengumpulan-informasi)
+  - [Klasifikasi Aset Informasi](#klasifikasi-aset-informasi)
+- [Arsitektur data dan Integrasi data](#arsitektur-data-dan-integrasi-data)
+  - [Arsitektur Data](#arsitektur-data)
+  - [Arsitektur Integrasi data](#arsitektur-integrasi-data)
+  - [Arsitektur teknologi data](#arsitektur-teknologi-data)
+- [Implemntasi data model, data mining, business Intelegence](#implemntasi-data-model-data-mining-business-intelegence)
+  - [Model data](#model-data)
+    - [Komponen Model Data](#komponen-model-data)
+    - [Level detil dari Model Data](#level-detil-dari-model-data)
+  - [Data Mining](#data-mining)
+  - [Business Intelligence](#business-intelligence)
+- [Keamanan Data](#keamanan-data)
+- [DBMS](#dbms)
+  - [Komponen Basis data](#komponen-basis-data)
+  - [Komponen penyusun basis data](#komponen-penyusun-basis-data)
+  - [Integrity Constraints](#integrity-constraints)
+  - [Entity](#entity)
+  - [Attribute](#attribute)
+  - [Normalisasi database](#normalisasi-database)
+    - [Keuntungan Normalisasi database](#keuntungan-normalisasi-database)
+    - [Aturan Normalisasi](#aturan-normalisasi)
+  - [Bahasa Query SQL](#bahasa-query-sql)
+    - [Data Definition Language (DDL)](#data-definition-language-ddl)
+    - [Data Manipuation Language (DML)](#data-manipuation-language-dml)
+    - [Fungsi Aggregate](#fungsi-aggregate)
+    - [SubQuery](#subquery)
+  - [Concurency](#concurency)
+    - [Lost Update Problem](#lost-update-problem)
+    - [Uncommited Update Problem](#uncommited-update-problem)
+    - [Problem of Inconsistency analysis](#problem-of-inconsistency-analysis)
+  - [Locking](#locking)
+    - [Share(S)](#shares)
+    - [Exclusive (X)](#exclusive-x)
+  - [Time Stamping](#time-stamping)
+  - [Security](#security)
+    - [BEBERAPA MASALAH SECURITY SECARA UMUM](#beberapa-masalah-security-secara-umum)
+    - [DUA KATAGORI PENYALAHGUNAAN DATABASE](#dua-katagori-penyalahgunaan-database)
+    - [BEBERAPA TINGKATAN MASALAH SECURITY](#beberapa-tingkatan-masalah-security)
+- [Taksonomy dan Ontology Data](#taksonomy-dan-ontology-data)
+  - [Struktur Taksonomi](#struktur-taksonomi)
 - [Glosarium](#glosarium)
 
 # Kompetensi Pranata Komputer yang harus di capai
@@ -187,6 +253,16 @@
 - Mampu melakukan [pemasangan innfrastruktur](#pemasangan-perangkat-fisik-infrastruktur-ti)
 - Mampu melakukan [pemeliharaan infrastruktur](#pemeliharaan-infrastruktur-ti)
 - Mampu melakukan [pemantauan kinerja infrastruktur](#monitoringpengawasan-kinerja-infastruktur)
+- Mampu menyusun [strategi manajemen data]()
+- Mampu menyusun review kebijakan, standar, dan prosedur pengelollan data
+- mampu melakukan analisis kebutuhan informasi instansi
+- mampu menyusun arsitektur data, teknologi dan integrasi data
+- mampu melakukan monitoring dan penanganan masalah pengelolaan data
+- mampu memahami konsep data model, data mining, dan BI
+- mampu melakukan analisis kebutuhan data
+- mampu menyusun kebijakan dan standar keamanan data
+- mampu melakukan implementasi database
+- mampu melakukan pemeliharaan database
 
 # Konsep Manajemen Layanan TI
 
@@ -1273,9 +1349,799 @@ yang termasuk `kolom` dalam tabel matrik parameter teknis monitoring kerja adala
 
 - channel host adapter
 
+# Jaringan Komputer
+
+Jaringan komputer adalah `hubungan dua buah device ataupun lebih` yang `digunakan untuk berkomunikasi diantara device` tersebut
+
+## Komponen Pembentuk jaringan
+
+- End Device
+- Perangkat perantara jaringan
+- Media transmisi, bisa kabel atau wireless
+
+## Pemasangan Kabel UTP
+
+- Type Straight, putih oren, oren, putih ijo, biru, putih biru, ijo, putih coklat, coklat (T568B)
+- Type Cross, putih ijo, ijo, putih oren, biru, putih biru, oren, putih coklat, coklat (T568A)
+
+## Wireless
+
+Wireless memiliki kelebihan dibandingkan dengan
+media transmisi kabel, seperti devicenya dapat
+dibawa ke mana saja/mobile. Terdapat standart dan
+regulasi yang harus disepakati bersama agar wireless 
+teknologi dapat saling terkoneksi dan standarisasi ini
+distandarisasi dengan IEEE 802.11.
+- 802.11a
+- 802.11b
+- 802.11n/g
+
+## Jenis Jenis Jaringan Komputer
+
+| Network                     | Jarak (Meter)         | contoh       |
+| --------------------------- | --------------------- | ------------ |
+| Personal Area Network (PAN) | 1 s/d 10              | Ruangan      |
+| Local Area Network (LAN)    | 10 s/d 1000           | Gedung       |
+| Near Area Network           | 10 s/d 1000           | RT/RW        |
+| Campus Area Network         | 1000 s/d 10.000       | Universitas  |
+| Metropolitan Area Network   | 10.000 s/d 100.000    | Kota         |
+| Wide Area Network           | 100.000 s/d 1.000.000 | Negara       |
+| Internet                    | diatas 1 jt           | antar Negara |
+
+## IP Address
+
+`IP Address` merupakan alamat dari sebuah komputer yang di bentuk oleh sekumpulan bilangan biner sepanjang 32 bit, yang dibagi atas 4 bagian.
+
+IP Address merupakan sebuah identitas dari host pada jaringan komputer. `IP local` adalah IP address yang di gunakan untuk keperluan LAN/Intranet. `IP public` adalah IP Address yang digunakan untuk keperluan internet
+
+### Pembagian kelas IP Address
+
+| Class | Range Address | Subnet Mask         | Max. Client |
+| ----- | ------------- | ------------------- | ----------- |
+| A     | 0 - 126       | /8 (255.0.0.0)      | 16.777.214  |
+| B     | 128 - 191     | /16 (255.255.0.0)   | 65.534      |
+| C     | 192 - 223     | /24 (255.255.255.0) | 254         |
+
+### Struktur IP Address
+
+- Network dan Host
+- Subnet Mask
+- Panjang Prefix
+
+### IP Address Network dan Host
+
+```text
+** IP Address kelas A **
+
+NNNNNNNN.HHHHHHHH.HHHHHHHH.HHHHHHHH
+
+terdiri dari 8 bit network, 24 bit Host
+
+contoh : 10.12.11.2 maka network 10, host 12.11.2
+
+** IP Address kelas B **
+
+NNNNNNNN.NNNNNNNN.HHHHHHHH.HHHHHHHH
+
+terdiri dari 16 bit network, dan 16 bit host
+
+contoh:
+
+129.168.10.1 maka 129.168 sebagai network, 10.1 sebagai host
+
+** IP Address kelas C **
+
+NNNNNNNN.NNNNNNNN.NNNNNNNN.HHHHHHHH
+
+terdiri dari 24 bit network, 8 host
+
+```
+
+## Subnetting
+
+- Kelas A Netmask = 255.0.0.0 CIDR = /8
+- Kelas B Netmask = 255.255.0.0 CIDR = /16
+- Kelas B Netmask = 255.255.255.0 CIDR = /24
+
+```text
+/8 = 11111111.00000000.00000000.00000000
+/16 = 11111111.11111111.00000000.00000000
+/24 = 11111111.11111111.11111111.00000000
+```
+
+Penggunaan seubnetting dapat menentukan besarnya jumlah client yang dapat mengakses sebuah jaringan komputer
+
+> **Rumus menghitung Network**
+> `2 pangkat n`
+>
+> **Rumus menghitung Host**
+> `2 pangkat h -2`
+>
+> dimana `n` adalah jumlah network dan `h` adalah jumlah host
+
+contoh soal :
+
+```text
+192.168.10.1 /28
+
+berapa jumlah host dan networknya ?
+
+Kelas C dengan CIDR /28
+
+11111111.11111111.11111111.11110000
+
+N = 2 pangkat n
+  = 2 pangkat 4 = 16 Network
+
+H = 2 pangkat h - 2 
+  = 2 pangkat 4 - 2 = 14 host
+```
+
+## Perangkat Jaringan
+
+### HUB
+
+perangkat perantara dalam jaringan LAN yang sangat kecil. peran HUB sudah digantikan oleh switch
+
+### Switch
+
+Perangkat switch dapat membagi beberapa segmen collision domain dan menyediakan keamanan yang lebih baik.
+
+Switch berfungsi sebagai pembuat keputusan berdasarkan destination port
+
+### Hirarki Switch
+
+#### 1. Access Layer Switch
+
+bertujuan untuk memudahkan koneksi end devices dalam fitur jaringan. beberapa fiturnya :
+
+- Port Security
+- VLAN
+
+#### 2. Distribution Layer Switch
+
+menerima data dari Access Layer Switch dan akan meneruskannya ke Core Layer Switch fiturnya adalah :
+
+- Mendukung Layer 3
+- High Forward
+- Access Control List
+- redundant
+
+#### 3. Core Layer Switch
+
+bertanggung jawab untuk menangani sebagian besar jaringan LAN, fiturnya :
+
+- Mendukung Layer 3
+- Very High Forward
+- Access Control List
+- redundant
+
+#### ROUTER
+
+Router sering digunakan untuk menghubungkan beberapa network yang berbeda. Router merupakan perangkat utama yang digunakan untuk menghubungkan jaringan LAN, WAN dan WLAN
+
+## Topologi Jaringan
+
+Topologi jaringan adalah suatu teknik untuk menghubungkan komputer yang satu dengan komputer lainnya yang merangkai menjadi sebuah jaringan
+
+setiap topologi jaringan kompuetr memiliki perbedaan dari segi :
+
+1. berbeda dari segi kecepatan pengiriman data
+2. biaya pembuatan
+3. kemudahan dalam proses maintenance
+
+## Klasifikasi Topologi Jaringan
+
+### Physical Topologi
+
+topologi yang menggambarkan penempatan node jaringan dan koneksi fisik di antara jaringan komputer
+
+### Logical Topologi
+
+topologi yang menggambrkan jalur yang di lewati oleh sebuah paket data saat melalui jaringan dan di atur oleh protokol
+
+### Signal Topologi
+
+Menggambarkan jalur yang dilalui suatu sinyal disaat mereka melintasi jaringan.
+
+## Jenis Jenis Topologi Jaringan
+
+### Topologi Ring
+
+Perangkat terhubung secara melingkar
+
+Kelebihan : data mengalir dalam arah tertentu, mengurangi tabrakan data
+
+Kekurangan : jika salah satu perangkat rusak, jaringan terputus
+
+### Topologi Dual Ring
+
+mekanisme sama seperti topologi ring, tetapi ada satu ring lagi yang berfungsi sebagai backup transmision jika salah satu node tidak berfungsi
+
+kelebihan : mempunyai satu ring sebagai backup
+
+kekurangan : boros penggunaan kabel, suliit mengatur arah data agar tidak terjadi collison
+
+### Topologi BUS
+
+semua perangkat terhubung dalam 1 kabel utama
+
+kelebihan : biaya rendah, mudah di implementasikan
+
+kekurangan : jika kabel utama rusak, jaringan berhenti bekerja
+
+### Topologi Star
+
+Semua perangkat terhubung ke pusat seperti switch
+
+kelebihan : jika satu perangkat rusak, yang lain tetap bekerja normal
+
+kekurangan : jika perangkat pusat rusak, seluruh jaringan terganggu
+
+### Topologi Mash
+
+seluruh perangkat jaringan saling terhubung langsung
+
+kelebihan : sangat andal, tidak ada titik kegagalan
+
+kekurangan : kompleks dan mahal
+
+### Topologi Tree
+
+Metode menghubungkan jaringan dalam struktur hirarki seperti pohon.
+
+kelebihan : pengaturan data lebih mudah, mudah di kembangkan menjadi jaringan yang lebih luas
+
+kekurangan : sangat bertumpu pada node utama
+
+### Topologi Hybrid
+
+topologi yang tersusun atas beberapa kombinasi topologi jaringan, seperti star, bus, mash, ring
+
+kelebihan : flexibel, kinerja stabil, toleransi keslahan tinggi
+
+kekurangan : biaya pengadaan mahal, pengelolaan yang kompleks
+
+## 7 Layer OSI
+
+| Layer | Name         | Example                  | Protocols               | DOD4     |
+| ----- | ------------ | ------------------------ | ----------------------- | -------- |
+| 7     | Application  | End User Layer           | User Application (SMTP) | Process  |
+| 6     | Presentation | Sytax Layer              | JPEG, ASCII             | Process  |
+| 5     | Session      | Logical Ports            | RPC,NFS,SQL             | process  |
+| 4     | Transport    | TCP, Packet FIltering    | TCP,SPX,UDP             | H2H      |
+| 3     | Network      | Packet, packet filtering | IP,IPX                  | internet |
+| 2     | Data Link    | Frames, MAC address      | switch, bridge, wap     | network  |
+| 1     | physical     | Physical structure       | cables,hub              | network  |
+
+### Physical Layer
+
+untuk menghubungkan kelapisan data link
+
+### Data Link Layer
+
+LLC berkomunikasi dengan lapisan jaringan, MAC mendefinisikan media akses proses, standar data link layer `IEEE`,`ITU`,`ISO`,`ANSI`
+
+### Network Layer
+
+berisi IP address IPv4 dan IPv6
+
+### Transport Layer
+
+fungsi :
+
+- Memberikan dukungan aliran data
+- membangun komunikasi antara dua aplikasi, dan memberikan data di antara mereka
+
+TCP biasa adigunakan untuk :
+
+- Database
+- Web Browser
+- Mail
+
+UDP untuk :
+
+- Live Audio
+- Video Streaming
+- VOIP
+
+### Presentation and Session Layer
+
+- Format data, kompres dan mengenkripsi data
+- Umumnya digunakan untuk video termasuk QuickTime 
+dan Motion Picture Experts Group (MPEG).
+- Format gambar grafis umum adalah: GIF, JPEG dan PNG
+- Session Layer menciptakan dan mempertahankan dialog 
+antara sumber dan tujuan aplikasi.
+
+### Applcation Layer
+
+- Lapisan yang paling dekat kepada pengguna.
+- Yang termasuk Protokol Application Layer adalah: HTTP, FTP, TFTP, DNS.
+
+## Routing Protocol
+
+- `OSPF` Open Shortext Path First , berdasarkan bandwith kumulatif dari sumber tujuan
+- `RIP` Routing Information Protocol
+- `EIGRP`, Enchanced Interior Gateway Routing Protocol 
+
 # Pengelolaan Data
 
+Pengelolaan data merupakan pengembangan, pelaksanaan dan pengawasan rencana, kebijakan, program dan praktik yang akan bertujuan untuk menghasilkan, mengendalikan , melindungi, dan meningkatkan nilai aset data dan informasi selama siklus hidupnya.
 
+# Strategi Manajemen Data
+
+## Pengertian Manajemen data
+
+adalah kegiatan pengorganisasian data agar mendapatkan manfaat yang maksimal dari data tersebut
+
+### Manfaat dari Manajemen Data
+
+- `Peningkatan produktivitas secara keseluruhan`, dengan mendapatkan informasi yang diperlukan lebih mudah
+- `dapat menghemat biaya`, karena terhindar dari duplikasi data yang tidak perlu
+- `Mampu merespon perubahan dengan lebih cepat`, karena data yang terorganisir memungkinkan memperoleh informasi penting lebih cepat dan respon yang tepat
+- peningkatan akurasi keputusan
+
+## Pengertian Strategi data
+
+strategi adalah `seperangkat pilihan dan keputusan` yang `diambil` setelah `terjadi proses pemetaan permasalahan` dan alternatif solusi untuk mencapai tujuan.
+
+strategi data harus mencakup rencana pemanfaatan informasi untuk pengambilan keputusan stategis.
+
+## Komponen manajemen data
+
+`DAMA` atau `Data Management Association` mendefinisikan beberapa bidang pengetahuan yang termasuk dalam strategi manajemen data yaitu :
+
+- `Arsitektur data`, adalah `bagaimana menyelaraskan teknolgi dengan tujuan bisnis`, aktor yang membuuat hal tersebut adalah `arsitek data`.
+- `Pemodelan data`, yaitu `menciptakan entity data` yang berguna, tugas tersebut di kelola pemodel data / data scientist
+- `Administrator database`, menjaga ketersediaan data
+- `Integrasi dan Interoperabilitas data`, menggabungkan dan memvisualisasi data, dapat dilakukan oleh arsitek data, perekayasa data, dan developer Extract Transform Load (ETL)
+- `Analis data dan kecerdasan bisnis`, menarik wawasan dari data, biasanya dilakukan oleh data analis, analis bisnis intelegence , data scientist, dan analis pemasaran
+- `Manajemen kualitas data`, menjaga kualitas data, biasa dilakukan oleh perkayasa kualitas data
+- `Keamanan data`, mencegah akses yang tidak diinginkan terhadap data, biasa di lakukan oleh administator database.
+- `Tata kelola data dan manajemen data`, memastikan penggunaan informasi yang konsisten dan efisien
+
+## Menyusun dan Mengelola strategi Manajemen Data
+
+`Menyusun strategi manajemen data` adalah melakukan kegiatan penyusunan rencana strategis terkait manajemen data untuk menghasilkan sebuah rancangan (`blueprint`) yang membantu mengubah visi menjadi tindakan nantinya.
+
+`Mengelola strategi manajemen data` yaitu melakukan pemeliharaan dan penyesuaian terhadap strategi manajemen data yang sudah di susun sebelumnya sesai dengan kebutuhan instansi.
+
+## Langkah - Langkah dalam pengelolaan data
+
+### Menyesuaikan strategi pengelolaan data dengan sasaran bisnis
+
+1. Buat garis besar tujuan yang ingin di capai
+2. pahami apa yang harus di lakukan dengan informasi tersebut
+3. beri peringkat pada prioritas data untuk mendapatkan wawasan yang tepat
+
+### Menentukan siapa yang terlibat dalam kegiatan manajemen dan apa perannya
+
+secara umum, professional manajemen data melibatkan beberapa tugas dan keahlian tertentu, diantaranya arsitectur data, pemodel data, administrator database, database developer, analis, QA data developer, pengembang integrasi data, manajer tata kelola data dan perekayasa data
+
+### Memastikan aksebilitas data
+
+pastikkan hanya mereka yang memiliki izin yang bisa mengakses data
+
+### Mendokumetasikan setiap kegiatan pengelolaan data
+
+Dengan memiliki dokumentasi manajemen data, kedepannya informasi dapat dibagi dengan orang lain, dan keahlian ynag dimiliki sama dalam bidang data.
+
+## Output dari Strategi Manajemen data
+
+- `Kerangka Manajemen data`, dokumen ini memuat visi keseluruhan, kasus bisnis, tujuan, prinsip paduan, ukuran keberhasilan, resiko dan model operasi
+- `Pernyataan lingkup manajemen data`, sasaran yang disusun untuk mencapai misi dalam periode tertentu yang biasanya 3 tahun
+- `Peta Implementasi Manajemen data`, Mengidentifikasi program, proyek penugasan,ukuran keberhasilan dan pencapaian pada setiap tahapan
+
+# Kebijakan Data
+
+`Kebijakan data` berisi `seperangkat aturan, prinsip, dan pedoman` yang `berfungsi sebagai kerangka kerja` `untuk` berbagai `bidang manajemen data`.
+
+Kebijakan tata kelola data diisusun berdasarkan :
+
+- Kerangka kerja kebijakan yang dirancang oleh pemangku kepentingan untuk menguraikan bagaimana data akan diperlukan
+- rencana implementasi yang dapat di tindaklanjuti, yang mendefinisikan alat dan teknologi, peran serta dan tanggung jawab pemangku kepentingan data
+- komitmen terhadap penilaian berkelanjutan atas kebijakan dan rencana tercapainya tujuan institusi
+
+## Langkah langkah menyusun kebijakan data
+
+- `Komunikasikan nilai tata kelola data secara internal` kepada pemangku kepentingan
+- `bangun tim tata kelola data`, terdiri dari tim internal dan lintas departemen
+- `tentukan peran dan tanggung jawab dalam pengelolaan data`. gunakan `bagan RACI` untuk membantu memetakan siapa yang perlu bertanggung jawab, siapa yang harus melakukan aksi, untuk mendapat informasi wawasan tentang data
+- Tetapkan kebutuhan dan tujuan user, bisa di lakukan dengan wawancara
+- rancang dokumen kebijakan dan minta pemangku kepentingan utama untuk meninjau
+- Koordinasikan kebijakan tersebut kepada seluruh pemangku kepentingan
+- Tetapkan matrik kinerja dan cara untuk memantau kepatuhan terhadap kebijakan
+- tinjau kinerja secara teratur dengan tim tata kelola data
+
+## Faktor dalam pengembangan kebijakan tata kelola data
+
+- `Tujuan` menyeluruh untuk setiap area
+- Tentukan peran setiap `SDM` terkait data , identifikasi pengelola data, pemilik data, dan tim operasional. `gunakan bagan RACI` untuk bagian ini
+- `Inventarisasi` dan dokumentasikan semua sumber data.
+- `Manajemen konten data` dengan mengidentifikasi tujuan pengumpulan data
+- `Manajemen catatan data`
+- `kualitas data`, harus ada pengelola data yang rutin melakukan audit untuk memastikan kualitas.
+- `Akses data`
+- `Keamanan data`, tentukan kebijakan keamanan data.
+
+# Standar Data dan Meta data
+
+## Standar Data
+
+Standar data membuat data memiliki nilai dan lebih dapat dilakukan integrasi informasi. `Standar data` adalah `kesepakatan terdokumentasi` tentang `representasi`, `format`, `definisi`, `penataan`, `penandaan`, `transmisi`, `manipulasi`, `penggunaan`, dan `pengelolaan data`.
+
+standar data `memungkinkan pengguanaan kembali elemen data` dan meta datanya `untuk mengurangi redudansi ( pengulangan data)` antar sistem, sehingga `meningkatkan kehandalan dan mengurangi biaya`.
+
+Jika `kebijakan data` `memandu apa yang boleh dan tidak boleh di lakukan` terkait data, maka `standar data` adalah `aturan yang lebih rinci` tentang `bagaimana melakukannya`. contoh standar data penamaan.
+
+## Meta Data
+
+Meta data adalah `ringkasan dan deskripsi` tentang `data` yang `digunakan untuk mengklasifikasi`, `mengatur`, `memberi label`, dan m`emahami data` `membuat` `pengurutan dan pencarian data` `lebih mudah`. contoh : untuk mencari arsip dalam format, audio, dan gambar lebih mudah karena meta data nya berbeda.
+
+## Tahapan penyusunan standar Meta data
+
+- `Mengkaji` best practice / `standar metadata` `yang` `menjadi acuan`
+-` Mendokumentasikan` `standar meta data` yang direkomendasikan untuk di terapkan
+- `Melakukan analisis` terkait `proses adaptasi dan adopsi` dari `standar metadata` yang direkomendasikan
+- `mengidentifikasi standar baku` (format, struktur metadata, penamaan, klasifikasi, penentuan atribut informasi)
+
+## Prosedur pengelolaan data
+
+Prosedur pengelolaan data menunjukan aktivitas/proses yang dilakukan oleh peran-peran di institusi serta masukan dan keluaran dari setiap aktivitas/proses pengelolaan data
+
+Prosedur pengelolaan data adalah `metode`, `teknik`, dan `langkah terdokumentasi` `yang dapat diikuti` `untuk menyelesaikan aktivitas spesifik dengan hasil tertentu` dan artefak pendukungnya.
+
+Prosedur pengelolaan data meliputi :
+
+- memahami proses bisnis, nilai, tingkat keamanan dan resiko kumpulan data
+- pemantauan kualitas data
+- kepatuhan terhadap kebijakan, prosedur, dan pedoman untuk memastikan kualitas dan keamanan data tetap terjaga
+
+# Pengelolaan Kebutuhan Informasi
+
+## Fase siklus hidup data
+
+terdapat 7 fase siklus hidup data(DAMA-DMBOK 2nd) :
+
+- perencanaan (plan)
+- perancangan (design & enable)
+- Pembuatan (create/obtain)
+- penyimpanan (store/maintain)
+- penggunaan (use)
+- peningkatan ( enchance)
+- pemusnahan (dispose of)
+
+dan dalam sumber lain ada 6 fase siklus data (COBIT - Enabling information) :
+
+- Perencanaan (Plan)
+- perancangan (Design)
+- Pembuatan (build/acquire)
+- penggunaan (use/operate)
+- Pengawasan (monitoring)
+- pemusnahan (dispose)
+
+## Analisis kebutuhan Informasi
+
+Empat aktivitas utama dalam analisis kebutuhan informasi :
+
+1. Identifikasi kebutuhan informasi, menghasilkan daftar kebutuhan informasi
+2. pengecekan ketersediaan informasi, menghasilkan hasil pengecekan ketersediaan
+3. Inventarisasi kandidat sumber informasi, menghasilkan daftar sumber informasi
+4. Mengusulkan kegiatan yang dapat memenuhi kebutuhan informasi, menghasilkan daftar usulan kegiatan
+
+## Validasi Kebutuhan Informasi
+
+ada tiga aktivitas utama dalam validasi informasi :
+
+1. Menyusun prosedur pengujian validasi kebutuhan informasi, menghasilkan dokumen prosedur pengujian
+2. Melakukan evaluasi hasil pengujian prosedur validasi kebutuhan informasi, menghasilkan dokumen hasil validasi prosedur
+3. melakukan validasi kebutuhan informasi, menghasilkan dokumen hasil validasi kebutuhan informasi
+
+Validasi bertujuan untuk mengecek kebenaran atau ketepatan informasi yang dibutuhkan berdasarkan aturan aturan pengecekan yang sudah di tetapkan
+
+## Pengumpulan informasi
+
+4 aktivitas utama dalam pengumpulan informasi :
+
+1. Mengkaji `best practice`
+2. Mendokumentasikan cakupan kebutuhan informasi, menghasilkan daftar dan cakupan kebutuhan informasi
+3. Mendokumentasikan poin-poin ang harus ada pada sumber informasi, menghasilkan poin-poin penting yang harus terdapat pada sumber informasi.
+4. melaksanakan pengumpulan informasi
+
+## Klasifikasi Aset Informasi
+
+Klasifiksi aset informasi
+
+| No  | Level | Klasifikasi Informasi |
+| --- | ----- | --------------------- |
+| 1   | Tiga  | tertutup              |
+|     |       | terbatas              |
+|     |       | terbuka               |
+| 2   | empat | rahasia               |
+|     |       | terbatas              |
+|     |       | penggunaan internal   |
+|     |       | publik                |
+| 3   | empat | Sangat Rahasia        |
+|     |       | Rahasia               |
+|     |       | terbatas              |
+|     |       | publik                |
+
+# Arsitektur data dan Integrasi data
+
+Berdasarkan Enterprise Architecture (EA) terdapat empat arsitektur utama yaitu, bisnis, data, aplikasi, teknologi.
+
+## Arsitektur Data
+
+output dari arsitektur data meliputi gambaran terkait kondisi saat ini dari kebutuhan data. arsitektur data menjembatani antara strategi bisnis dengan teknologi yang akan di implementasikan.
+
+langkah dalam membuat arsitektur data :
+
+- Mengkaji domain bisnis, aplikasi dan teknologi
+- mengidentifikasi jenis dari data yang di kumpulkan
+- identifikasi atribut dan parameter dari objek data
+- Menggambarkan arsitektur data
+- mendokumentasikan arsitektur data
+
+## Arsitektur Integrasi data
+
+Integrasi data merupakan proses konsolidasi data di dalam antar repositori data, aplikasi dan organisasi. `untuk integrasi kita bisa menggunakan ETL (Extract Transfoem Load) tool untuk mengkonversi ke format dan struktur standar.`
+
+## Arsitektur teknologi data
+
+Arsitektur teknologi data berkaitan dengan hubungan antar komponen arsitektur teknologi dengan komponen arsitektur aplikasi baik perangkat keras maupun perangkat lunak.
+
+Arsitektur teknologi data akan lebih banyak menggambarkan server, network, workstation. 
+
+# Implemntasi data model, data mining, business Intelegence
+
+Perancangan model berfungsi untuk menggambarkan relasi antar data yang ada di organisasi.
+
+## Model data
+
+Permodelan data merupakan proses untuk mengidentifikasi dan dokumentasi relasi antar entitas. skema yang sering kali digunakan yaitu `relational`, `dimensional`, `object-oriented`, `fact-based`, `time-based`,` no SQL`. Level skema yang digunakan terdiri dari tiga yaitu, `conceptual`, `logical`, `physical`.
+
+### Komponen Model Data
+
+1. `Entity`, yaitu suatu tabel atau kumpulan data, misal entity student berarti memuat kumpulan data student
+2. `Relationship`, hubungan antar data, biasanya entity mempunyai `kardinalitas`, `one to many`, `one to one`, `many to many`
+3. `Foreign Key`, menunjukan bahwa antar entity terdapat relasi atau dependency. `foreign key` biasanya di gunakan pemodelan level `Physical` dan `logical`.
+4. Attribut, daftar data yang terdapat pada entity
+
+### Level detil dari Model Data
+
+- `Conceptual Data Model (CDM)`, merupakan konsep yang berkaitan dengan pandangan pemakai terhadap data yang disimpan dalam database. biasanya CDM dibuat dalam `bentuk tabel tanpa tipe data`, hanya untuk menggambarkan relasi antar tabel
+- `Logical`, perlu menambahkan atribut
+- `Physical`, gambaran dari relasi beserta tipe datanya.
+
+## Data Mining
+
+Fungsi utama data mining secara `deskriptif` yaitu `untuk mengetahui karakeristik dari data`, sedangkan secara `prediktif` yaitu `untuk menemukan pola tertentu dari suatu data untuk memprediksi nilai` dari suatu `variabel`.
+
+metode data mining :
+
+- Estimation : `Linear Regression`,`Neural Network`,`Deep Learning`,`Support Vector Machine`,`Generalized Linear Model`
+- Forecasting : `Regression`,`Neural Network`,`Deep Learning`,`Support Vector Machine`,`Generalized Linear Model`
+- Clasification : `Decision Tree`,`Naie Bayes`,`K-Nearest Neighbor`,`Linear Discriminant Analysis`,`Logistic Regression`
+- Clustering : `K-Means`,`Fuzzy C-Means`,`K-Medoids`
+- Association : `FP-Growth`,`A Priori`,`Chi Square`,`Coefficient of Correlation`
+
+## Business Intelligence
+
+Istilah Business Intellegence, merujuk pada tipe analisis data yang bertujuan untuk meningkatkan peluang untuk memperoleh insight baru.
+
+# Keamanan Data
+
+Tiga aspek keamanan data atau CIA TRIAD yaitu :
+
+- `Confidentiality` (kerahasiaan data)
+- `Integrity` (Keutuhan data)
+- `Availability` (ketersediaan data)
+
+berdasarkan undang-undang Nomor 11 tahun 2008 tentang Informasi dan transaksi elektronik di tuntut untuk menyediakan sistem elektronik untuk pelayanan publik yang andal dan aman yang mengacu pada SNI ISO/IEC 27001:2009
+
+Standar Industri acuan untuk keamanan data :
+
+- ISO/IEC 27001 (Information technology - security techniques - Information security management system - requirements)
+- ISO/IEC 27002 (Information technology - security techniques - code of practice for information security management)
+- ISO/IEC 27005 (BS7799-3:2006) (Risk Management System)
+
+
+# DBMS
+
+Basis data adalah media untuk menyimpan data agar dapat di akses dengan mudah dan cepat. sedangkan DBMS (*Database Management System*) adalah suatu sistem aplikasi yang digunakan untuk menyimpan mengelola dan menampilkan data.
+
+## Komponen Basis data
+
+- `Hardware`
+- `Software`
+- `Data` , yang menjadi jembatan antara manusia dengan mesin
+- `Prosedur`, aturan yang mengatur penggunaan basis data
+- `People`, sebagai user yang menggunakan basis data
+
+## Komponen penyusun basis data
+
+- Tabel, Entity
+- Kolom/Atribut
+- Baris/Tuple
+- Domain
+
+## Integrity Constraints
+
+- `Null`, Nilai pada suatu kolom (tuple) masih belum diketahui, Primary key tidak bisa null
+- `Entity Integrity`, adalah suatu batasan yang menyatakan kolom primary key tidak boleh menyimpan null
+- `Referential Integrity`, kolom primary key harus sesuai dengan candidate key
+- `general constraints`, batasan/aturan tambahan yang di tetapkan pemakai atau administrator
+
+## Entity
+
+- Strong entity, entity yang kunci nya menjadi foreign key di table lain
+- weak entity , entity yang bergantung kepada entity lain simbol double persegi panjang
+
+## Attribute
+
+- `Primary key`, atribut unique biasanya ditandai garis bawah
+- `atribut simpel`, atribut yang bernilai tunggal
+- `atribut multi value`, yaitu atribut yang memiliki banyak nilai, biasanya ditandai dengan oval di dalam oval
+- `atribut composit`, suatu atribut yang terdiri dari atribut yang lebih kecil
+- `atribut derivatif`, suatu atribut yang dihasilkan dari atribut lain
+
+## Normalisasi database
+
+Normalisasi adalah proses pengelompokan elemen data menjadi tabel tabel yang menunjukkan entity dan relasinya.
+
+Struktur yang baik atau `well structure` adalah struktur yang jumlah pengulangan data nya sedikit di relasinya (*minimum amount of redudancy*)
+
+### Keuntungan Normalisasi database
+
+- Meminimalkan resiko inkosistensi data
+- meminimalkan anomali dalam pembaharuan data
+- memaksimalkan stabilitas struktur data
+
+### Aturan Normalisasi
+
+- `Bentuk normal`, Suatu aturan yang dikenakan pada relasi basis data, dan harus dipenuhi oleh relasi tersebut pada tahap normalisasi
+- `Bentuk tidak normal` (*Unnormalized*), adalah bentuk tabel yang belum ternormalisasi
+- `Bentuk Normal 1NF`, jika setiap atribut hanya bernilai tunggal, `tidak ada perulangan` (Menghilangkan perulangan)
+- `Bentuk Normal 2NF`, foreign key memiliki depedensi terhadap primary key (Depedensi fungsional). `Menghilangkan ketergantungan partial`
+- `Bentuk Normal 3NF`, `menghilangkan ketergantungan Transitif` (dalam satu tabel memiliki 2 foreign key)
+- `Bentuk Normal Boyce-codd (BCNF)`, jika semua penentu (determinan) adalah `candidate key` / Atribut yang bersifat unique. `menghilangkan candidate key yang bukan penentu (determinan)`
+- `Bentuk Normal 4NF`, menghilangkan `ketergantungan multi value yang bukan dependancy functional`
+- `Bentuk Normal 5NF`, menghilangkan ketergantuangan join yang bukan candidate key
+
+## Bahasa Query SQL
+
+SQL merupakan bahasa yang digunakan untuk berinteraksi dengan DBMS. SQL dibagi menjadi dua bagian yaitu
+
+### Data Definition Language (DDL)
+
+query yang digunakan untuk mendefinisikan struktur atau skema basis data. diantaranya :
+
+- `CREATE` diantaranya `DATABASE`,`TABEL`,`INDEX`,`VIEW` biasa digunakan untuk membuat sesuatu
+- `DROP` diantaranya `DATABASE`,`TABEL`,`INDEX`, `VIEW` digunakan untuk menghapus
+- `ALTER TABLE` digunakan untuk mengubah struktur tabel
+
+### Data Manipuation Language (DML)
+
+Query yang digunakan untuk memanipulasi data di DBMS, diantaranya :
+
+- `CRUD`, menggunakan `INSERT INTO`, `UPDATE`, `DELETE`, `SELECT`
+- `Data Access`, menggunakan `GRANT`, `REVOKE`
+- `Data Integrity`, menggunakan `RECOVER TABLE`
+- `Auxiliary` menggunakan `SELECT INTO OUTFILE`,`LOAD`,`RENAME TABLE`
+- `JOIN`, menggabungkan dua tabel yang data nya sesuai (Inner JOIN), record pada tabel sebelah kiri (LEFT JOIN), sebelah kanan (RIGHT JOIN)
+
+### Fungsi Aggregate
+
+- `COUNT` untuk menghitung jumlah record
+- `SUM` untuk menghitung total dari kolom yang mempunyai tipe data numerik
+- `AVG` untuk menghitung rata rata dari data data dalam sebuah kolom
+- `MIN` digunakan untuk menghitung nilai minimal
+- `MAX` digunakan untuk menghitung niali maximal
+
+### SubQuery
+
+adalah `subselect` yang dapat digunakan di clausa `WHERE` dan `HAVING`
+
+```text
+Ambil nilai kode matakuliah, mid dan final dari mahasiswa
+yang tinggal di jakarta.
+SELECT KD_MK, MID, FINAL FROM NILAI WHERE NIM
+IN(SELECT NIM FROM MAHASISWA WHERE ALAMAT =
+‘Jakarta’)
+```
+
+## Concurency
+
+ada 3 masalah yang disebabkan *concurency* yaitu :
+
+### Lost Update Problem
+
+masalah kehilangan update, hal ini terjadi karena dua transaksi mengakses item database yang sama yang mengakibatkan update menghilang dan nilai database menjadi tidak benar
+
+### Uncommited Update Problem
+
+masalah timbul jika transaksi membaca suatu record yang sudah di modifikasi oleh transaksi lain tetapi belum diselesaikan (uncomitted) terdapat kemungkinan di batalkan atau `rollback`
+
+### Problem of Inconsistency analysis
+
+Masalah ini timbul jika sebuah transaksi membaca suatu nilai tetapi transaksi yang kedua mengupdate beberapa nilai tersebut.
+
+## Locking
+
+adalah salah satu metode pengontrol concurency, locking berfungsi agar tidak dimodifikasi oleh transaksi lain.
+
+### Share(S)
+
+kunci ini memungkinkan pengguna dan pengguna lain dapat membaca tetapi tidak dapat mengubah.
+
+### Exclusive (X)
+
+Kunci ini memungkinkan pengguna untuk membaca dan
+mengubah record.
+
+## Time Stamping
+
+Adalah salah satu alternatif mekanisme kontrol
+konkurensi yang dapat menghilangkan masalah dead
+lock
+
+Dua masalah yang timbul pada Timestamping :
+1. Suatu transaksi memerintahkan untuk membaca
+sebuah item yang sudah di update oleh transaksi yang
+belakangan.
+2. Suatu transaksi memerintahkan untuk menulis sebuah
+item yan nilainya sudah dibaca atau ditulis oleh
+transaksi yang belakanga
+
+## Security
+
+SECURITY adalah suatu proteksi data terhadap
+perusakan data dan pemakaian oleh pemakai yang
+tidak mempunyai ijin.
+
+### BEBERAPA MASALAH SECURITY SECARA UMUM
+
+1. Di dalam suatu perusahaan siapa yang diijinkan untuk
+mengakses suatu sistem
+2. Bila sistem tersebut menggunakan password,
+bagaimana kerahasian dari password tersebut dan
+berapa lama password tersebut harus diganti
+3. Di dalam pengontrolan hardware, apakah ada proteksi
+untuk penyimpanan data (data storage)
+
+### DUA KATAGORI PENYALAHGUNAAN DATABASE
+
+1. Katagori yang tidak disengaja
+Contoh: Anomali yang disebabkan oleh pendistribusian data
+pada beberapa komputer
+2. Katagori yang disengaja
+Contoh: Insert, Delete & Update oleh pihak yang tidak
+berwenang
+
+### BEBERAPA TINGKATAN MASALAH SECURITY
+
+1. Phisical, berkaitan dengan pengamanan lokasi fisik database
+2. Man, berkaitan dengan wewenang user
+3. Sistem operasi, berkaitan dengan kemanan sistem operasi
+yang digunakan dalam jaringan
+4. Sistem database, sistem dapat mengatur hak akses user
+
+# Taksonomy dan Ontology Data
+
+`Taksonomi` adlah struktur penamaan yang berisi *controlled vocabulary* yang digunakan untuk menguraikan topik dan mengaktifkan sistem navigasi dan pencarian
+
+`Controlled Vocabulary` adalah daftar istilah yang di izinkan secara eksplisit digunakan untuk mengindex, mengkategorikan, menandai, menyortir, dan mengambil konten melalui penelusuran dan pencarian.
+
+Taksonomi digunakan untuk klasifikasi atau organisasi data, sedangkan ontologi di gunakan untuk pemodelan dan penalaran pengetahuan yang lebih canggih
+
+## Struktur Taksonomi
+
+- `Flat Taxonomy`, `tidak memiliki hubungan` di antara kumpulan kategori yang di kontrol
+- `Hierarchical Taxonomy`, `seperti struktur pohon` yang dimana simpul dihubungkan oleh aturan. semakin kebawah akan semakin memperjelas kategori. contoh geografi dari benua hingga jalan.
+- `Poly Hierarchy Taksonomy`, `struktur pohon yang lebih dari satu aturan` dalam relasi simpul
+  - `Facet Taxonomy`, `tampak seperti bintang` dimana setiap simpul dihubungkan ke simpul pusat. contoh judul dan pembuat judul merupakan bagian dari konten
+  - `Network Taxonomy` , `menggunakan struktur hierarchial dan facet`. contoh mesin pemberi rekomendasi.
 
 # Glosarium
 
@@ -1284,3 +2150,10 @@ yang termasuk `kolom` dalam tabel matrik parameter teknis monitoring kerja adala
 - `SAP` (*System Application and Product in Data Processing*) adalah software yang membantu perusahaan mengelola aspek bisnis dan operasionalnya
 - `ERP` (*Enterprise Resource Planning*) adalah software yang mengintegrasikan dan mengelola proses bisnis perusahaan
 - `Seri 360` merupakan seri dari mainframe dan komputer mini yang menyediakan time sharing, multitasking dan memori virtual
+- `RBAC` Role Based Access Control yaitu mekanisme control terhadap akses pengguna terkait pemberian izin atau larangan ketika akan mengakses data atau sistem
+- `DHCP` Dynamic Host Configuration Protocol , memungkinkan untuk memberikan IP address secara otomatis
+- `TCP/IP` Transfer Control Protocol/Internet Protocol, adalah untuk mengatur bagaimana data dibagi menjadi paket paket kecil dan dikirimkan ke jaringan
+- `FTP` File Transfer Protocol, untuk mentransfer File
+- `SMTP` Simple Mail Transfer Protocol, mengirim email dari client ke server
+- `POP3/IMAC` Post Office Protocol/Internet Message Access Protocol, POP3 mengunduh pesan ke peerangkat (Server ke client), IMAP mengakses pesan langasung dari server
+- `DNS` Domain Name System
